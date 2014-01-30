@@ -1,1 +1,3 @@
 Title: News
+
+Home page.
