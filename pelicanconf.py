@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = u'FOSS@RIT'
 SITENAME = u'foss@rit'
 SITEURL = ''
-PLUGINS = ["plugins.github_activity", "plugins.gravatar"]
-
+#PLUGINS = ["plugins.github_activity", "plugins.gravatar"]
+PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
@@ -15,6 +15,7 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+PROFILE_IMG_URL = "http://foss.rit.edu/files/logo.png"
 
 # Github Activity Feed to display
 GITHUB_ACTIVITY_FEED = 'https://github.com/fossrit.atom'
@@ -26,11 +27,13 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('github', 'https://github.com/fossrit'),
+    ('twitter-square', 'https://twitter.com/fossrit'),
+)
 
 DEFAULT_PAGINATION = 10
-THEME = "themes/pure"
+THEME = "themes/foss"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

@@ -6,8 +6,7 @@ Tags: legacy, foss@rit
 Category: legacy
 Summary: #  Visualizing Data, Rearchitecting Stacks, and Translating Music at ... 
 
-#  Visualizing Data, Rearchitecting Stacks, and Translating Music at
-HackUpstate
+Visualizing Data, Rearchitecting Stacks, and Translating Music at HackUpstate
 
 ![](http://foss.rit.edu/files/hugrouppic-crop.png)
 
