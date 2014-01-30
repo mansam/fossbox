@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Week Four Recap!!!!</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/ramstush-week-four-recap.html" rel="bookmark"
+           title="Permalink to Week Four Recap!!!!">Week Four Recap!!!!</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2013-06-24T10:34:00">
+                Mon 24 June 2013
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/ramstush.html">ramstush</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>This week was another long haul on the road to research. My goal for the whole
+week was to figure out how to get our activity, Lemonade Stand, to create a
+journal entry. Since I did know anything regarding the journal, I spent the
+majority of the week learning how the OLPC journal worked and what I needed to
+change or implement into our activity that would make it work.</p>
+<p>I started by using my most valuable resource, #sugar , and learned that the
+journal uses datastore to make its entries. <a href="http://wiki.laptop.org/go/Sugar.datastore.datastore">This
+website</a> helped me
+understand what a datastore is in a nutshell. A datastore, in my
+understanding, is simply a place where datastore objects are stored. Its a
+database. The way the process works, is that an activity makes a datastore
+object with some information. This object is then sent to the sugar datastore
+where it rests. The journal then grabs that object, takes the information it
+needs and creates the entry.</p>
+<p>After some more powwowing with #sugar, I found out that the activity doesn't
+need to implicitly create a datastore object because the journal can make
+entries with just metadata it shaves off of the activity that was run. This
+information saved me a ton of trouble.</p>
+<p>I tested this theory with the activity that I made in my Humanitarian Free and
+Open Source Software and found that the journal did indeed make an entry. I
+then tested Lemonade Stand, and found that it didn't make an entry. Over the
+next three day's I committed myself to finding out why SkyTime worked and
+Lemonade Stand didn't.</p>
+<p>Finally I came in contact with previous surf member who designed the Fortune
+Engine (the game engine that Lemonade Stand runs on) and shot him an email,
+<a href="http://blog.jlewopensource.com/">Jlew's Open Source blog</a>. He wrote back
+within the day and told me that there was an argument in the class params that
+set create_jobject = FALSE. I went in, found the agruement, changed it to
+TRUE, and it automagically worked. I believe it's astounding that something so
+simple was so hard to find because of my lack of information regarding a
+certain topic. THANK GOODNESS FOR KIND PEOPLE! If anyone who reads this blog
+is having trouble with OLPC or the XO's or anything SugarLabs related, I urge
+you to go to <a href="http://webchat.freenode.net/">webchat at freenode.net</a> make a
+nickname, join the room #sugar, and ask to your hearts content.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

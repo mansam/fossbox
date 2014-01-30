@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Day 7.5</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/fortnight-day-75.html" rel="bookmark"
+           title="Permalink to Day 7.5">Day 7.5</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2013-06-06T09:41:00">
+                Thu 06 June 2013
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/fortnight.html">fortnight</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <h2>Threebean and Fornight in the caves of Sugar</h2>
+<p>Maybe it was because I had just read <a href="http://seriouslyforreal.com/seriously-for-real/heracleion-photos-
+lost-egyptian-city-revealed-after-1200-years-under-sea/">this
+article</a>, but I felt like I
+was doing Archaeology. It turns out that although the Sugar desktop
+environment download was all in the package I downloaded, it was in a several
+different folders haphazardly mixed with all other python programs installed
+on my "box." Veteran Python coder <a href="http://threebean.org/blog/">Threebean</a>
+taught me some great methods of searching through the folders in linux. For
+example:</p>
+<p>All python installations are installed in the linux folder: /usr/lib/python2.7
+/site-packages/</p>
+<p>To case-insensitively search for a term in all the texts of a folder and in
+sub-directories enter the following command in the terminal: "grep -inr <strong>
+SEARCH_TERM </strong> * | less"</p>
+<p>"grep" is a searching tool that searches for whatever you enter as
+SEARCH_TERM, -i makes it case insensitive, the * includes through all files in
+the current directory in the search, the -r recursively adds subdirectories to
+the search, the -n adds the line number of where the SEARCH_TERM shows up in
+the file, and lastly, we pipe the command into "less" which allows us to
+scroll through the results with the arrow keys.</p>
+<p>After panning through the results, we looked into the sourcecode that
+contained words like "schoolserver" and "journal", finding many necessary
+files in folders like
+<a href="http://th04.deviantart.net/fs71/PRE/f/2012/328/a/6
+/professor_charles_xavier_by_fredackerman-d5m2eij.jpg">"telepathy"</a> and <a href="http://
+4.bp.blogspot.com/-ioWA6bEsTnI/TWXxcwHqCFI/AAAAAAAAAGc/rMw6rbqr7A4/s1600/JARAB
+E+SABOR+NATURAL+GARRAFA+4+L.jpg">"jarabe."</a> Scanning the python code within those folders
+felt like trying to understand hieroglyphs on the walls of ancient temples.
+One can also use a "/" to search down in a vim, and a "?" to search upwards in
+vim. Threebean also showed me that most programs have accounts on the
+computer, and we logged into one to see if it had code that uploaded regularly
+to a schoolserver, but to no avail. It felt like trying to commune with the
+spirit of some <a href="http://images1.wikia.nocookie.net/__cb200
+80309142857/timesplitters/images/7/72/Enemy2_pic.jpg">ancient high priest</a>, but we did the ritual
+incorrectly. He fears that the code we're looking for might never have been
+implemented, that the Ancient civilization was wiped out before they achieved
+spiritual resonance in their religion. I, however, still have hope, and will
+spend my next day deciphering these ancient texts to dive deeper into these
+mysteries.</p>
+<p>P.S. apparently the Hackathon only counted as one day, but
+<a href="http://images.nationalgeographic.com/wpf/media-
+live/photos/000/005/cache/grizzly-bear_566_600x450.jpg">bear</a> with me</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

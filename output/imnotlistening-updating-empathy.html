@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Updating Empathy</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/imnotlistening-updating-empathy.html" rel="bookmark"
+           title="Permalink to Updating Empathy">Updating Empathy</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2012-04-04T00:59:00">
+                Wed 04 April 2012
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/imnotlistening.html">imnotlistening</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>Looks like the best course of action is to add support to Empathy or Sugar to
+properly interface a video chat app into sugar. How exactly this will be done
+is not completely clear to me yet but here are the possibilities I have seen.</p>
+<h2>Modify And Add To The Empathy Code Base</h2>
+<p>Sugar communicates with its activities via DBus. DBus is an IPC mechanism
+which allows the SUgar shell to pass commands via remote method calls to a
+running application. In order to make Empathy a proper sugar activity, it
+would need the means to respond to the special requests passed by Sugar. The
+exact interface for interfacing with sugar is described in all its gory detail
+out here: <a href="http://wiki.sugarlabs.org/go/Development_Team/Low-
+level_Activity_API#Activity_Instance">http://wiki.sugarlabs.org/go/Development_Team/Low-
+level_Activity_API#Act...</a>. The required additions would be a few
+environment variables being set, some command line argument parsing, and
+several DBus method calls. This does not look like a particularly massive
+amount of work. Not only that, but it can be run under a sugar UI running on a
+normal Linux desktop (e.g Fedora 16 or what have you).</p>
+<h2>Modifying Sugar</h2>
+<p>It was suggested to me that instead of modifying the Empathy code base, the
+solution should be done entirely on the sugar side. Sugar already uses
+telepathy for its communication framework but how exactly that translates to
+Empathy support, I do not fully understand. If it is possible to simply add
+some configuration options to Sugar to use Empathy as the default video chat
+activity, that would be nice. However, I don't think it would be that easy
+since the above sugar DBus calls would still have to be implemented (I would
+think).Either way, maybe some more info from the mailing list will come my
+way, and a clearer picture will be painted. In the mean time I think I will
+start looking at the Empathy code more in depth and see how easy it would be
+to add the Sugar DBus calls to the Empathy source.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

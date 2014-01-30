@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Every time you fix one problem, another crops up...</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/DaveSilver-every-time-you-fix-one-problem-another-crops-up.html" rel="bookmark"
+           title="Permalink to Every time you fix one problem, another crops up...">Every time you fix one problem, another crops up...</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2010-07-29T11:46:00">
+                Thu 29 July 2010
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/davesilver.html">DaveSilver</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>As you may be able to guess from my blog title I have been running into more
+issues while trying to integrate my stuff into Jlew and Blitzkev's engine.
+Mainly we are having issues getting things to display because the entire
+engine has not yet been ported over to the new system. This means that some
+things are using our sprite and sprite group system while other things are
+using the old blit and flip method. For some reason this is causing the stuff
+to not display the same way every time we test and thus makes it very hard for
+us to pin down the exact issues we are having.</p>
+<p>On top of this we are also running into issues where the sprites and sprite
+groups are slightly more complex than we originally believed. Because of this
+we do not know exactly how some of it is working which is making it harder to
+debug stuff.</p>
+<p>Thankfully I can say that not everything is going badly. JT is in the process
+of finishing the Complete Test and we are currently cleaning up a lot of the
+code for the Drawable Objects and stuff. Because of the way we developed and
+how we would add functionality as we needed it, we ended up having a lot of
+old outdated code, and a lot of code that is not as efficient as it could be,
+in our classes. This means that now we are going back and looking at all the
+stuff we have made so far and figuring out what could be running more
+efficiently or what needs to be removed entirely now.</p>
+<p>Finally we are also starting our paper soon. Today I am writing the abstract
+for the paper and hopefully by next week we will be a decent way through the
+paper as a whole. It might take a little while to write but it should be the
+easiest part of the project as a whole.</p>
+<p>Well I have rambled for a while so I will go now. Have a good day.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

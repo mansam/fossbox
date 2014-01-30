@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Finally have time to start this project.</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/imnotlistening-finally-have-time-to-start-this-project.html" rel="bookmark"
+           title="Permalink to Finally have time to start this project.">Finally have time to start this project.</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2012-03-16T19:55:00">
+                Fri 16 March 2012
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/imnotlistening.html">imnotlistening</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>Finally... Its spring quarter and I have some time to get a native video chat
+app running on an XO. There is a lot of talk about the OVC application created
+by a couple of RIT students:
+<a href="http://foss.rit.edu/projects/ovc">http://foss.rit.edu/projects/ovc</a>. While
+they work on the python implementation, I am going to detail my progress
+towards building a native C application.</p>
+<p>To start of with, here is how I set up my development environment for
+writing/compiling XO code. I don't know if there are better ways or not, but
+this worked for me. This is all based on the guide posted here: <a href="http://wiki.laptop.org/
+go/Compiling_C/C%2B%2B_program_for_the_OLPC">http://wiki.l
+aptop.org/go/Compiling_C/C%2B%2B_program_for_the_OLPC</a>. Here are the basic steps (I will
+describe each on more detail after):</p>
+<p>`</p>
+<ol>
+<li>
+<p>Build 32 bit VM for building code with a native XO file system copy.</p>
+</li>
+<li>
+<p>Copy the XO file system from an XO onto the VM.</p>
+</li>
+<li>
+<p>chroot into the copied XO file system.</p>
+</li>
+<li>
+<p>Configure the XO chroot environment, install some dev software and
+configure a user account to your liking.</p>
+</li>
+</ol>
+<p>`</p>
+<h3>1. Getting a 32 bit kernel running</h3>
+<p>This step was necessary since I am running a 64 bit OS (Fedora 12) on my
+machine. However, to chroot into a 32 bit device, the kernel's 32bitness must
+match. Thus I needed a dev environment that used a 32 bit kernel. The easiest
+way to do this was, by far, to make a 32 bit VM (Fedora 16).</p>
+<h3>2. Copy the file system off the XO.</h3>
+<p>To copy the data of the the XO, I copied from the XO to my computer via rsync.
+I used the commands from the guide on wiki.laptop.org with a few changes:</p>
+<p>On my desktop:</p>
+<p>`</p>
+<p>$ cd /mnt/dm-0/olpc-dev</p>
+<p>$ mkdir olpc-root</p>
+<p>$ mkdir -p olpc-root/proc</p>
+<p>$ mkdir olpc-root/dev</p>
+<p>$ su</p>
+<h1>mknod olpc/dev/null c 1 3</h1>
+<h1>chmod 666 olpc/dev/null</h1>
+<p>`</p>
+<p>On the XO:</p>
+<p>`</p>
+<p>$ su</p>
+<h1>cd /</h1>
+<h1>rsync -a bin sbin lib usr etc home var australia.student.rit.edu:/mnt/dm-0</h1>
+<p>/olpc-dev/olpc-root</p>
+<h1>rsync -a proc/cpuinfo australia.student.rit.edu:/mnt/dm-0/olpc-dev/olpc-</h1>
+<p>root/proc</p>
+<p>`</p>
+<p>At this point, I had all the important stuff for compiling against an OLPC
+laptop on my 64 bit desktop. From there I copied the FS I had built verbatim
+to the 32 bit VM.</p>
+<h3>3. chroot</h3>
+<p>This sets me up in a shell that is effectively running on an XO laptop only
+the underlying hardware is a little more beefy. Not much though, my VM is not
+particularly quick. However, there is enough disk space to compile lots of
+libraries and the like. On the 32 bit VM:</p>
+<p>`</p>
+<p>$ su</p>
+<h1>chroot olpc-root</h1>
+<h1></h1>
+<p>`</p>
+<h3>4. Configuring a user account for myself</h3>
+<p>Now that I have a chroot'able build environment for cross compiling (well,
+sort of cross compiling) I installed some software using yum; some was
+necessary for development, some just for comfort and ease of use.</p>
+<p>Necessary software (may already be installed though):</p>
+<ul>
+<li>gcc  </li>
+<li>make  </li>
+<li>glib-devel  </li>
+<li>gtk2-devel</li>
+</ul>
+<p>Comfort software:</p>
+<ul>
+<li>zsh  </li>
+<li>emacs</li>
+</ul>
+<h3>Notes</h3>
+<p>Unfortunately the 32 bit VM along with a chroot environment is pretty slow.
+Unfortunately for my setup there really is nothing I can do about this other
+than installing a native 32 bit system. But I don't want to go there.</p>
+<p>For now at least, this has accomplished everything I have needed for
+developing C code against gtk. I will go into more detail on how I compiled
+and installed the latest telepathy library and dependencies.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

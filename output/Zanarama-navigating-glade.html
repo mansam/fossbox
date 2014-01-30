@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Navigating Glade</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/Zanarama-navigating-glade.html" rel="bookmark"
+           title="Permalink to Navigating Glade">Navigating Glade</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2013-06-18T16:59:00">
+                Tue 18 June 2013
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/zanarama.html">Zanarama</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>A large goal of the Gourciferous project is to create a GUI that will make
+processing GIT logs and rendering Gource videos a lot easier. For the past few
+days I have been working on creating some mock-ups for the GUI in Glade. The
+benefit of using Glade is that the mock-up can easily become a functional GUI
+by adding a Python program to create functionality. However, using Glade
+hasn't been a picnic.</p>
+<p>Originally the software seemed incredibly intuitive. The buttons are simple,
+and it truly on takes a few minutes of tinkering to start creating a GUI that
+looks pretty nice. After I started though, designing the GUI became much more
+difficult. One of my biggest challenges was the lack of a tutorial that was
+really all-encompassing of Glade. There were some fine tutorials that walked
+you through a project and gave you some code to add functionality, but a lot
+of them lacked guide to building your own GUI, including what all the many
+options Glade has actually do! One of the most helpful tutorials was by <a href="http://www.micahcarrick.com/gtk-glade-tutorial-part-1.html">Micah
+Carrick</a>. His
+guides were a great resource to understand GTK+, some Glade configurations,
+and the difference between using C and Python with Glade.</p>
+<p>By far, the most frustrating aspect of my brief stint with Glade was its buggy
+nature. On my laptop, which is running Fedora 18, would consistently segfault
+while I was working. Most commonly, it seemed to happen while I was adding and
+deleting widgets. I was unfamiliar with all of the tools available and would
+often try an option, only to decide I didn't like it and try to remove it.
+Then the program would freeze and crash. I submitted a bug report with all the
+info from my segfaults. I'm not sure if this is a problem isolated to my
+laptop but no matter what, it was frustrating.</p>
+<p>For now we are moving past the GUI to focus on creating rendered videos for
+Red Hat. Our most important goal is getting some great videos created to
+visualize the contributions of the amazing Red Hat community. Hopefully once
+we get these done we can put some more time into making Gource more
+accessible.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

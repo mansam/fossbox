@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>BeagleBone Black and bb_pystepper + a Bugfix</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/Zanarama-beaglebone-black-and-bbpystepper--a-bugfix.html" rel="bookmark"
+           title="Permalink to BeagleBone Black and bb_pystepper + a Bugfix">BeagleBone Black and bb_pystepper + a Bugfix</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2013-09-23T13:40:00">
+                Mon 23 September 2013
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/zanarama.html">Zanarama</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>So during Software Freedom day I began hacking on the <a href="http://beagleboard.org/Products/BeagleBone%20Black">BeagleBone
+Black</a> and a small stepper
+motor. Are only goal was to gain familiarity with the BeagleBone by
+controlling the stepper motor with Python code that is FOSS.</p>
+<p>For the hardware setup I utilized the <a href="http://robocraft.ru/files/datasheet/28BYJ-48.pdf">28BYJ-48 Stepper
+Motor</a>, the <a href="http://www.datasheets360.com/pdf/624709677179081801?comp=3509">L293D Driver
+Chip</a>, a
+breadboard, some wires, and of course the BeagleBone Black. I had both the
+chip and motor from a kit I bought from AdaFruit, so I used <a href="http://learn.adafruit.com/adafruit-arduino-lesson-16
+-stepper-motors/breadboard-layout">her guide to
+wiring the board</a> as my breadboard setup.</p>
+<p>When looking for code to run the stepper motor I came across <a href="http://petebachant.me/stepper-motor-control-with-the-beaglebone-
+black-and-python/"> this
+blogpost</a> discussing almost exactly what I was trying to do.
+Utilizing this code, <a href="https://github.com/DaWacker">David</a> and I (but 99%
+David) configured the BeagleBone so we could ssh in, and put the bb_pystepper
+code on the BeagleBone, as well as the adafruit stepper library which was a
+dependancy.</p>
+<p>Unfortunately, when we attempted to run the code I discovered that motor only
+vibrated, it didn't actual spin. We went to a lab and started testing outputs
+with an o-scope and a mulitmeter to no avail. We even tried providing power
+from another source to see if the BeagleBoard was having difficulty driving
+enough current. Finally I started software debugging which is when I
+discovered a little variable in the code called steps_per_rev.</p>
+<p>This variable describes the number of steps the motor takes in a spin.
+Currently, it was set to 2048.0, which was far too high for my motor.
+Essentially, signals were being sent so quickly that the motor was able to
+register the pulses. After a little bit of playing around we settled on 512
+being a solid value. However, I was displeased that my testing required me to
+actual change the hardcoded value. Instead, I moved the steps_per_rev as an
+optional constructor argument, as well as moving the pins that drive the
+motor. This is a sample of how the code runs now with my updates.</p>
+<p>$ cd bb_pystepper</p>
+<p>$ python</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>from bb_pystepper import Stepper</p>
+<p>mystepper1 = Stepper() # Creates default stepper motor</p>
+<p>mystepper2 = Stepper(512.0) # Creates motor with 512 steps_per_rev</p>
+<p>mystepper3 = Stepper(256.0, ['P8_17', 'P8_18', 'P8_19', 'P8_20']) # Motor
+with 256 steps per rev and different pin mappings</p>
+<p>mystepper1.rotate(180, 10) # Rotates stepper 1 180 degrees at 10 RPM</p>
+<h1>(will also rotate stepper2 because they are mapped to the same pin</h1>
+<p>mystepper3.rotate(-180, 5) # Rotates stepper 3 back 180 degrees at 5 RPM</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>I am much happier with this version of the code because it allows for multiple
+motors to be run independantly with different steps_per_rotation. It also
+should make the selection of the correct steps_per_rotation a lot easier. I
+still feel that the code could use some improvements for ease of use and
+general configuring but I will go to that soon. The code also could use some
+PEP8 fixes, but I am guessing that someone else in the class may want to
+tackle that.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

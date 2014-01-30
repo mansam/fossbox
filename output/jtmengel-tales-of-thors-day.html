@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Tales of Thor's Day</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/jtmengel-tales-of-thors-day.html" rel="bookmark"
+           title="Permalink to Tales of Thor's Day">Tales of Thor's Day</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2010-07-22T14:06:00">
+                Thu 22 July 2010
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/jtmengel.html">jtmengel</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>Alright, time for the Thor's Day Blog, also know as Thursday by some nations
+that don't recognize the day's pagan origins. Ahem, but anyways, today was a
+day of killing off the tests we started yesterday on using classes, inheriting
+sprite, in conjunction with dirty lists.</p>
+<p>In case I'm not making sense, we finished the tests to confirm that we could
+effectively speed things up by doing A) storing all the relevant information
+pertaining to the image for easy access B) allowing us to intelligently access
+a sprite grouping method RenderUpdates which would ensure that we wouldn't
+draw overlapping rectangles and of course C) modify our Sprites to function
+precisely how we need for easy and efficient implementation into the Game
+Engine of Fortune Hunter.</p>
+<p>After the tests, Dave and I dolled out responsibilities for the next 2 weeks
+and while we'll be working together (in the same room/desk) we won't be
+working with each other (on the same project). Since I arbitrarily chose to
+infer that there's a difference between working "with each other" and
+"together", here's what we'll be working on in the near future:</p>
+<p>Dave: Polish up Drawable Object and incorporate the RenderUpdates group into
+the code. Since this is a significant amount of code and potential loss-of-
+sanity, Dave will just have one large project to take on.</p>
+<p>JT (the charming and cunning blogger you're reading right now): I'll be taking
+on Collapsing the last few tests into our test 'suite' (I just want to call it
+a 'suite', it might be more accurate to replace it with 'kinda nice test
+program')</p>
+<p>This means including our rotate test, our multiple Dirty Sprite Tests, and
+finally the dreaded SVG tests (which is currently still on the drawing board
+so to speak)</p>
+<p>Just a quick note: The SVG data collection is going to be a two-parter where
+only the second part will be programmed into Python; The first part will rely
+on me taking sample art assets of varying sizes and complexity (as well as
+possibly finding and citing resources online) to define what type of size
+discrepencies you can expect converting from SVG's to rendered formats.</p>
+<p>That being said, if anyone has a suggestion on where to start my research on
+SVG conversion (or materials explaining the details of SVGs might be equally
+helpful) please let me know via email at
+<a href="mailto:JTMengel@gmail.com">JTMengel@gmail.com</a></p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

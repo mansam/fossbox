@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Day 24</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/fortnight-day-24.html" rel="bookmark"
+           title="Permalink to Day 24">Day 24</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2013-06-30T23:50:00">
+                Sun 30 June 2013
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/fortnight.html">fortnight</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <h1>Another Work From Home Friday!</h1>
+<p>So today I set out to install the 0.7 edition of school server on the XO
+laptop that I've been messing around on. I followed <a href="http://wiki.laptop.org/go/XS_Installing_Software">these
+instructions</a>. To install it
+on an XO though, I would need to <a href="http://wiki.laptop.org
+/go/XS_Techniques_and_Configuration#Installing_from_USB">Install it from USB.</a> I had some trouble
+setting up the boot usb: The script kept saying that I needed to unmount the
+drive after checking to see if it could be used. After getting quite angry at
+the script I asked for help from the irc chat, and got a reply from
+<a href="http://github.com/decause">FOSSmaster decause</a> and
+<a href="https://github.com/kgrange">kGrange</a>, who I believe is a FOSSbox alumni.
+Apparently the command to unmount a drive is "umount", not "unmount", because
+that makes sense. <em>grumble grumble</em> So <code>umount sdb1</code> before rerunning the
+install script got the job done. Unfortunately though, the XO didn't boot up
+the installer automatically and I don't know how to make it boot from the
+terminal. I guess that'll just be the first thing on my gameplan for "Hackin
+with <a href="https://github.com/lmacken">Lmacken</a>" on monday. I can't install it on
+my tower because it thinks that it's drives are external, and I can't install
+it on my laptop because it can't dual-boot; it wipes a drive before
+installing.</p>
+<p>In other news I also had a public speaking seminar with the McNair scholars,
+and learned some valuable tips from someone who had some good chops on the
+subject. I'll be talking my presentations over with FOSSmaster decause though,
+who has public speaking chops, as well as sweet muttonchops. Due to the class
+I'm taking with McNair, I'm going to be Research lead on the project from now
+on as well.</p>
+<p><a href="http://meme5.net/#t=You_know_what_really_grinds_my_g
+ears~3F;b=Automatic_boot_protocol_that_doesn~27t_automatically_boot;i=meme-
+grindsmygears;">My feelings for the day</a></p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

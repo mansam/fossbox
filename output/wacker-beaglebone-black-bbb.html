@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>BeagleBone Black (BBB)</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/wacker-beaglebone-black-bbb.html" rel="bookmark"
+           title="Permalink to BeagleBone Black (BBB)">BeagleBone Black (BBB)</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2013-09-21T21:28:00">
+                Sat 21 September 2013
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/wacker.html">wacker</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>Today was <a href="http://softwarefreedomday.org/">Software Freedom Day</a> and there was
+a lot of amazing talks and hacking going on! The project that I began with a
+fellow hacker and friend, Suzanne Reed, was a bot that will be used for
+dispensing beverages via SMS message to a BBB connected to some motors. I do
+not know much about the mechanical process, but I know I will be writing most
+of the software portion.</p>
+<p>Our goal for today was to try and get some sort of response from a motor that
+we hocked up to the BBB via basic motor controls using some simple python
+code, but were unsuccessful. That's not to say that our entire day was
+unsuccessful because it sure wasn't. I personally had no experience prior with
+a BBB or anything similar like a <a href="http://www.raspberrypi.org/">Raspberry Pi</a>.
+Regardless of my background with this kind of software, I was able to
+successfully ssh into the BBB and install some packages that are required to
+even being testing the motors required to dispense the beverages.</p>
+<p>After a long period of searching how to simply ssh into the BBB, I had found
+the answer! Assuming you already have the BBB plugged into your laptop or
+desktop, you can ssh into the BBB by typing this command:</p>
+<p><em>ssh root@beaglebone.local</em></p>
+<p>You will then be prompted for a password, but you might ask, "How is there
+already a password?" Funny thing, there isn't. You can simply bypass this by
+hitting the enter key. You have now successfully ssh-ed into your BBB!</p>
+<p>From here we installed some dependency packages that we needed to run the code
+to control the motor. These commands include:</p>
+<p><em>su</em></p>
+<p><em>opkg update</em></p>
+<p><em>opkg install python python-modules python-pyserial python-numpy python-
+setuptools python-misc python-pip python-distutils git</em></p>
+<p><em>git clone git://github.com/adafruit/adafruit-beaglebone-io-python.git</em></p>
+<p><em>/usr/bin/ntpdate -b -s -u pool.ntp.org</em></p>
+<p><em>cd adafruit-beaglebone-io-python</em></p>
+<p><em>python setup.py install</em></p>
+<p><em>git clone git://github.com/petebachant/bb_pystepper.git</em></p>
+<p><em>cd bb_pystepper</em></p>
+<p>Now that you have installed the correct packages and are in the
+<a href="https://github.com/petebachant/bb_pystepper">bb_pystepper</a> directory, it is
+time to begin testing some code! You can run a simple test by entering these
+commands:</p>
+<p><em>python</em></p>
+<p><em>&gt;&gt;&gt; from bb_pystepper import Stepper</em></p>
+<p><em>&gt;&gt;&gt; mystepper = Stepper()</em></p>
+<p><em>&gt;&gt;&gt; mystepper.rotate(180, 10)</em></p>
+<p><em>&gt;&gt;&gt; mystepper.angle</em></p>
+<p><em>0.0</em></p>
+<p>This just shows that the stepper was properly loaded and adjusts the angle of
+the motor properly as well. This was just step one to get our bot up and
+running and there will be more posts later on as our progress continues!</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

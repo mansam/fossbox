@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Rotation Problems...</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/DaveSilver-rotation-problems.html" rel="bookmark"
+           title="Permalink to Rotation Problems...">Rotation Problems...</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2010-07-12T13:21:00">
+                Mon 12 July 2010
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/davesilver.html">DaveSilver</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>Today has been pretty successful but there has been one big issue. So
+basically I have been working on getting all of the basic functionality of our
+animated objects in place so testing can be run to make sure they work. I
+finished that up, started testing, and found a huge problem with the way I
+have been rotating images. So basically when an image is rotated by a number
+of degrees that is not divisible by 90, such as 10 or 15 or 45, you are
+creating an image that is not a square or a rectangle. To account for this,
+the image editing program you are using or, in this case, the code itself,
+will pad the image with white-space to make them completely square or
+rectangle.
+(<a href="http://farm5.static.flickr.com/4114/4787023853_81604d66b5_t.jpg">This</a>
+represents an image before it is rotated at all.
+<a href="http://farm5.static.flickr.com/4074/4787023883_093dedb928_m.jpg">This</a> image
+represents an image after a 45 degree rotation with the Green part being the
+original and the Black part being the part that was added to make the image
+square.) Now this situation is annoying at first but becomes incredibly
+problematic if you are in a situation where an image is being rotated a small
+amount over and over like you might have in a game.
+(<a href="http://farm5.static.flickr.com/4081/4787654864_052367ce26_m.jpg">This</a> image
+represents this situation. We started with a the green image and then rotated
+it 9 times by 10 degrees each time. Each different color area represents a new
+rotation and the space that was added to the image each time. The lighter the
+color is, the earlier the rotation was. You can see that an image can quickly
+become humongous from just a few rotations.)</p>
+<p>The solution to this problem is actually pretty simple. This problem, as I
+said earlier, really only comes up if you take the same image and repeatedly
+rotate it over and over and over. So instead we will have two image arrays
+associated with each animated object. the first image array is the original
+array that keeps the original images at their original sizes and rotations for
+reference. Then we have the display array which has copies of the images at
+the sizes and rotations they are currently needed. Every time the images are
+scaled or rotated or both, the system remakes the display array by re-rotating
+the images and rescaling them. This is the best solution we could come up with
+and is probably the one we will stick with if we do not find any major
+slowdown comes about from using it.</p>
+<p>Talk to you guys next time and have a great day.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

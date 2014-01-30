@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Redirecting the Plan</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/Zanarama-redirecting-the-plan.html" rel="bookmark"
+           title="Permalink to Redirecting the Plan">Redirecting the Plan</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2013-06-22T01:09:00">
+                Sat 22 June 2013
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/zanarama.html">Zanarama</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>This week started off a little bumpy with a power outage that lasted a few
+hours and then a freak thunder/hail storm on Monday. On Wednesday the boat (a
+server the FOSSBox uses) went down Wednesday, slowing down everything and
+taking down FossBot. Finally, after a series of issues with Glade, we have
+shelved the GUI for now and have decided to instead work on producing some
+quality videos to send to Red Hat.</p>
+<p>As a part of these videos I want to highlight the work of Red Hat employees by
+making there avatars different than all of the other contributors. However,
+Gource handles custom avatars in a bit of a funky way. Each person that needs
+a custom avatar must have a copy of the picture saved in a directory with
+their full name, as it is in the logs, as the file name. I created a proof of
+concept image by manually going through a log and creating a new file for each
+user with a Red Hat email. A screen shot of that is attached, and I think it
+looks pretty nice. However, that is a cumbersome process and isn't practical
+for every project, especially as we get into projects with a lot of
+contributors. This week I started creating a program that will parse a custom
+log and create these files for every user with a particular email host in a
+file. Right now I am running into some issues with Unicode characters in some
+names, but I will get further into this when problems are solved.</p>
+<p>Another exciting aspect of this week is that I (finally) got my Red Hat laptop
+unlocked! Having it unlocked will mean that we can render videos on that
+laptop while I am working on my own. It should save me from having down time
+and should increase the number of videos we can render. This also means I can
+now access my Red Hat email, which should save some communication headaches.</p>
+<p>I have high hopes for the week to come. I am going to get the file creator
+working and start rendering some videos!</p>
+<p>AttachmentSize</p>
+<p><a href="http://foss.rit.edu/files/Screenshot%20from%202013-06-19
+16:53:24.png">Gource Custom Avatars</a></p>
+<p>285.91 KB</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

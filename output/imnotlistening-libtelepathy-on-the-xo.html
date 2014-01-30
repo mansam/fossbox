@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>libtelepathy on the XO</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/imnotlistening-libtelepathy-on-the-xo.html" rel="bookmark"
+           title="Permalink to libtelepathy on the XO">libtelepathy on the XO</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2012-03-16T20:38:00">
+                Fri 16 March 2012
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/imnotlistening.html">imnotlistening</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <h2>Telepathy-glib</h2>
+<p>To make life easier I am going to use lib telepathy for dealing with the
+separate chat protocols and features and what not. Libtelepathy greatly
+reduces the effort required for developing a full featured communication
+program, e.g: IM, VoIP, and video chat/conferencing. Many major applications
+these days are now using it as a back end. The XO file system does have a
+telepathy package in the yum repositories, however it is not the latest and
+greatest. There has been lots of recent and good progress on libtelepathy, so
+getting the latest code on the XO is a high priority.</p>
+<h2>Telepathy dependencies</h2>
+<p>The latest version of telepathy I compiled required a later version of a few
+packages not present in the XO yum repositories: glib and glibs dep, gettext.</p>
+<p>Compiling these two libraries was very straight forward. In my XO dev
+environment:</p>
+<h4>gettext</h4>
+<p>`</p>
+<p>$ tar -xzf gettext-0.18.1.1.tar.gz</p>
+<p>$ cd gettext-0.18.1.1</p>
+<p>$ ./configure --disable-nls</p>
+<p>$ make</p>
+<h1>make install</h1>
+<p>`</p>
+<h4>glib-2</h4>
+<p>`</p>
+<p>$ tar -xjf glib-2.28.8.tar.bz2</p>
+<p>$ cd glib-2.28.8</p>
+<p>$ export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig</p>
+<p>$ ./configure</p>
+<p>$ make</p>
+<h1>make install</h1>
+<p>`</p>
+<h2>And finally, compiling telepathy</h2>
+<p>Compiling telepathy was just as easy.</p>
+<p>`</p>
+<p>$ tar -xzf telepathy-glib-0.17.4.tar.gz</p>
+<p>$ cd telepathy-glib-0.17.4</p>
+<p>$ ./configure</p>
+<p>$ make</p>
+<h1>make install</h1>
+<p>`</p>
+<h2>Installing Telepathy on the XOs</h2>
+<p>Since I don't want to overwrite any previous libraries, I went ahead and used
+the default install prefix of all the libraries in /usr/local. Thus to install
+the libraries on the XO, I simply copied /usr/local/lib/* to the XO.</p>
+<p>From the 32 bit VM:</p>
+<p>`</p>
+<p>$ cd /usr/local</p>
+<p>$ rsync -rav lib australia.student.rit.edu:/mnt/dm-0/olpc-dev/</p>
+<p>`</p>
+<p>From the XO:</p>
+<p>`</p>
+<p>$ su</p>
+<h1>cd /usr/local/lib</h1>
+<h1>rsync -ravl australia.student.rit.edu:/mnt/dm-0/olpc-dev/lib/* .</h1>
+<p>`</p>
+<p>Yay, we are done. I think. More on this later.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

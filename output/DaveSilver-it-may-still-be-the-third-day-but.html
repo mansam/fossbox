@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>It may still be the third day but...</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/DaveSilver-it-may-still-be-the-third-day-but.html" rel="bookmark"
+           title="Permalink to It may still be the third day but...">It may still be the third day but...</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2010-06-09T11:40:00">
+                Wed 09 June 2010
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/davesilver.html">DaveSilver</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>So it is still the third day but I thought the blog deserved an update for
+what's going on right now. Basically JT and I have run into a problem with our
+testing. Our original plan for testing was to have an image on the screen that
+was moving across the screen in a specific pattern and was constantly cycling
+between a set of images. Then once the test program was up and running we
+would then use the terminal program, 'htop' to record the CPU cycles and
+memory use. The goal here was to determine how much memory was being used with
+each different file format. In theory some file formats would have used more
+memory then others and we would have been able to tell which is ideal simply
+from this test. In reality when we used 'htop' we found that every test, no
+matter what the file sizes were for the different images, said we were using
+100% of the CPU cycles. On top of that, we also found that larger files would
+show up as using less memory. Obviously this method of recording data was not
+going to suffice.</p>
+<p>To solve our problem we are now retooling the program so that it prints out
+the frames per second on screen. Our goal here is to create a system of data
+recording that will be accurate enough to give us some idea of what's going
+on. Hopefully this will work, but we will keep the blog updated on how things
+progress.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

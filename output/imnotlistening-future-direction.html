@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Future Direction</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/imnotlistening-future-direction.html" rel="bookmark"
+           title="Permalink to Future Direction">Future Direction</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2012-03-24T17:19:00">
+                Sat 24 March 2012
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/imnotlistening.html">imnotlistening</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <h1>Whats Going On?</h1>
+<p>There have been more than a few attempts at making a Sugar compatible video
+chat application. As it stands right now there are at least 4 or 5 that work
+to varying degrees. Empathy is probably the most functional app that I am
+aware of, however, Empathy is not Sugarized (as far as I know). So after
+signing up for a bunch of different mailing lists and asking a bunch of
+questions here is what I have learned.</p>
+<h1>Build a Completely New Program</h1>
+<p>After talking to the development lost for sugar, it seems possible to build an
+app in entirely C code that can interface with sugar through DBUS. DBUS is a
+IPC messaging system that many Linux systems use. If an application implements
+certain DBUS interfaces then it can be "sugarized". So how hard would it be to
+implement a DBUS interface in C? Well according to the API docs, pretty hard: 
+<a href="http://dbus.freedesktop.
+org/doc/api/html/index.html">http://dbus.freedesktop.org/doc/api/html/index.html</a>. Apparently you would be in for a world of pain.
+Thats not terribly surprising given the nature of C coding and the type of
+functionality that DBUS exposes. Thats just one part of the project.</p>
+<p>Next there is Telepathy. Interfacing with telepathy doesn't look too bad. The
+docs appear to be somewhat here and there, however, which could lead to some
+pain. However, the telepathy-devel mailing list is responsive and hopefully
+willing to help if any telepathy interfacing needs to be done. And last but
+not least: gstreamer. Interfacing with a telepathy client would require some
+gstreamer code (I think). I am not completely sure how much back end stuff is
+handled by telepathy at the moment. Certainly implementing an RTP/RTCP stream
+with session control would be a major pain and time commitment. Especially
+since at the moment it is certainly in the pipeline to implement both audio
+and video streaming (a natural expectation for a video chat service).</p>
+<h1>Maybe There Is An Easier Way...</h1>
+<p>Since Empathy does by default run on the XO platform it should be possible to
+Sugarize the Empathy client. First some pros to this idea: all the low level
+mess regarding RTP and video streaming would be handled by Empathy/telepathy,
+account management would be handled by empathy, basically everything would be
+handled by Empathy (how nice), and it would be (I think) relatively easy to
+integrate a Sugarized Empathy client into the Empathy RPM package for the XOs.
+Now the cons: the Empathy code base is not easy to dive into. After briefly
+looking at the code, it would seem that there is just so much stuff going on.
+Native GTK in C is not exactly the most concise of GUI code (but I am sure its
+very fast). Thus learning the code base and actually adding the required DBUS
+interfaces for Empathy to interact with Sugar would be in all likelihood
+rather difficult. But not impossible.</p>
+<h1>What To Do?</h1>
+<p>Well, those are my options. Either way I am going to need to really understand
+DBUS in order to implement the required DBUS interface for Sugar. The question
+is do the pros in making an Empathy based client out weight making a new
+client from scratch. Time wise, will learning the Empathy code base be
+feasible? So... In the next week I am going to commit to one of the paths once
+I have some more insight from the respective mailing lists and people involved
+in Empathy/telepathy and Sugar.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

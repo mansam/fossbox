@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Empathy code base</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">foss@rit </a></h1>
+                <nav><ul>
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/research.html">Research</a></li>
+                    <li class="active"><a href="/category/legacy.html">legacy</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/imnotlistening-empathy-code-base.html" rel="bookmark"
+           title="Permalink to Empathy code base">Empathy code base</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2012-04-23T00:53:00">
+                Mon 23 April 2012
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/imnotlistening.html">imnotlistening</a>
+        </address>
+<p>In <a href="/category/legacy.html">legacy</a>. </p>
+<p>tags: <a href="/tag/legacy.html">legacy</a><a href="/tag/fossrit.html">foss@rit</a></p>
+</footer><!-- /.post-info -->      <p>So, now that I have been hacking away, here is what I am working on.</p>
+<p>The first aspect of setting up a Sugar App is parsing some command line
+arguments. The arguments help configure the app so that the Sugar Framework
+can properly interface between the App and the X server. Or something like
+that. These arguments are:</p>
+<p>`</p>
+<p>-b, --bundle-id<br />
+Identifier of the activity bundle. Must be made available as window property.</p>
+<p>-a, --activity-id<br />
+Unique identifier of the activity instance. Must be made available as window
+property, and is used to create the D-Bus service.</p>
+<p>`</p>
+<p>(See the rest here: <a href="http://wiki.sugarlabs.org/go/Development_Team/Low-
+level_Activity_API#Command_Line_Arguments">http://wiki.sugarlabs.org/go/Development_Team/Low-
+level_Activity_API#Com...</a>)</p>
+<p>These two arguments, the only two that are relevant to Empathy - though the
+data store arg will have to not crash Empathy - are passed to any sugar app to
+set up DBus and X. My patch hooks into the argument parsing code in Empathy so
+that when these arguments are passed, the following environment variables are
+set to the passed argument string: <code>_SUGAR_BUNDLE_ID</code> and
+<code>_SUGAR_ACTIVITY_ID</code>.</p>
+<p>Empathy is a pretty complex app, so it is no surprise that parsing arguments
+is not as simple as a simple app would have it. Empathy uses a GApplication
+framework; and has multiple different programs running simultaneously. As such
+argument parsing has to be accomplished in a GApplication specific way. Mostly
+it is a wrapper for the typical getopt(_long) style C argument parser but its
+a little more in depth since these arguments are being parsed across multiple
+processes. Also I am not sure how to handle the derivative programs, e.g: the
+calling window program. They are independent programs but not really
+independent apps; however, Suagr won't really understand that, I don't think.</p>
+<p>But yeah, at least I am making some progress on this patch.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
