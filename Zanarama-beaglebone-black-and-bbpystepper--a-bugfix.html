@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="foss@rit, ">
+
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
+    <link rel="stylesheet" href="http://mansam.github.io/fossbox/theme/pure.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://use.typekit.net/ajf8ggy.js"></script>
+    <script>
+        try { Typekit.load(); } catch (e) {}
+    </script>
+
+
+        <title>BeagleBone Black and bb_pystepper + a Bugfix // foss@rit // </title>
+</head>
+
+<body>
+    <div class="pure-g-r content" id="layout">
+        <div class="pure-u" id="nav">
+            <a href="#" class="nav-menu-button">Menu</a>
+
+            <div class="nav-inner">
+                <h1>
+                    <a class="logo" href="http://mansam.github.io/fossbox"><img id="profileimg" src="http://foss.rit.edu/files/logo.png" alt="foss@rit"></a>
+                </h1>
+                <div class="pure-menu pure-menu-open">
+                    <ul>
+                        <span class="pure-menu-heading">foss@rit</span>
+                            <li><a href="http://mansam.github.io/fossbox/pages/about.html">About</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/blocku">Blocku</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/civx">CIVX</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/fortune-hunter">Fortune Hunter</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/foss-bot">Foss Bot</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/groove-bot">Groove Bot</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/lazors">Lazorz</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/lemonade-stand">Lemonade Stand</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/mediawiki-visualization">MediaWiki Visualization</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/narcissus">narcissus</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/pages/projects.html">Projects</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/pages/research.html">Research</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/open-video-chat">VideoChat@RIT</a></li>
+                            <li><a href="http://mansam.github.io/fossbox//projects/wikiotics">Wikiotics</a></li>
+                        <li><a href="http://mansam.github.io/fossbox/category/events.html">Events</a></li>
+                        <li class="pure-menu-heading">Blogs</li>
+                            <li><a href="http://mansam.github.io/fossbox/author/blitzkev.html"><span class="cat-label-blue"></span>Blitzkev</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/davesilver.html"><span class="cat-label-blue"></span>DaveSilver</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/decause.html"><span class="cat-label-blue"></span>decause</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/fortnight.html"><span class="cat-label-blue"></span>fortnight</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/imnotlistening.html"><span class="cat-label-blue"></span>imnotlistening</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/jenn.html"><span class="cat-label-blue"></span>Jenn</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/jlew.html"><span class="cat-label-blue"></span>jlew</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/jtmengel.html"><span class="cat-label-blue"></span>jtmengel</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/kayeight.html"><span class="cat-label-blue"></span>kayeight</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/qalthos.html"><span class="cat-label-blue"></span>Qalthos</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/ramstush.html"><span class="cat-label-blue"></span>ramstush</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/rberent.html"><span class="cat-label-blue"></span>rberent</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/rgk8573.html"><span class="cat-label-blue"></span>rgk8573</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/thengrad.html"><span class="cat-label-blue"></span>thengrad</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/tmr9209.html"><span class="cat-label-blue"></span>tmr9209</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/trose.html"><span class="cat-label-blue"></span>trose</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/wacker.html"><span class="cat-label-blue"></span>wacker</a></li>
+                            <li><a href="http://mansam.github.io/fossbox/author/zanarama.html"><span class="cat-label-blue"></span>Zanarama</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    <div class="pure-u-3-4">
+        <div class="article-content margin-blue">
+            <div class="article-content-header pure-g">
+                <div class="pure-u-1">
+                    <h1 class="article-content-title">BeagleBone Black and bb_pystepper + a Bugfix</h1>
+                    <p class="article-content-subtitle">
+                        by <a href="http://mansam.github.io/fossbox/author/zanarama.html">Zanarama</a> on <span>Mon 23 September 2013</span>
+                        // Posted in <a href="http://mansam.github.io/fossbox/category/legacy.html">legacy</a>
+                            // under                                 <a class="post-category post-category-design" href="http://mansam.github.io/fossbox/tag/legacy.html">legacy</a>
+                                <a class="post-category post-category-design" href="http://mansam.github.io/fossbox/tag/fossrit.html">foss@rit</a>
+                    </p>
+                </div>
+            </div>
+            <div class="article-content-body">
+                <p>
+                    <p>So during Software Freedom day I began hacking on the <a href="http://beagleboard.org/Products/BeagleBone%20Black">BeagleBone
+Black</a> and a small stepper
+motor. Are only goal was to gain familiarity with the BeagleBone by
+controlling the stepper motor with Python code that is FOSS.</p>
+<p>For the hardware setup I utilized the <a href="http://robocraft.ru/files/datasheet/28BYJ-48.pdf">28BYJ-48 Stepper
+Motor</a>, the <a href="http://www.datasheets360.com/pdf/624709677179081801?comp=3509">L293D Driver
+Chip</a>, a
+breadboard, some wires, and of course the BeagleBone Black. I had both the
+chip and motor from a kit I bought from AdaFruit, so I used <a href="http://learn.adafruit.com/adafruit-arduino-lesson-16
+-stepper-motors/breadboard-layout">her guide to
+wiring the board</a> as my breadboard setup.</p>
+<p>When looking for code to run the stepper motor I came across <a href="http://petebachant.me/stepper-motor-control-with-the-beaglebone-
+black-and-python/"> this
+blogpost</a> discussing almost exactly what I was trying to do.
+Utilizing this code, <a href="https://github.com/DaWacker">David</a> and I (but 99%
+David) configured the BeagleBone so we could ssh in, and put the bb_pystepper
+code on the BeagleBone, as well as the adafruit stepper library which was a
+dependancy.</p>
+<p>Unfortunately, when we attempted to run the code I discovered that motor only
+vibrated, it didn't actual spin. We went to a lab and started testing outputs
+with an o-scope and a mulitmeter to no avail. We even tried providing power
+from another source to see if the BeagleBoard was having difficulty driving
+enough current. Finally I started software debugging which is when I
+discovered a little variable in the code called steps_per_rev.</p>
+<p>This variable describes the number of steps the motor takes in a spin.
+Currently, it was set to 2048.0, which was far too high for my motor.
+Essentially, signals were being sent so quickly that the motor was able to
+register the pulses. After a little bit of playing around we settled on 512
+being a solid value. However, I was displeased that my testing required me to
+actual change the hardcoded value. Instead, I moved the steps_per_rev as an
+optional constructor argument, as well as moving the pins that drive the
+motor. This is a sample of how the code runs now with my updates.</p>
+<p>$ cd bb_pystepper</p>
+<p>$ python</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>from bb_pystepper import Stepper</p>
+<p>mystepper1 = Stepper() # Creates default stepper motor</p>
+<p>mystepper2 = Stepper(512.0) # Creates motor with 512 steps_per_rev</p>
+<p>mystepper3 = Stepper(256.0, ['P8_17', 'P8_18', 'P8_19', 'P8_20']) # Motor
+with 256 steps per rev and different pin mappings</p>
+<p>mystepper1.rotate(180, 10) # Rotates stepper 1 180 degrees at 10 RPM</p>
+<h1>(will also rotate stepper2 because they are mapped to the same pin</h1>
+<p>mystepper3.rotate(-180, 5) # Rotates stepper 3 back 180 degrees at 5 RPM</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>I am much happier with this version of the code because it allows for multiple
+motors to be run independantly with different steps_per_rotation. It also
+should make the selection of the correct steps_per_rotation a lot easier. I
+still feel that the code could use some improvements for ease of use and
+general configuring but I will go to that soon. The code also could use some
+PEP8 fixes, but I am guessing that someone else in the class may want to
+tackle that.</p>
+                </p>
+ 
+            </div>
+        </div>
+    </div>
+
+        <div class="pure-u-3-4">
+            <footer class="footer">
+                <p>&copy; foss@rit &ndash;
+                    Built with <a href="https://github.com/danclaudiupop/pure">Pure Theme</a>
+                    for <a href="http://blog.getpelican.com/">Pelican</a>
+                </p>
+                <p>Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+                <a href="#" class="go-top">Go Top</a>
+            </footer>
+        </div>
+
+    <script src="http://yui.yahooapis.com/3.10.1/build/yui/yui-min.js"></script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+
+            var menuButton = Y.one('.nav-menu-button'),
+                nav        = Y.one('#nav');
+
+            // Setting the active class name expands the menu vertically on small screens.
+            menuButton.on('click', function (e) {
+                nav.toggleClass('active');
+            });
+
+            // Your application code goes here...
+
+        });
+    </script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+            // This just makes sure that the href="#" attached to the <a> elements
+            // don't scroll you back up the page.
+            Y.one('body').delegate('click', function (e) {
+                e.preventDefault();
+            }, 'a[href="#"]');
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+            // Show or hide the sticky footer button
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 200) {
+                    $('.go-top').fadeIn(200);
+                } else {
+                    $('.go-top').fadeOut(200);
+                }
+            });
+
+            // Animate the scroll to top
+            $('.go-top').click(function(event) {
+                event.preventDefault();
+
+                $('html, body').animate({scrollTop: 0}, 300);
+            })
+        });
+    </script>
+
+</body>
+</html>
