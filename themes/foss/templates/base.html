@@ -38,9 +38,9 @@
                         {% for title, link in MENUITEMS %}
                             <li><a href="{{ link }}">{{ title }}</a></li>
                         {% endfor %}
-                        {% for p in PAGES %}
-                            <li{% if p == page %}{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
-                        {% endfor %}
+                        <li><a href="{{ SITEURL }}/pages/about.html">About</a></li>
+                        <li><a href="{{ SITEURL }}/projects">Projects</a></li>
+                        <li><a href="{{ SITEURL }}/pages/research.html">Research</a></li>
                         <li><a href="{{ SITEURL }}/category/events.html">Events</a></li>
                         <li class="pure-menu-heading">Blogs</li>
                         {% for cat, null in authors %}

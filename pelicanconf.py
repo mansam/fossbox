@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'FOSS@RIT'
 SITENAME = u'foss@rit'
-SITEURL = ''
+SITEURL = 'http://mansam.github.io/fossbox'
 #PLUGINS = ["plugins.github_activity", "plugins.gravatar"]
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
