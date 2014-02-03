@@ -4,7 +4,7 @@ Slug: decause-achievement-unlocked-create-a-hello-world-facebook-app
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: I am happy to follow up my last open shift post with a much more delightful ... 
+Summary: I am happy to follow up my last open shift post with a much more delightful ...
 
 I am happy to follow up my last open shift post with a much more delightful
 one: I successfully deployed a TurboGears2 quickstart, and added a very simple
