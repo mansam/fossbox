@@ -4,7 +4,7 @@ Slug: Zanarama-a-new-school-year
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Tomorrow evening marks the first day of [Rosh ... 
+Summary: Tomorrow evening marks the first day of [Rosh Hashanah](http://en.wikipedia.org/wiki/Rosh_Hashanah) (Happy New Year!) and the middle of the second week of classes so I thought should probably write a blog post to talk about the classes of the new year....  This is a pretty exciting semsester (my first college semester) because almost all of my classes are academically relevant to my major. Other than a Chemistry course I am taking, every class is a computer related course: Applied Programming, C ... 
 
 Tomorrow evening marks the first day of [Rosh
 Hashanah](http://en.wikipedia.org/wiki/Rosh_Hashanah) (Happy New Year!) and

@@ -4,7 +4,7 @@ Slug: fortnight-day-13
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # Hopefully last day of reading up about school Servers ... 
+Summary: # Hopefully last day of reading up about school Servers  As I mentioned on day 12, we planned out when our issues would have to be dealt with by, as well as who has to solve which issue.  All this can be seen here: [HERE!!!!](https://github.com/fossrit/lemonade- stand/issues)  Click on any issue to see a more detailed explanation of what it entails, or filter by milestone to see when things are due.  In addition to that I have been named "Community Lead" of the project, where as my teammates RAM ... 
 
 # Hopefully last day of reading up about school Servers
 

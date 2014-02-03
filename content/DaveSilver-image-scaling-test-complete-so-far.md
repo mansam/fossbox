@@ -4,7 +4,7 @@ Slug: DaveSilver-image-scaling-test-complete-so-far
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So today's Image Scaling test is complete and it gave us a whole lot of really ... 
+Summary: So today's Image Scaling test is complete and it gave us a whole lot of really good data. Basically we found out that scaling images within the code is definitely not a viable option. This means that if a developer wanted to make their program function in multiple resolutions, they would most likely need multiple image sets. With that in mind JT and I are currently thinking that GIFs are the most viable, all around, option. It has the smallest file size and has a very capable frame rate that is  ... 
 
 So today's Image Scaling test is complete and it gave us a whole lot of really
 good data. Basically we found out that scaling images within the code is

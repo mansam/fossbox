@@ -4,7 +4,7 @@ Slug: Jenn-the-ten-bulls
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: I went shopping for a business formal outfit for the White House yesterday, I ... 
+Summary: I went shopping for a business formal outfit for the White House yesterday, I left at 2:00. I thought I would be back in time for debrief, in time to write up a lovely wrap up blog. I got back at 8:00 pm. -___-  I mean seriously? Seriously?!??  Well I found something so now I will be dressed appropriately. It didn’t even occur to me that I was missing debrief until I got back home and looked at the clock. (So sorry Remy!!)  So anyway, I got some good stuff done yesterday.  Finally finished the 1 ... 
 
 I went shopping for a business formal outfit for the White House yesterday, I
 left at 2:00. I thought I would be back in time for debrief, in time to write

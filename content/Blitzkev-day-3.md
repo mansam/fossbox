@@ -4,7 +4,7 @@ Slug: Blitzkev-day-3
 Author: Blitzkev
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Worked all day on formatting (and eventually reformatting >_>) my mac book. ... 
+Summary: Worked all day on formatting (and eventually reformatting >_>) my mac book. Installing linux as a separate partition for development. Almost finished.   ... 
 
 Worked all day on formatting (and eventually reformatting >_>) my mac book.
 Installing linux as a separate partition for development. Almost finished.

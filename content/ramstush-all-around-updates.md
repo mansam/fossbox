@@ -4,7 +4,7 @@ Slug: ramstush-all-around-updates
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Well it has been quite some time since my last blog post and there has been a ... 
+Summary: Well it has been quite some time since my last blog post and there has been a BOAT load of happenings going on in FOSSLAND. SkyTime, Lemonade Stand, are all on their way to become solid-fantastic things!  SkyTime:  We in the SkyTime Team were recently accepted to the White House in Washington DC because of our activity at the National Civic Hack-a-thon a couple weeks ago. We originally planned on working with SkyTime because we weren't happy with how it performed on the XO laptop. We needed to u ... 
 
 Well it has been quite some time since my last blog post and there has been a
 BOAT load of happenings going on in FOSSLAND. SkyTime, Lemonade Stand, are all

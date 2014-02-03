@@ -4,7 +4,7 @@ Slug: tmr9209-week-2-day-2
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today we just finished up our second day of play testing. Our goal over the ... 
+Summary: Today we just finished up our second day of play testing. Our goal over the past two days was to play test social and MMORPG games so that we can get a sense of the design and the best components of each to implement in our own game. Some of the games that I play tested included Stronghold Kingdoms, WoW, several Facebook games, and Starforge. I believe we now have a good handle on the type of game we will be creating as well. Tomorrow we plan to answer specific questions on the games we have bee ... 
 
 Today we just finished up our second day of play testing. Our goal over the
 past two days was to play test social and MMORPG games so that we can get a

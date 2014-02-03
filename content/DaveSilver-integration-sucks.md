@@ -4,7 +4,7 @@ Slug: DaveSilver-integration-sucks
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So today I finally finished all of the classes and functions of the animation ... 
+Summary: So today I finally finished all of the classes and functions of the animation system. My next task is to integrate all of the classes into the game engine that Jlew and BlitzKev have built. This task is pretty hefty and will probably take a day or so to complete. It involves me finding every location where my stuff would be used and then figuring how best to make it work in those locations. It's a big task but I know I am up to it.  On top of integrating our system into the game engine I also ha ... 
 
 So today I finally finished all of the classes and functions of the animation
 system. My next task is to integrate all of the classes into the game engine

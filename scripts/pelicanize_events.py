@@ -16,21 +16,34 @@ def create_pelican_file(blog):
 	slug = title_to_slug(title)
 	author = blog['author']['username']
 	filename = "event-" + author + "-" + slug + ".md"
-	
+
 	date = blog['created_at']
 	content = blog['markdown_content']
+	start = ""
+	end = ""
+	timezone = ""
+	for line in content.split('\n'):
+		if line.startswith('Start:'):
+			start = line
+		if line.startswith('End:'):
+			end = line
+		if line.startswith('Timezone:')
+			timezone = line
 	output = "Title: " + title + "\n"
 	output += "Date: " + date + "\n"
 	output += "Slug: event-" + author + "-" + slug + "\n"
 	output += "Author: " + author + "\n"
 	output += "Tags: legacy, event, foss@rit\n"
 	output += "Category: Events\n"
-	output += "Summary: " + content.split("\n")[0][:200].replace(':', ' ') + " ... " + "\n"
+	output += start + "\n"
+	output += end + "\n"
+	output += timezone + "\n"
+	output += "Summary: " + content[:500].replace(':', ' ').replace('\n', ' ') + " ... " + "\n"
 	output += "\n"
 	output += "---\n" # try to avoid breaking pelican
 	output += content
 	with open(filename, 'w') as f:
-		f.write(output)
+		f.write(output.encode('utf-8'))
 
 if __name__ == '__main__':
 	filename = sys.argv[1]

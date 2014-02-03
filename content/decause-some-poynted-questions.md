@@ -4,7 +4,7 @@ Slug: decause-some-poynted-questions
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: As Resident Hacktivist at Rochester Institute of Technology ... 
+Summary: As Resident Hacktivist at Rochester Institute of Technology ([http://www.rit.edu](http://www.rit.edu)), on behalf of the FOSS@RIT Campaign ([http://foss.rit.edu](http://foss.rit.edu)), I would like to know, from the journalists' perspective, how we can mold the tools of our CIVX platform ([http://civx.us](http://civx.us)) to best meet the needs of the Media, and how our students, fellows, and faculty, can bridge the gap for an industry in the midst of major paradigm shift.  Our project specializ ... 
 
 As Resident Hacktivist at Rochester Institute of Technology
 ([http://www.rit.edu](http://www.rit.edu)), on behalf of the FOSS@RIT Campaign

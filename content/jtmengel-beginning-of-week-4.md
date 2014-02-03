@@ -4,7 +4,7 @@ Slug: jtmengel-beginning-of-week-4
 Author: jtmengel
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So last week the FOSS-Box manned a booth at the RIT Symposium of Deaf ... 
+Summary: So last week the FOSS-Box manned a booth at the RIT Symposium of Deaf Education and Technology; we met a good number of people and showed off the XO's as well as the software we're developing for the platforms. Most of the questions and interest was directed at the XO's themselves, but such is life. Last week was more or less lost to the sake of programming though, and the work that I managed to sneak in between questions was largely focused on getting the master test program on its feet. Thursd ... 
 
 So last week the FOSS-Box manned a booth at the RIT Symposium of Deaf
 Education and Technology; we met a good number of people and showed off the

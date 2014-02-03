@@ -4,7 +4,7 @@ Slug: kayeight-day-three
 Author: kayeight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today I managed to get a semi-working mockup of a tabs widget that could be ... 
+Summary: Today I managed to get a semi-working mockup of a tabs widget that could be used to display information about NY state senators. Each collapsible tab contains a category of information such as bill sponsored by that senator, committees they are a member of, contact information, etc. Hopefully the coolest part of this will be a calendar widget embedded in one of the tabs, to store events relating to the senator. This part is not functional yet; right now I put up a very basic calendar as a placeh ... 
 
 Today I managed to get a semi-working mockup of a tabs widget that could be
 used to display information about NY state senators. Each collapsible tab

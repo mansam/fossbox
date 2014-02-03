@@ -4,7 +4,7 @@ Slug: decause-capitolcamp-recap
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Out across the empire plaza, a man in a white hat and three piece strides ... 
+Summary: Out across the empire plaza, a man in a white hat and three piece strides along between the reflecting pools toward The Egg. In train, a sharply clad trio of women, each toting their satchels full to the brim with equipment, computers and ambition. Amongst the towers, amphitheatres, and marble goliaths, their eyes were wide with experiencing the Capitol for the first time, but in too much of a hurry to take much in.  ![](http://foss.rit.edu/files/emplazacrop.png)  After a meet and greet with the ... 
 
 Out across the empire plaza, a man in a white hat and three piece strides
 along between the reflecting pools toward The Egg. In train, a sharply clad

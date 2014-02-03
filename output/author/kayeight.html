@@ -76,7 +76,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Yesterday I completed the meetings and votes tabs of the person widget, which ...</p>
+                <p>Yesterday I completed the meetings and votes tabs of the person widget, which were a cinch with the list of committees successfully scraped by the masterful Geo Pirate. I can now safely say we're nearly done with this widget, save for the calendar tab (which appears to be on the back burner now) and a few minor ordering issues. Our next target is a poly form widget and a location dashboard, parts of which are already working.   ...</p>
             </div>
         </div>
     </div>
@@ -93,7 +93,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Yesterday, while becoming increasingly frustrated at the NY senate's website ...</p>
+                <p>Yesterday, while becoming increasingly frustrated at the NY senate's website as I tried to scrape committee information, Nate suggested a much easier solution. I had been attempting to visit each senator's page and get their committees individually, but naturally, the website is formatted so inconsistently that no two senators list their committees in the same place or manner. I whiled away a number of hours in this direction before Nate had the idea of searching from the other direction - visit ...</p>
             </div>
         </div>
     </div>
@@ -110,7 +110,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Lately we have been trying to both put a swanky new theme on the CIVX website ...</p>
+                <p>Lately we have been trying to both put a swanky new theme on the CIVX website as well as wrap up the person dashboard. While Rebecca has been doing an amazing job on the former, I have been working on the latter. I ran into a few snags earlier last week when I experienced the results of not pulling from the repository often enough (note to self: don't do that again) and had problems merging my code with the large amount that had been committed since I last pulled.  With that lesson learned, I go ...</p>
             </div>
         </div>
     </div>
@@ -127,7 +127,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>As you may have read, this past week the entire FOSS-box roadtripped to Boston ...</p>
+                <p>As you may have read, this past week the entire FOSS-box roadtripped to Boston for a hackfest at OLPC headquarters. Though we don't work on the XO laptops, CIVX was also able to tag along, and it's a good thing we did - the opportunity to work in person with Luke again was invaluable. It's awesome what can get done over the course of eight hours in a conference room with a bunch of hacker extraordinaires!  I made a lot of progress with the person dashboard widget while in Boston. The headshot sc ...</p>
             </div>
         </div>
     </div>
@@ -144,7 +144,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>The person dashboard is finally starting to come together, and hopefully will ...</p>
+                <p>The person dashboard is finally starting to come together, and hopefully will be up on the CIVX website very soon. Yesterday I started modifying it to be able to take the name of a senator from a jQuery selector, before generating its tabs. I ran into a bit of a roadblock then, trying to figure out how to pass information around between the different components of the widget. I'm currently trying to solve an error when embedding python in a Genshi template - should get that ironed out today with ...</p>
             </div>
         </div>
     </div>
@@ -161,7 +161,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>We've now officially completed week 3, a.k.a. the first summer cycle. Things ...</p>
+                <p>We've now officially completed week 3, a.k.a. the first summer cycle. Things are looking bright for CIVX!  This past week I again modified my person dashboard to get information about actions and votes from the Open Legislation API. I'm still trying to figure out the best way to get contact information and committee membership by senator, but that is the last hurdle before the widget gets all of its tabs' info dynamically. I am moving the widget itself from the quickstart project I created to a  ...</p>
             </div>
         </div>
     </div>
@@ -178,7 +178,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>The past week has been very busy with conferences and meetings, but I still ...</p>
+                <p>The past week has been very busy with conferences and meetings, but I still managed to get some quality stuff done. I learned how to actually make a widget in TurboGears, as opposed to the somewhat brute force way I have been doing things, so hopefully soon the mess that is my tabs demo will be looking much cleaner. I've added a couple interesting bits of jQuery, including the HeatColor widget Rebecca posted about earlier. I also found a [much more versatile calendar](http://arshaw.com/fullcalen ...</p>
             </div>
         </div>
     </div>
@@ -195,7 +195,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Today started out with a round of meetings and some time at POSSE. In the ...</p>
+                <p>Today started out with a round of meetings and some time at POSSE. In the middle of all this, I got my first glimpse at the actual code for CIVX... exciting! With help from Luke, I edited the tabs demo to get bill information from the senate API, replacing the hard-coded text. The JSON data for bills by senator is strangely inconsistent depending on how the number of results per page, so I hope to figure that out soon. In any case, it makes the widget look that much more slick. :)   ...</p>
             </div>
         </div>
     </div>
@@ -212,7 +212,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>It's been a good first week here at FOSS. After spending a couple days getting ...</p>
+                <p>It's been a good first week here at FOSS. After spending a couple days getting everything set up with my computer (git, TurboGears, fedorahosted, etc etc), I started working on making a demo of the kind of widgets CIVX could use to display information, particularly for the New York state senate.  I've been playing around with a jQuery tabs widget that's pretty sleek looking. After some struggling to get that working in TurboGears, I think it looks good so far, and will be really awesome once I l ...</p>
             </div>
         </div>
     </div>
@@ -229,7 +229,7 @@ Posts by 'kayeight'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Today I managed to get a semi-working mockup of a tabs widget that could be ...</p>
+                <p>Today I managed to get a semi-working mockup of a tabs widget that could be used to display information about NY state senators. Each collapsible tab contains a category of information such as bill sponsored by that senator, committees they are a member of, contact information, etc. Hopefully the coolest part of this will be a calendar widget embedded in one of the tabs, to store events relating to the senator. This part is not functional yet; right now I put up a very basic calendar as a placeh ...</p>
             </div>
         </div>
     </div>

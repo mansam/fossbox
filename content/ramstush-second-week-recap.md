@@ -4,7 +4,7 @@ Slug: ramstush-second-week-recap
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: This week was, again, a whirlwind of experiences. Leading the charge on this ... 
+Summary: This week was, again, a whirlwind of experiences. Leading the charge on this battle, we were able to take Monday off because we all went to the National Civic Day of Hacking. Beginning on Tuesday, we had a short seminar on getting set up on [GitHUB](https://github.com/) to learn how to use Git. We also started our planning for our trip to a local school for Lemonade Day, by planning I mean we started talking about what would be good to bring and how we were going to get there.  Moving into our r ... 
 
 This week was, again, a whirlwind of experiences. Leading the charge on this
 battle, we were able to take Monday off because we all went to the National

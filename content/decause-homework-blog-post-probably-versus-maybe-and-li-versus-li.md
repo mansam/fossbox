@@ -4,7 +4,7 @@ Slug: decause-homework-blog-post-probably-versus-maybe-and-li-versus-li
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Here is the link to my github repo: ... 
+Summary: Here is the link to my github repo:  [Github](https://github.com/decause/floss-sem-homework1)  # Probably versus Maybe      -    // Play the background music     +    // Play the background music if sound is supported          if (soundIsSupported()) {              su.play(sources, 0, 156000, globalVolume, false);          }     @@ -150,14 +150,15 @@ function soundIsSupported() {          var a = new Audio();          var failures = 0;     +          for (var i = 0; i < sources.length; i++) {   ... 
 
 Here is the link to my github repo:
 

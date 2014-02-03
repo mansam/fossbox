@@ -4,7 +4,7 @@ Slug: decause-from-civx-import-magic
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: A Proper Hackfest. ... 
+Summary: A Proper Hackfest.  Finally.  16 hour days.  At least 16.  Breaking only to eat and maybe grab a cig here and there.  Deep. Real deep.  Like, all the way down to the bottem of the stack. Opening up SQLAlchemy source, DBSessions, engines, metadata... super low-level Database/Datamodel hacking. Halfway through, Lewk and I looked at eachother and thought:  > Did we dive too deep?  Can we really build DynamicDataObjects on-the-fly?  Are the Polymorphic Tables really supposed to be (ab)used in this w ... 
 
 A Proper Hackfest.
 

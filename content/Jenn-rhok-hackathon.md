@@ -4,7 +4,7 @@ Slug: Jenn-rhok-hackathon
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Hi, ... 
+Summary: Hi,  My name’s Jenn, and I am the new kid at FOSS@RIT. I am really excited to be the artist/designer to be working here!!  I am studying Medical Illustration at RIT, and when I am not drawing organs in the cadaver lab, I have been getting into interactive media and game design.  My first order of business at FOSS was attending a Random Hacks of Kindness hack-a-thon. It was the first I had heard of the organization, and honestly I was blown away by what they do.  When you think of helping a chari ... 
 
 Hi,
 

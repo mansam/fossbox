@@ -78,7 +78,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Start  04/14/2012 - 12 00am ...</p>
+                <p>Start  04/14/2012 - 12 00am  Timezone  US/Eastern  BarCamp Rochester is an ad-hoc gathering born from the desire for people to share and learn in an open environment. BarCamp Rochester is an intense event with discussions, demos, and interaction from attendees. All attendees should give a demo, a session, or help with one. All presentations are scheduled the day they happen. Prepare in advance, but come early to get a good slot on the schedule. Check-in begins around 8am, with the first presenta ...</p>
             </div>
         </div>
     </div>
@@ -95,7 +95,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Start  04/13/2012 - 8 00pm ...</p>
+                <p>Start  04/13/2012 - 8 00pm  End  04/14/2012 - 4 00pm  Timezone  US/Eastern  <img alt="" src="http" title="//foss.rit.edu/files/flyer-clouds.png" />   ...</p>
             </div>
         </div>
     </div>
@@ -112,7 +112,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Looks like the best course of action is to add support to Empathy or Sugar to ...</p>
+                <p>Looks like the best course of action is to add support to Empathy or Sugar to properly interface a video chat app into sugar. How exactly this will be done is not completely clear to me yet but here are the possibilities I have seen.  # Modify And Add To The Empathy Code Base  Sugar communicates with its activities via DBus. DBus is an IPC mechanism which allows the SUgar shell to pass commands via remote method calls to a running application. In order to make Empathy a proper sugar activity, i ...</p>
             </div>
         </div>
     </div>
@@ -129,7 +129,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <h1>Whats Going On? ...</h1>
+                <h1>Whats Going On?  There have been more than a few attempts at making a Sugar compatible video chat application. As it stands right now there are at least 4 or 5 that work to varying degrees. Empathy is probably the most functional app that I am aware of, however, Empathy is not Sugarized (as far as I know). So after signing up for a bunch of different mailing lists and asking a bunch of questions here is what I have learned.   Build a Completely New Program  After talking to the development lo ...</h1>
             </div>
         </div>
     </div>
@@ -146,7 +146,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <h2>Telepathy-glib ...</h2>
+                <h2>Telepathy-glib  To make life easier I am going to use lib telepathy for dealing with the separate chat protocols and features and what not. Libtelepathy greatly reduces the effort required for developing a full featured communication program, e.g: IM, VoIP, and video chat/conferencing. Many major applications these days are now using it as a back end. The XO file system does have a telepathy package in the yum repositories, however it is not the latest and greatest. There has been lots of rec ...</h2>
             </div>
         </div>
     </div>
@@ -163,7 +163,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Finally... Its spring quarter and I have some time to get a native video chat ...</p>
+                <p>Finally... Its spring quarter and I have some time to get a native video chat app running on an XO. There is a lot of talk about the OVC application created by a couple of RIT students: <a href="http://foss.rit.edu/projects/ovc">http://foss.rit.edu/projects/ovc</a>. While they work on the python implementation, I am going to detail my progress towards building a native C application.  To start of with, here is how I set up my development environment for writing/compiling XO code. I don't know if there are  ...</p>
             </div>
         </div>
     </div>
@@ -180,7 +180,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Here is the link to my github repo: ...</p>
+                <p>Here is the link to my github repo:  <a href="https://github.com/decause/floss-sem-homework1">Github</a>  # Probably versus Maybe      -    // Play the background music     +    // Play the background music if sound is supported          if (soundIsSupported()) {              su.play(sources, 0, 156000, globalVolume, false);          }     @@ -150,14 +150,15 @@ function soundIsSupported() {          var a = new Audio();          var failures = 0;     +          for (var i = 0; i &lt; sources.length; i++) {   ...</p>
             </div>
         </div>
     </div>
@@ -197,7 +197,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <p>This week for me has been all about outreach. I truly enjoy the role of ...</p>
+                <p>This week for me has been all about outreach. I truly enjoy the role of storytelling, because I get to participate with the FOSS Community in a different way than committing patches to repos (not that I don't enjoy coding, I'm just not quite as good at expressing my thoughts in python as I am in HTML ;) In the land of FOSS, attribution is the coin of the realm. It is the oil between the gears and pistons. Giving credit where credit is due is the simplest default state of many open licenses and i ...</p>
             </div>
         </div>
     </div>
@@ -214,7 +214,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <p>I am well on the way to understanding how Drupal works and now I have an ...</p>
+                <p>I am well on the way to understanding how Drupal works and now I have an alumni Drupal ninja, Mark DeMayo, helping me out.  So far, I have set up most of the Drupal modules and administrative stuff on the back-end of the site. Remy has just informed me that I will be able to migrate my site soon to RIT's servers which might make administration easier (I hope).  Regarding the aesthetics of the site, I have been successful in creating a 3x3 grid view of comments and blog posts. I'm still trying to ...</p>
             </div>
         </div>
     </div>
@@ -231,7 +231,7 @@
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Well...as of right now, I seem to be having issues trying to get a picture to ...</p>
+                <p>Well...as of right now, I seem to be having issues trying to get a picture to show up on the main page of the site as a blog entry. I have been using my Drupal instance for all testing purposes which you can find a link to in the last blog post. I have also been researching more about the 960.gs (grid system) which is a framework for CSS that allows properly structured Web pages based on a specified number of columns.  I will try to figure out this weekend why the pictures are not showing up, an ...</p>
             </div>
         </div>
     </div>

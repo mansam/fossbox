@@ -4,7 +4,7 @@ Slug: fortnight-week-in-reviewday-7
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: One Week Down! ... 
+Summary: One Week Down!  I know what I have to do for this project, and I know why I have to do it, all that remains now is the how.  Here's a day by day break down of what happened:  #  Day 0:  Bootstrapping  -> Installed Fedora on my comp   -> TIL laptops can be called "Boxes"   -> Created accounts on many websites:   -->> [ We use github to share our code ](https://github.com/fortnight)   -->> [ We used this to register for Flock ](http://fedoraproject.org/)   -->> [ We use this to chat in our debrie ... 
 
 One Week Down!
 

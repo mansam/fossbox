@@ -4,7 +4,7 @@ Slug: decause-up-in-lights-rit-stem-hacakthon-put-on-blast-at-cooney-center-blog
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: This week for me has been all about outreach. I truly enjoy the role of ... 
+Summary: This week for me has been all about outreach. I truly enjoy the role of storytelling, because I get to participate with the FOSS Community in a different way than committing patches to repos (not that I don't enjoy coding, I'm just not quite as good at expressing my thoughts in python as I am in HTML ;) In the land of FOSS, attribution is the coin of the realm. It is the oil between the gears and pistons. Giving credit where credit is due is the simplest default state of many open licenses and i ... 
 
 This week for me has been all about outreach. I truly enjoy the role of
 storytelling, because I get to participate with the FOSS Community in a

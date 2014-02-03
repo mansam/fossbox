@@ -4,7 +4,7 @@ Slug: DaveSilver-the-summer-is-almost-halfway-done
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So it is the beginning of week 5 which means we are almost halfway done with ... 
+Summary: So it is the beginning of week 5 which means we are almost halfway done with the summer and with this research. So this week is pretty eventful for us at the Fossbox. First we got off yesterday because it was the day after the 4th of July. Then today we have a normal day of work and then tomorrow we are all going to Boston for a Hackfest at OLPC headquarters on Thursday. We will be commuting to the Hackfest on Wednesday and coming home from it on Friday so both of those days are pretty much shot ... 
 
 So it is the beginning of week 5 which means we are almost halfway done with
 the summer and with this research. So this week is pretty eventful for us at

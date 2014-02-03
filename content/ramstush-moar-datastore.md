@@ -4,7 +4,7 @@ Slug: ramstush-moar-datastore
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Well this is troubling. Since I've taken on the task of understanding how the ... 
+Summary: Well this is troubling. Since I've taken on the task of understanding how the journal works in the OLPC XO laptops, I have learned a great deal of information regarding the sugar datastore. HOWEVER, as I claim more and more knowledge for myself, I keep finding myself at points where I cannot physically progress my understand because the only documented information about datastore is contained within [this single document](http://wiki.laptop.org/go/Sugar.datastore.datastore). Its a 1 to 1 ratio,  ... 
 
 Well this is troubling. Since I've taken on the task of understanding how the
 journal works in the OLPC XO laptops, I have learned a great deal of

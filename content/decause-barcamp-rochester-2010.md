@@ -4,7 +4,7 @@ Slug: decause-barcamp-rochester-2010
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: ![](http://foss.rit.edu/files/barcamprocflyer.png) ... 
+Summary: ![](http://foss.rit.edu/files/barcamprocflyer.png)   ... 
 
 ![](http://foss.rit.edu/files/barcamprocflyer.png)
 

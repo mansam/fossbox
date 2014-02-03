@@ -4,7 +4,7 @@ Slug: ramstush-getting-set-up-with-mozilla-persona-and-getting-badge-1
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today we had a lot of busy work in Lemonade world. We finished creating our ... 
+Summary: Today we had a lot of busy work in Lemonade world. We finished creating our github tickets, and just need to assign these tickets to our team members. With this done, I turned my focus to researching Mozilla Open Badges.  My first search into Mozilla brought me to the [OpenBadges.org Site](http://www.openbadges.org/) which is the poster site for Open Badges. It gives new users a new summary and explains what Open Badges is. I learned, that to be able to receive badges, you need to have a backpac ... 
 
 Today we had a lot of busy work in Lemonade world. We finished creating our
 github tickets, and just need to assign these tickets to our team members.

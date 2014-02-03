@@ -4,7 +4,7 @@ Slug: decause-your-pixel-ninja-skill-has-increased-by-10
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: These 1200x800ish some-odd pixels may not look like much, but each one was ... 
+Summary: These 1200x800ish some-odd pixels may not look like much, but each one was carefully shift+arrowed into it's rightful place, and ctrl+click scaled to just the right size.  ![](http://foss.rit.edu/files/brochure_postcard.png)  One of the hardest things to give up when I switched to Linux/BSD/FOSS 10 years ago (gasp), was MS Paint. It was the only piece of software I was ever truly proficient with on our family Windows 3.1 box (Solitaire doesn't count obv). Tux Paint never quite filled the gap for ... 
 
 These 1200x800ish some-odd pixels may not look like much, but each one was
 carefully shift+arrowed into it's rightful place, and ctrl+click scaled to

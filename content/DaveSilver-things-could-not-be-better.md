@@ -4,7 +4,7 @@ Slug: DaveSilver-things-could-not-be-better
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So I am finally finished with my Sprite Sheet testing environment and it works ... 
+Summary: So I am finally finished with my Sprite Sheet testing environment and it works great. Basically what I have done, is make a test program that runs the same basic test we have been doing in all the other situations on multiple different types of sprite sheets. By doing this test we have the ability to see what style of sprite sheet will give us the best frame rate in our animation system. So ideally next week when we are planning our animation system we will not only know the best image formats t ... 
 
 So I am finally finished with my Sprite Sheet testing environment and it works
 great. Basically what I have done, is make a test program that runs the same

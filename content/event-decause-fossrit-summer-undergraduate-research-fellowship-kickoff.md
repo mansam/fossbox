@@ -4,7 +4,7 @@ Slug: event-decause-fossrit-summer-undergraduate-research-fellowship-kickoff
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  06/06/2011 - 2 00pm ... 
+Summary: Start  06/06/2011 - 2 00pm  Timezone  US/Eastern  The Summer Quarter begins on June 6th. The FOSSBox will be convening for our first meeting of the Undergraduate Research Fellows to start the summer off.   ... 
 
 ---
 Start: 06/06/2011 - 2:00pm

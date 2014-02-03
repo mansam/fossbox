@@ -4,7 +4,7 @@ Slug: Jenn-first-wfhf
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today I worked mostly on Sky Time business. I edited the essays, re-shot most ... 
+Summary: Today I worked mostly on Sky Time business. I edited the essays, re-shot most of the video, and set up the activity page for it! :D  [http://activities.sugarlabs.org/en- US/sugar/addon/4670](http://activities.sugarlabs.org/en-US/sugar/addon/4670)  I also separated the FOSS and Fedora badges into separate svg files. [https:// github.com/FOSSRIT/badges/tree/master/art](https://github.com/FOSSRIT/badges/t ree/master/art)   ... 
 
 Today I worked mostly on Sky Time business. I edited the essays, re-shot most
 of the video, and set up the activity page for it! :D

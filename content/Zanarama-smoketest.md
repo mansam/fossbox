@@ -4,7 +4,7 @@ Slug: Zanarama-smoketest
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: We have recieved the XO laptops for the HFOSS course. Instead of getting a 1.5 ... 
+Summary: We have recieved the XO laptops for the HFOSS course. Instead of getting a 1.5 like most of the class, I have been given a modified 1.0 that has a serial port soldered in. Its a pretty cool hack and will hopefully help in our work with sensors. I am really excited to get started hacking with sensors, but first I needed to test the functionality of the OLPC.  The XO booted just fine and is already set up with a variety of activities that use sensors, although I may end up reinstalling the OS to t ... 
 
 We have recieved the XO laptops for the HFOSS course. Instead of getting a 1.5
 like most of the class, I have been given a modified 1.0 that has a serial

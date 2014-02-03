@@ -4,7 +4,7 @@ Slug: event-jlew-walter-bender
 Author: jlew
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  04/30/2010 - 2 00pm ... 
+Summary: Start  04/30/2010 - 2 00pm  End  04/30/2010 - 4 00pm  Timezone  US/Eastern  Dogi (Stefan Unterhauser), Adam Holt, and I were in Rochester this  week for a series of events at RIT  the OLPC Users Group Meeting; the  Dean's Lecture Series (I talked about why learning is so important;  [http //www.ustream.tv/recorded/6561388 video]); and the Imagine RIT  Innovation Festival. Our host was Stephen Jacobs. We spent some  quality time with his students, whom are in project teams, developing  two Sugar  ... 
 
 ---
 Start: 04/30/2010 - 2:00pm

@@ -4,7 +4,7 @@ Slug: ramstush-steps-forward-with-sash-and-turntable-botting
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Yesterday was a slow day of research and development. As usual, it took most ... 
+Summary: Yesterday was a slow day of research and development. As usual, it took most of the day to finally get to the interesting bits. SO, lets start where the fun begins. First, a small revelation regarding sugar activities. If you're programming a prospective activity, write the program first in python (so that it works on you're PC, box, etc..). AFTER your activity works just the way you want it to work on your machine, port it over to sugar by importing your sugar library and placing all of your co ... 
 
 Yesterday was a slow day of research and development. As usual, it took most
 of the day to finally get to the interesting bits. SO, lets start where the

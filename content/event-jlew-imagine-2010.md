@@ -4,7 +4,7 @@ Slug: event-jlew-imagine-2010
 Author: jlew
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  05/07/2010 - 12 00am ... 
+Summary: Start  05/07/2010 - 12 00am  End  05/07/2010 - 6 59am  Timezone  US/Eastern  Imagine RIT 2010   ... 
 
 ---
 Start: 05/07/2010 - 12:00am

@@ -4,7 +4,7 @@ Slug: DaveSilver-things-keep-getting-complicated
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So yesterday was primarily successful however towards the end of the end we ... 
+Summary: So yesterday was primarily successful however towards the end of the end we started running into some problems. Basically as we got to the end of the day we found that some of the methods we were using, or planning on using, were not going to be as successful as we thought. You see, we intended to use a "dirty" update method. This means that instead of updating the whole screen every frame, it only updates the areas covered by objects that actually need to be updated. To do this, we would simply ... 
 
 So yesterday was primarily successful however towards the end of the end we
 started running into some problems. Basically as we got to the end of the day

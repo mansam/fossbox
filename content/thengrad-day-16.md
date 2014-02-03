@@ -4,7 +4,7 @@ Slug: thengrad-day-16
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: After looking up the syntax of dictionaries in python I've come to a better ... 
+Summary: After looking up the syntax of dictionaries in python I've come to a better understanding of Lemonade Stand's code. I gave up trying to work on the ticket I was assigned because there was just to much overlap that I was very unproductive. So I've switched my focus for now to work more on the random events that happen to the player and balancing some of them to help try and slow down the rate the player earns money.  Today was the RocPy meet up. Most of us here for the summer went. We heard a tal ... 
 
 After looking up the syntax of dictionaries in python I've come to a better
 understanding of Lemonade Stand's code. I gave up trying to work on the ticket

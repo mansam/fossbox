@@ -4,7 +4,7 @@ Slug: wacker-week-recap-new-ui-completed
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
-Summary: **Monday: Base Implementation**   ... 
+Summary: **Monday: Base Implementation**   - I was able to get some new artwork from our amazing artist [Jenn!](http://foss.rit.edu/blog/6426) I received the new screen for the profit mini game.   - I began hocking up the new mini game screen to appear only if the player made any profit   - Finished cleaning out the day logs  **Tuesday: Finishing Touches**   - Started throwing together the finishing functionality of the mini game screen allowing users to select different types of money and having the min ... 
 
 **Monday: Base Implementation**  
 - I was able to get some new artwork from our amazing artist [Jenn!](http://foss.rit.edu/blog/6426) I received the new screen for the profit mini game.  

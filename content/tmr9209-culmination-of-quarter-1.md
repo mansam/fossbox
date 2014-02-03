@@ -4,7 +4,7 @@ Slug: tmr9209-culmination-of-quarter-1
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today we just completed the first quarter of the work we are doing for the ... 
+Summary: Today we just completed the first quarter of the work we are doing for the summer. Over this quarter we did a lot of research on various components of game creation. From design components to game mechanics, we have researched several game types to understand the best way to implement Fedora achievements into a video game. Using this data, we also made several charts and diagrams to present the information to Red Hat.  In addition to the research that I learned specifically for Red Hat, I also l ... 
 
 Today we just completed the first quarter of the work we are doing for the
 summer. Over this quarter we did a lot of research on various components of

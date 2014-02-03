@@ -4,7 +4,7 @@ Slug: fortnight-day-16
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # Productively Lost ... 
+Summary: # Productively Lost   ... 
 
 # Productively Lost
 

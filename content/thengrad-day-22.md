@@ -4,7 +4,7 @@ Slug: thengrad-day-22
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So DAWacker found out why the events weren't showing up after five days had ... 
+Summary: So DAWacker found out why the events weren't showing up after five days had passed. It wasn't working because I was using the variable's name when checking how many days had passed when I should have been using the property's name. He the decided to fix it himself and in the process of fixing that he decided to completely rewrite a helper function that I had written and was still in the middle of testing, which prevented me from continuing working on my ticket. So I spent the morning looking at  ... 
 
 So DAWacker found out why the events weren't showing up after five days had
 passed. It wasn't working because I was using the variable's name when

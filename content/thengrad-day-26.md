@@ -4,7 +4,7 @@ Slug: thengrad-day-26
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: With a little bit of work and fixing small typos I have now added a way for ... 
+Summary: With a little bit of work and fixing small typos I have now added a way for recipe to be selected in game. What I did was adapt the old way of doing the profit mini-game and put it at the end of the current end of the day log script. The way it works is that [LemonadeGui](https://github.com/FOSSRIT /lemonade-stand/blob/develop/LemonadeGui.py) stores two arrays. One is an array of the array of keys for each option. The other is an array of the current index number for each array of keys. Then eve ... 
 
 With a little bit of work and fixing small typos I have now added a way for
 recipe to be selected in game. What I did was adapt the old way of doing the

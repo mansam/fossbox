@@ -4,7 +4,7 @@ Slug: ramstush-creating-tickets-on-github
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today the largest part of the day was the Lemonade Stand's start into creating ... 
+Summary: Today the largest part of the day was the Lemonade Stand's start into creating tickets on git hub so we can begin to tackle some serious steps into our Lemonade Stand work.  Within every repository on github there is an issue tab. We use this tab to create the tickets that we need to work on to make sure we accomplish our goals for thie summers project. Here's a link on how to use the github issue tab to its fullest extent: [github issues tab](http://openmdao.org/dev_docs /dev-guide/issues.html) ... 
 
 Today the largest part of the day was the Lemonade Stand's start into creating
 tickets on git hub so we can begin to tackle some serious steps into our

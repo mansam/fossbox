@@ -4,7 +4,7 @@ Slug: fortnight-day-19
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # Fear of Failure ... 
+Summary: # Fear of Failure  Yay! today is Work from home friday!!!! However, it is also the start of my discontent. Today marks one week that I have tried and failed to implement a school server. I only have a week left to [close the ticket](https://github.com/FOSSRIT/lemonade-stand/issues/2). This is quite worrysome for me as I was the one who wrote up most of the tickets for the project, and assumed the role of community lead. With no one in my home to seek guidance or confidence from, I tried, unsucce ... 
 
 # Fear of Failure
 

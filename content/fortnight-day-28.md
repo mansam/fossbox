@@ -4,7 +4,7 @@ Slug: fortnight-day-28
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # Work from Real-Home Friday!!!!! ... 
+Summary: # Work from Real-Home Friday!!!!!  Though Fridays are work from home fridays, I went back to my home of origin in nyc for the weekend and worked from there.  I spent most of today figuring out how [áccént márks and special ñ characters](http://www.spanishdict.com/answers/100808/how-to-type-spanish- letters-and-accents-#.UduHj_mkqtY) could be typed into the the [spanish versio n](http://www.pixfans.com/imagenes/2009/01/street_fighter_ii_spanish_version.g if) of [lemonade stand.](https://github.co ... 
 
 # Work from Real-Home Friday!!!!!
 

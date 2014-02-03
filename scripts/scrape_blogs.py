@@ -40,20 +40,21 @@ def dict_from_soup(soup):
     p['content'] = content.text.strip().replace("Printer-friendly version", "")
 
     # get attachments
-    attachments = []
-    links = soup.find_all("a")
-    for a in links:
-        if 'href' in a.attrs and a.attrs['href'].startswith("http://foss.rit.edu/files/"):
-            url = a.attrs['href']
-            attachments.append(url)
-            local_filename = url.split('/')[-1]
-            response = requests.get(url, stream=True)
-            with open(local_filename, 'wb') as f:
-                for chunk in response.iter_content(chunk_size=1024):
-                    if chunk:
-                        f.write(chunk)
-                        f.flush()
-            print(local_filename)
+    if sys.argv[2] == "yes":
+        attachments = []
+        links = soup.find_all("a")
+        for a in links:
+            if 'href' in a.attrs and a.attrs['href'].startswith("http://foss.rit.edu/files/"):
+                url = a.attrs['href']
+                attachments.append(url)
+                local_filename = url.split('/')[-1]
+                response = requests.get(url, stream=True)
+                with open(local_filename, 'wb') as f:
+                    for chunk in response.iter_content(chunk_size=1024):
+                        if chunk:
+                            f.write(chunk)
+                            f.flush()
+                print(local_filename)
 
     p['markdown_content'] = html2text.html2text(str(content))
     p['html_content'] = str(content)

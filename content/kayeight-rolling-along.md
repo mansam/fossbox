@@ -4,7 +4,7 @@ Slug: kayeight-rolling-along
 Author: kayeight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: The past week has been very busy with conferences and meetings, but I still ... 
+Summary: The past week has been very busy with conferences and meetings, but I still managed to get some quality stuff done. I learned how to actually make a widget in TurboGears, as opposed to the somewhat brute force way I have been doing things, so hopefully soon the mess that is my tabs demo will be looking much cleaner. I've added a couple interesting bits of jQuery, including the HeatColor widget Rebecca posted about earlier. I also found a [much more versatile calendar](http://arshaw.com/fullcalen ... 
 
 The past week has been very busy with conferences and meetings, but I still
 managed to get some quality stuff done. I learned how to actually make a

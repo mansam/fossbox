@@ -4,7 +4,7 @@ Slug: ramstush-knowing-the-unknowns
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: CODE SPELUNKING!!! Yesterday was a very dirty day digging through code. The ... 
+Summary: CODE SPELUNKING!!! Yesterday was a very dirty day digging through code. The entire day I was looking at two sugar activities. [SkyTime](http://activities.sugarlabs.org/en-US/sugar/addon/4670) and [Lemonade Stand](http://activities.sugarlabs.org/en-US/sugar/addon/4321).  The ticket assigned to me was to get Lemonade Stand to make an entry into the journal. I used SkyTime as a parallel test case to see if something was blocking the journal from accessing the activity or if I needed to add some fun ... 
 
 CODE SPELUNKING!!! Yesterday was a very dirty day digging through code. The
 entire day I was looking at two sugar activities.

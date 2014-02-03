@@ -4,7 +4,7 @@ Slug: rgk8573-drupal
 Author: rgk8573
 Tags: legacy, foss@rit
 Category: legacy
-Summary: I am well on the way to understanding how Drupal works and now I have an ... 
+Summary: I am well on the way to understanding how Drupal works and now I have an alumni Drupal ninja, Mark DeMayo, helping me out.  So far, I have set up most of the Drupal modules and administrative stuff on the back-end of the site. Remy has just informed me that I will be able to migrate my site soon to RIT's servers which might make administration easier (I hope).  Regarding the aesthetics of the site, I have been successful in creating a 3x3 grid view of comments and blog posts. I'm still trying to ... 
 
 I am well on the way to understanding how Drupal works and now I have an
 alumni Drupal ninja, Mark DeMayo, helping me out.

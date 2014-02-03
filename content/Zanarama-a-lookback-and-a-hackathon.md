@@ -4,7 +4,7 @@ Slug: Zanarama-a-lookback-and-a-hackathon
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: My first week at the FOSSBox has already been a series of new experiences and ... 
+Summary: My first week at the FOSSBox has already been a series of new experiences and opportunities. I am running [Fedora](http://fedoraproject.org/) for the first time (and loving it!), I began working on my first open source project for Red Hat, and I attended my first (civic) hackathon.  For this first week a lot of time was spent setting up my laptop and the many accounts that I needed, and registered to attend and to give a 45 minute talk about my Gource project at [Flock to Fedora](http://flocktof ... 
 
 My first week at the FOSSBox has already been a series of new experiences and
 opportunities. I am running [Fedora](http://fedoraproject.org/) for the first

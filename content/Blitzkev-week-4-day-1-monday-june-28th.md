@@ -4,7 +4,7 @@ Slug: Blitzkev-week-4-day-1-monday-june-28th
 Author: Blitzkev
 Tags: legacy, foss@rit
 Category: legacy
-Summary: This week will be completely dedicated to further porting MAFH over to the new ... 
+Summary: This week will be completely dedicated to further porting MAFH over to the new game engine. I spent today further fleshing out the magicmenu and also finding issues with code written previously. I foresee a lot of debugging going forward.   ... 
 
 This week will be completely dedicated to further porting MAFH over to the new
 game engine. I spent today further fleshing out the magicmenu and also finding

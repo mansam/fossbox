@@ -4,7 +4,7 @@ Slug: event-decause-fossrit--su-student-sandbox-hackathon
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  07/12/2011 - 3 00pm ... 
+Summary: Start  07/12/2011 - 3 00pm  End  07/13/2011 - 3 00pm  Timezone  US/Eastern  **When ** July 12th, 3pm - 3am   **What ** FOSS@RIT will be co-hosting a hackathon with our Neighbors to the East from the [SU Student Sandbox](http //www.syracusestudentsandbox.com/) -- a student business and start-up incubator run out of [Syracuse University](http //syr.edu).   **Who**  Designers, coders, and other business minded folk are encouraged to attend.  Please rsvp to remyd(at)civx(dot)us.  **Where ** Center f ... 
 
 ---
 Start: 07/12/2011 - 3:00pm

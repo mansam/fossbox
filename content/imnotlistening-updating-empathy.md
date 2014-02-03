@@ -4,7 +4,7 @@ Slug: imnotlistening-updating-empathy
 Author: imnotlistening
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Looks like the best course of action is to add support to Empathy or Sugar to ... 
+Summary: Looks like the best course of action is to add support to Empathy or Sugar to properly interface a video chat app into sugar. How exactly this will be done is not completely clear to me yet but here are the possibilities I have seen.  # Modify And Add To The Empathy Code Base  Sugar communicates with its activities via DBus. DBus is an IPC mechanism which allows the SUgar shell to pass commands via remote method calls to a running application. In order to make Empathy a proper sugar activity, i ... 
 
 Looks like the best course of action is to add support to Empathy or Sugar to
 properly interface a video chat app into sugar. How exactly this will be done

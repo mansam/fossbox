@@ -4,7 +4,7 @@ Slug: fortnight-day-20
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # Bash Script Snorkeling ... 
+Summary: # Bash Script Snorkeling  So, as I mentioned previously, I'm taking notes on School Server code and scripts to understand what they consist of. However, it is still quite the rocky road, when I come across lines full of symbols I don't understand.  For example:  if [ "$1" = '-h' -o $# -gt 1 ]; then  for file in 'find $DOMAIN_CONFIG_DIR -maxdepth 1 -type f -perm /u+x ! -name "*~" -print | sort' ;  do  ["${file%.cfsaved}" != "${file}" ] && continue  ["${file%.rpmsave}" != "${file}" ] && continue   ... 
 
 # Bash Script Snorkeling
 

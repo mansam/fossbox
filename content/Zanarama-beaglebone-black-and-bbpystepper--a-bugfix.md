@@ -4,7 +4,7 @@ Slug: Zanarama-beaglebone-black-and-bbpystepper--a-bugfix
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So during Software Freedom day I began hacking on the [BeagleBone ... 
+Summary: So during Software Freedom day I began hacking on the [BeagleBone Black](http://beagleboard.org/Products/BeagleBone%20Black) and a small stepper motor. Are only goal was to gain familiarity with the BeagleBone by controlling the stepper motor with Python code that is FOSS.  For the hardware setup I utilized the [28BYJ-48 Stepper Motor](http://robocraft.ru/files/datasheet/28BYJ-48.pdf), the [L293D Driver Chip](http://www.datasheets360.com/pdf/624709677179081801?comp=3509), a breadboard, some wire ... 
 
 So during Software Freedom day I began hacking on the [BeagleBone
 Black](http://beagleboard.org/Products/BeagleBone%20Black) and a small stepper

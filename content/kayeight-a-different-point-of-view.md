@@ -4,7 +4,7 @@ Slug: kayeight-a-different-point-of-view
 Author: kayeight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Yesterday, while becoming increasingly frustrated at the NY senate's website ... 
+Summary: Yesterday, while becoming increasingly frustrated at the NY senate's website as I tried to scrape committee information, Nate suggested a much easier solution. I had been attempting to visit each senator's page and get their committees individually, but naturally, the website is formatted so inconsistently that no two senators list their committees in the same place or manner. I whiled away a number of hours in this direction before Nate had the idea of searching from the other direction - visit ... 
 
 Yesterday, while becoming increasingly frustrated at the NY senate's website
 as I tried to scrape committee information, Nate suggested a much easier

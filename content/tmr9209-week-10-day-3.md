@@ -4,7 +4,7 @@ Slug: tmr9209-week-10-day-3
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today we finished the presentation for the Symposium and prepared for the trip ... 
+Summary: Today we finished the presentation for the Symposium and prepared for the trip tomorrow. The first stage was revising the presentation based on SJ's review on the previous day. We also had to add several slides for David and his technology demo, which has also been completed. Finally, we practiced presenting again with this edited presentation.  In addition to the Symposium presentation, we also had modify it for the larger presentation to Red Hat. I liked adding to this presentation since it co ... 
 
 Today we finished the presentation for the Symposium and prepared for the trip
 tomorrow. The first stage was revising the presentation based on SJ's review

@@ -4,7 +4,7 @@ Slug: Zanarama-hfoss-project-idea
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: A huge part of the project for the HFOSS course is creating a ... 
+Summary: A huge part of the project for the HFOSS course is creating a game/application/contribution to Sugar Labs projects. As I am not a game design student I proposed a project that will take a little bit of a different path that would include hardware, my interest (and stronger suit).  The XO laptops can interface with [these sensors](http://wiki.laptop.org/go/Peripherals/Sensors) or, with a modified XO, a serial port. We are hoping to use these sensors to build off of the [Measurement Activity](http ... 
 
 A huge part of the project for the HFOSS course is creating a
 game/application/contribution to Sugar Labs projects. As I am not a game

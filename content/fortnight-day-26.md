@@ -4,7 +4,7 @@ Slug: fortnight-day-26
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # Midterm Powows ... 
+Summary: # Midterm Powows  Today I started the ticket of creating a Spanish version of Lemonade Stand. [Yesterday](http://foss.rit.edu/node/550) I called it El Puesto de Limonada, after [this picture](http://ecx.images- amazon.com/images/I/51MHzc%2B6XML._SY300_.jpg).  So I started off by googling "XO Laptop GetText" and hitting up [the first result](http://wiki.laptop.org/go/Gettext). As it instructed, I went through the code for Lemonade Stand and made each message script be convertible, like so: "This  ... 
 
 # Midterm Powows
 

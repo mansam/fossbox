@@ -4,7 +4,7 @@ Slug: Zanarama-election-night-hackathon
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Yesterday was the [Election Night ... 
+Summary: Yesterday was the [Election Night Hackathon](https://pbs.twimg.com/media/BYV1YDCCYAALlvQ.png:large) here at RIT. The local elections were covered and data was gathered from a few surrounding counties. You can see the results [here](http://yacht.rit.edu/election/). The night was pretty slow for me since it was only local elections and I am not a NY native. I look forward to going the next presidential election in 2016.  The biggest thing I learned from the Election Night Hackathon is that most pe ... 
 
 Yesterday was the [Election Night
 Hackathon](https://pbs.twimg.com/media/BYV1YDCCYAALlvQ.png:large) here at RIT.

@@ -4,7 +4,7 @@ Slug: decause-my-or-the-social-network-formerly-known-as-myspace
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: /me dug up his old and busted myspace, or my|_______| as it is called now. ... 
+Summary: /me dug up his old and busted myspace, or my|_______| as it is called now. After a bit of a facelift (+.5 for having a decent javascript-y UI) I checked out their "Open" Developer community and RESTful API. *Almost* signed up for an API key, but quickly rescinded when I got to that pesky Proprietary Rights Section of the Developer Addendum... Pasted here for your amusement:  """  MySpace retains all right, title and interest, including without limitation, all intellectual property rights, in and ... 
 
 /me dug up his old and busted myspace, or my|_______| as it is called now.
 After a bit of a facelift (+.5 for having a decent javascript-y UI) I checked

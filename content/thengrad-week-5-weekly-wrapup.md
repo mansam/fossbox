@@ -4,7 +4,7 @@ Slug: thengrad-week-5-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: It is now the end of the fifth week of this summer research program. It is ... 
+Summary: It is now the end of the fifth week of this summer research program. It is quickly approaching crunch time. All of the deadlines are now looming over our heads. With that being said Lemonade Stand is looking really good so far. I’ve put a lot of work into balancing the game through changes made to the event. I spent the early part of the week messing around with the way events got created, even added a delay that for all days before day five would end the function before an event was created and ... 
 
 It is now the end of the fifth week of this summer research program. It is
 quickly approaching crunch time. All of the deadlines are now looming over our

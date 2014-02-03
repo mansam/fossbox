@@ -4,7 +4,7 @@ Slug: Zanarama-going-upstream
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Now that the paper mock-ups have been made for Gourciferous I am starting to ... 
+Summary: Now that the paper mock-ups have been made for Gourciferous I am starting to port some of them to Glade to get an idea of how they will look once built. I am also starting to look for feedback from Gource users so that we can create the most intuitive GUI possible. I have looked into the Gource [Google Code](http://code.google.com/p/gource/) page and [Github](https://github.com/acaudwell/Gource) page and there is no real forum or for general discussion. I would really like feedback from the Gour ... 
 
 Now that the paper mock-ups have been made for Gourciferous I am starting to
 port some of them to Glade to get an idea of how they will look once built. I

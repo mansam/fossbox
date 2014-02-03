@@ -4,7 +4,7 @@ Slug: thengrad-day-39
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So I spent the day finishing up all the merging to add in the code I created ... 
+Summary: So I spent the day finishing up all the merging to add in the code I created for the new ingredients and custom recipes. I also was present for the sugar meeting. I would have said something while I was there about the new sash activity we are creating in order to view and store Mozilla Open Badges on the XO while my the member of team Lemonade Stand who was supposed to talk about it was preoccupied. However, since I haven't worked on it myself I don't now much more about it than that it exists. ... 
 
 So I spent the day finishing up all the merging to add in the code I created
 for the new ingredients and custom recipes. I also was present for the sugar

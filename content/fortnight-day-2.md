@@ -4,7 +4,7 @@ Slug: fortnight-day-2
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # Boxing day ... 
+Summary: # Boxing day  Today we packed up the FOSSbox into smaller boxes, before feasting on wings and commemorating the FOSScouch! Imagine the most comfy couch, now add sunlight and an equally comfy footrest. It was wonderful. My only complaint was that I couldn't nap and code at the same time. Speaking of coding, I also did some project work today. We looked over the Lemonade stand wiki and compared our wishlist to theirs: [Lemonade Stand Wiki](http://wiki.sugarlabs.org/go/Lemonade_Stand). I also looke ... 
 
 # Boxing day
 

@@ -4,7 +4,7 @@ Slug: decause-pull-requests
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So far, so good. Seven pull requests, and even a pull request to the core ... 
+Summary: So far, so good. Seven pull requests, and even a pull request to the core server itself (shoutout to F4ngy!) You can see the class contributions here: [ https://github.com/decause/hflossk/pulls?direction=desc&page=1&sort=crea...](h ttps://github.com/decause/hflossk/pulls?direction=desc&page=1&sort=created&sta te=closed)  No class today, as RIT is closed for Labor Day (for the first time, like, ever) so we've had to cancel our special Guest Lecture from Lmacken. That being said, we'll get him in  ... 
 
 So far, so good. Seven pull requests, and even a pull request to the core
 server itself (shoutout to F4ngy!) You can see the class contributions here: [

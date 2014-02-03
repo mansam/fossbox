@@ -4,7 +4,7 @@ Slug: Zanarama-commarch-assignment
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: For the HFOSS course, we completed a Commarch assignment, basically just ... 
+Summary: For the HFOSS course, we completed a Commarch assignment, basically just investigating an open source project and learning a bit about it. My group chose Fedora Badges, because I was familiar with it and it is an awesome project led by people that are already close to FOSS@RIT.  **Project:** Fedora Badges  **IRC Channel:** #fedora-infra, #fedora-apps, #fedora-badges on freenode   **Code Repository:** [https://github.com/fedora-infra/fedbadges](https://github.com/fedora-infra/fedbadges)   **Mail  ... 
 
 For the HFOSS course, we completed a Commarch assignment, basically just
 investigating an open source project and learning a bit about it. My group

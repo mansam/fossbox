@@ -4,7 +4,7 @@ Slug: Jenn-white-house-champions-of-change-event
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: AWESOME NEWS!!! ... 
+Summary: AWESOME NEWS!!!  Sky Time was accepted to be represented in the White House Champions of Change Event!  [http://www.whitehouse.gov/champions](http://www.whitehouse.gov/champions)  “White House Champions of Change events feature groups of Americans – individuals, businesses, and organizations – who are doing extraordinary things to empower and inspire members of their communities.”  I spent a very long time on the application, and I hoped a lot, but I did not expect it to actually happen. Even af ... 
 
 AWESOME NEWS!!!
 

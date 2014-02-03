@@ -4,7 +4,7 @@ Slug: jtmengel-incorporating-what-weve-found
 Author: jtmengel
 Tags: legacy, foss@rit
 Category: legacy
-Summary: In these last two weeks, Dave and I on the front end team have made progress ... 
+Summary: In these last two weeks, Dave and I on the front end team have made progress on outlining what we want to implement and, more importantly, what we will leave out to streamline performance; We've been bouncing between two phases of our design process, the first being fervently adding features and functionality and the second being aggressively purging what isn't absolutely necessary. After the heart-wrenching experience of going through that process more than a few times, saying goodbye to code w ... 
 
 In these last two weeks, Dave and I on the front end team have made progress
 on outlining what we want to implement and, more importantly, what we will

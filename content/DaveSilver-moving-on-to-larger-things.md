@@ -4,7 +4,7 @@ Slug: DaveSilver-moving-on-to-larger-things
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So yesterday we finally implemented rotation correctly and it looks great. ... 
+Summary: So yesterday we finally implemented rotation correctly and it looks great. Once we had that down we also implemented Rendered Transparency so that users could make more complex looking images, and the convert function so that images can be optimized more easily. After we got that working we moved on to determining how we would implement the animation classes into the larger Game Engine.  We determined that it would be easiest to take the needed functionality of the Scene class and just make it p ... 
 
 So yesterday we finally implemented rotation correctly and it looks great.
 Once we had that down we also implemented Rendered Transparency so that users

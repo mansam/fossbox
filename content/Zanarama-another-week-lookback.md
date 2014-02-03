@@ -4,7 +4,7 @@ Slug: Zanarama-another-week-lookback
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: This week Gourciferous paper GUI Templates were mocked up, I contacted ... 
+Summary: This week Gourciferous paper GUI Templates were mocked up, I contacted Upstream about presenting them to the Gource community, began working on short videos to send to Red Hat as examples, and I updated avatar_generator to work without log_generator.  Currently, there are two different paper mock ups for Gourciferous. One takes a the approach of a few tabs with lots of options and the other takes the approach of a lot of tabs with few options in each. I am not sure which one will be used, howeve ... 
 
 This week Gourciferous paper GUI Templates were mocked up, I contacted
 Upstream about presenting them to the Gource community, began working on short

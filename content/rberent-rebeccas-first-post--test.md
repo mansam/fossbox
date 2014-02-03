@@ -4,7 +4,7 @@ Slug: rberent-rebeccas-first-post--test
 Author: rberent
 Tags: legacy, foss@rit
 Category: legacy
-Summary: ### This is my first post to test out my new blog on FOSS. ... 
+Summary: ### This is my first post to test out my new blog on FOSS.  Check out my personal website at [www.rebeccanatalie.com](http://rebeccanatalie.com/)  More to come soon!!   ... 
 
 ### This is my first post to test out my new blog on FOSS.
 

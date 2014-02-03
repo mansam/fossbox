@@ -4,7 +4,7 @@ Slug: DaveSilver-thurs-times-the-charm
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So today we worked on getting our system working so that we would not have to ... 
+Summary: So today we worked on getting our system working so that we would not have to refresh everything on screen every single frame. We were pretty successful.  The problem we were having the past few days was essentially that, since we were using images, there was no built in functionality for having things move in layers. This meant that if you have an object moving on screen and a background image under it, the image will slowly start overwriting the background image until you re-write all of the b ... 
 
 So today we worked on getting our system working so that we would not have to
 refresh everything on screen every single frame. We were pretty successful.

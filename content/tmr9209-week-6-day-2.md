@@ -4,7 +4,7 @@ Slug: tmr9209-week-6-day-2
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today we each developed a setting that our game would take place in. The goal ... 
+Summary: Today we each developed a setting that our game would take place in. The goal was to come up with logical settings that would work with our mechanics and FOSS integration we plan on implementing. We also decided on a final setting, which became a mesh of my, Francis's, and David's setting ideas. We also went through the setting again to make sure that this final setting would work with all of the FOSS integration. Finally, we came up with some concept art for this final setting as well.  Today w ... 
 
 Today we each developed a setting that our game would take place in. The goal
 was to come up with logical settings that would work with our mechanics and

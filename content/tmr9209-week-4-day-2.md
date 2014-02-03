@@ -4,7 +4,7 @@ Slug: tmr9209-week-4-day-2
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
-Summary: The team just got out of the development meeting to get our ideas flowing and ... 
+Summary: The team just got out of the development meeting to get our ideas flowing and get a concept for our game created. I am very pleased what we accomplished, there was a lot that we discussed and brainstormed. One of the major components brainstormed was how the world would be based on the databases, bugs, and various fedora community components. A database or section of code could be various regions of land. For example, the python land would be a large section of the world and map. A bug would bec ... 
 
 The team just got out of the development meeting to get our ideas flowing and
 get a concept for our game created. I am very pleased what we accomplished,

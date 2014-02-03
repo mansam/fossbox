@@ -4,7 +4,7 @@ Slug: Zanarama-learning-commands
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: I spent today learning a little more about Gource and starting to dive into ... 
+Summary: I spent today learning a little more about Gource and starting to dive into its flags, what they do, and how we could display them on a UI. I used the the flags and descriptions that i got using       man gource   command and I put them into a nice little Google Doc that you can see [here](h ttps://docs.google.com/spreadsheet/ccc?key=0AvqLS5qrMVGSdEdpYVByckpRWVQtN2Qtbn hFeElxM1E&usp=sharing). We also have some ideas floating there for how we are going to display them on the UI and some general n ... 
 
 I spent today learning a little more about Gource and starting to dive into
 its flags, what they do, and how we could display them on a UI. I used the the

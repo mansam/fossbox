@@ -4,7 +4,7 @@ Slug: kayeight-week-3--completed
 Author: kayeight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: We've now officially completed week 3, a.k.a. the first summer cycle. Things ... 
+Summary: We've now officially completed week 3, a.k.a. the first summer cycle. Things are looking bright for CIVX!  This past week I again modified my person dashboard to get information about actions and votes from the Open Legislation API. I'm still trying to figure out the best way to get contact information and committee membership by senator, but that is the last hurdle before the widget gets all of its tabs' info dynamically. I am moving the widget itself from the quickstart project I created to a  ... 
 
 We've now officially completed week 3, a.k.a. the first summer cycle. Things
 are looking bright for CIVX!

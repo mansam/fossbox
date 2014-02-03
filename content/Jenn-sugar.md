@@ -4,7 +4,7 @@ Slug: Jenn-sugar
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Here are some cool sugar applications that I did some research on: ... 
+Summary: Here are some cool sugar applications that I did some research on:  Etoys 113: “Media authoring environment with graphical scripting for children of all ages. Aren't we all children?”  I love this idea. This is a great way to create stories through interacting with visuals. I also like that is aimed at a young age group. Pretty fun!  Grid Paint 1: “A simple paint activity for kids to draw pictures using a grid of triangles. Be expressive using just colored triangles: now everyone could be an art ... 
 
 Here are some cool sugar applications that I did some research on:
 

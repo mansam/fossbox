@@ -4,7 +4,7 @@ Slug: imnotlistening-finally-have-time-to-start-this-project
 Author: imnotlistening
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Finally... Its spring quarter and I have some time to get a native video chat ... 
+Summary: Finally... Its spring quarter and I have some time to get a native video chat app running on an XO. There is a lot of talk about the OVC application created by a couple of RIT students: [http://foss.rit.edu/projects/ovc](http://foss.rit.edu/projects/ovc). While they work on the python implementation, I am going to detail my progress towards building a native C application.  To start of with, here is how I set up my development environment for writing/compiling XO code. I don't know if there are  ... 
 
 Finally... Its spring quarter and I have some time to get a native video chat
 app running on an XO. There is a lot of talk about the OVC application created

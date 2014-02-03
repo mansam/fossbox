@@ -4,7 +4,7 @@ Slug: thengrad-week-8-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: It is now the end of the eigth week of this summer research program. Things ... 
+Summary: It is now the end of the eigth week of this summer research program. Things are moving very fast here this summer. In only a couple weeks we are going to have to present on the research we have done. The game Lemonade Stand is looking great. All the new features and fixing up and fully implementing of all the features the previous teams had planned for Lemonade are finishing up nicely. The badges research is coming along as well. It isn’t quite finished yet but it does look like we might be able ... 
 
 It is now the end of the eigth week of this summer research program. Things
 are moving very fast here this summer. In only a couple weeks we are going to

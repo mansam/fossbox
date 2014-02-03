@@ -4,7 +4,7 @@ Slug: jtmengel-week-4
 Author: jtmengel
 Tags: legacy, foss@rit
 Category: legacy
-Summary: This week has been a little bit crazy; between my hours trying to get an ... 
+Summary: This week has been a little bit crazy; between my hours trying to get an example of DirtySprite and Sprite objects running with print outs to the terminal, I've been helping out a friend with programming a plugin to parse .pdb (Protein Database) files and process the information through some calculations specified by some unfortunately complicated-looking statistical equations. In what spare time I have, I've been drawing from an excellent workshop book on anatomy and stance.  The biggest obstac ... 
 
 This week has been a little bit crazy; between my hours trying to get an
 example of DirtySprite and Sprite objects running with print outs to the

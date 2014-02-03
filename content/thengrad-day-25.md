@@ -4,7 +4,7 @@ Slug: thengrad-day-25
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: I spent a good amount of time looking through the ... 
+Summary: I spent a good amount of time looking through the [LemonadeGui.py](https://github.com/FOSSRIT/lemonade- stand/blob/develop/LemonadeGui.py) both the version before our changes and after the changes we made during the summer, trying to figure out how it is all put together so I could put in a small option to select which recipe you would want to make for the next day. I've tried many different ways of the the last few days but nothing worked. Now I fully understand what all the methods are doing.  ... 
 
 I spent a good amount of time looking through the
 [LemonadeGui.py](https://github.com/FOSSRIT/lemonade-

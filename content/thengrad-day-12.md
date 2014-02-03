@@ -4,7 +4,7 @@ Slug: thengrad-day-12
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today Casey, one of the people working here for the summer as part of the ... 
+Summary: Today Casey, one of the people working here for the summer as part of the Google Summer of Code, brought in an Ouya. We took this opportunity to try it and some of the games for it out. We played:    * [Monocle Man](http://www.ouyactu.com/applis-jeux/105-monocle-man), a puzzle game   * [Garnatron ](http://www.ouyactu.com/applis-jeux/124-garnatron), a vertical space shooter   * [God of Blades](http://www.ouyactu.com/applis-jeux/19-god-of-blades), a side scrolling sword fighting game   * [Polarity ... 
 
 Today Casey, one of the people working here for the summer as part of the
 Google Summer of Code, brought in an Ouya. We took this opportunity to try it

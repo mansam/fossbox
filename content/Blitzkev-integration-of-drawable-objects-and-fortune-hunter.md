@@ -4,7 +4,7 @@ Slug: Blitzkev-integration-of-drawable-objects-and-fortune-hunter
 Author: Blitzkev
 Tags: legacy, foss@rit
 Category: legacy
-Summary: After finishing produce puzzle on Monday (the activity can be found here: ... 
+Summary: After finishing produce puzzle on Monday (the activity can be found here: [http://activities.sugarlabs.org/en- US/sugar/addon/4322](http://activities.sugarlabs.org/en-US/sugar/addon/4322)) I have been working hard with Dave to get fortune hunter completely changed over to using his drawable object and scene classes instead of the old surface blits. Our 50+ git commits can be found here [http://git.fedorahosted.org/git/ ?p=fortune_hunter.git;a=shortlog;h=refs/...](http://git.fedorahosted.org/git/ ... 
 
 After finishing produce puzzle on Monday (the activity can be found here:
 [http://activities.sugarlabs.org/en-

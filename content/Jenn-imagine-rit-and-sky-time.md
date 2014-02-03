@@ -4,7 +4,7 @@ Slug: Jenn-imagine-rit-and-sky-time
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Hello Everyone, ... 
+Summary: Hello Everyone,  There have been some great things happening here in Sky-Time Land. We had the game set up on some of the FOSS Box computers during imagine RIT, and it was a hit with the kids!  Don’t trust my word, this video of one child's excitement speaks for its self: [http://jlk9713.cias.rit.edu/videos/index.gif](http://jlk9713.cias.rit.edu/vid eos/index.gif)  I have to say I was not 100% confident that the game would be fun. The concept is based around one core mechanic. (Matching times by ... 
 
 Hello Everyone,
 

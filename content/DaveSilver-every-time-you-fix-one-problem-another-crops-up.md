@@ -4,7 +4,7 @@ Slug: DaveSilver-every-time-you-fix-one-problem-another-crops-up
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: As you may be able to guess from my blog title I have been running into more ... 
+Summary: As you may be able to guess from my blog title I have been running into more issues while trying to integrate my stuff into Jlew and Blitzkev's engine. Mainly we are having issues getting things to display because the entire engine has not yet been ported over to the new system. This means that some things are using our sprite and sprite group system while other things are using the old blit and flip method. For some reason this is causing the stuff to not display the same way every time we test ... 
 
 As you may be able to guess from my blog title I have been running into more
 issues while trying to integrate my stuff into Jlew and Blitzkev's engine.

@@ -4,7 +4,7 @@ Slug: DaveSilver-four-days-in-and-things-are-great
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So today JT and I ran tests on all of the various formats we had decided to ... 
+Summary: So today JT and I ran tests on all of the various formats we had decided to look at, except SVGs, and we learned a lot of useful information we did not previously know. First and foremost we learned that bmp, while a larger format when it comes to file size, is easily the best for performance. It constantly performed almost two times better than every other format in every test. We also learned that when we used images with transparency, whether it was built- in with the format or rendered to lo ... 
 
 So today JT and I ran tests on all of the various formats we had decided to
 look at, except SVGs, and we learned a lot of useful information we did not

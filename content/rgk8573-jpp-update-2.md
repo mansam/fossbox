@@ -4,7 +4,7 @@ Slug: rgk8573-jpp-update-2
 Author: rgk8573
 Tags: legacy, foss@rit
 Category: legacy
-Summary: So far up to this point, I have installed and implemented both **Drupal** ... 
+Summary: So far up to this point, I have installed and implemented both **Drupal**   ... 
 
 So far up to this point, I have installed and implemented both **Drupal**
 

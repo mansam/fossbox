@@ -4,7 +4,7 @@ Slug: imnotlistening-arg-a-mishap
 Author: imnotlistening
 Tags: legacy, foss@rit
 Category: legacy
-Summary: I have been using my laptop for a while now for development on Empathy. Since ... 
+Summary: I have been using my laptop for a while now for development on Empathy. Since my laptop is running Fedora 16, there is less libraries that need compiling in order to run the latest git empathy. But like any project dependencies are updated on occasion. It just so happens that the GTK+ dependency for Emapthy got updated fairly recently, so when I pulled the latest code, my GTK+ library needed recompiling. Eh, didn't seem like a big deal, compiled fine 1 minor version ago, so I figured it would be ... 
 
 I have been using my laptop for a while now for development on Empathy. Since
 my laptop is running Fedora 16, there is less libraries that need compiling in

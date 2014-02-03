@@ -4,7 +4,7 @@ Slug: event-jlew-barcamp-rochester
 Author: jlew
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  10/23/2010 - 9 00am ... 
+Summary: Start  10/23/2010 - 9 00am  End  10/23/2010 - 10 00pm  Timezone  US/Eastern  [BarcampROC website](http //barcamproc.org)  Who  Anyone in Rochester, NY (and surrounding areas) who loves technology or design.  When  Saturday, October 23rd 2010, 9am-10pm  Where  Rochester Institute of Technology, Bldg 70; 102 Lomb Memorial Drive, Rochester NY  Cost  Free! But everyone is encouraged to present something and be involved, even if youre never given a talk before  In the spirit of FooCamp, BarCamp is an ... 
 
 ---
 Start: 10/23/2010 - 9:00am

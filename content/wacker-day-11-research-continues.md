@@ -4,7 +4,7 @@ Slug: wacker-day-11-research-continues
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
-Summary: We did a lot more research into Open Badges, School Servers, and the XO ... 
+Summary: We did a lot more research into Open Badges, School Servers, and the XO journal. We cracked a lot more unanswer questions about the journal and how [Lemonade Stand](http://wiki.sugarlabs.org/go/Lemonade_Stand) can write and talk to the journal.  On the side, I worked on implementing Lemonade Stand into the new version of the XO. It may have taken me almost all day, but it was a huge success! With Lemonade Stand working on the XO, we are now able to start hacking away at the game and see how it l ... 
 
 We did a lot more research into Open Badges, School Servers, and the XO
 journal. We cracked a lot more unanswer questions about the journal and how

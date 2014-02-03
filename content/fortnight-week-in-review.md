@@ -4,7 +4,7 @@ Slug: fortnight-week-in-review
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # UGH!!!!! School-Servers ... 
+Summary: # UGH!!!!! School-Servers  [Day 15:](http://foss.rit.edu/node/502)  -> McNair Scholars program began   -> Installed 2/3 of a School-Server   -> Raked in dough in lemonade-stand   -> TIL Big, established college networks don't like new networks being created within them.  [Day 16:](http://foss.rit.edu/node/516)  -> Couldn't connect to the school-server I had installed   -> Felt quite productively lost   -> RocPy was a healthy and thriving programming-friendly experience   -> TIL Programmers have  ... 
 
 # UGH!!!!! School-Servers
 

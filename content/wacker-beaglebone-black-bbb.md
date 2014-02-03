@@ -4,7 +4,7 @@ Slug: wacker-beaglebone-black-bbb
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today was [Software Freedom Day](http://softwarefreedomday.org/) and there was ... 
+Summary: Today was [Software Freedom Day](http://softwarefreedomday.org/) and there was a lot of amazing talks and hacking going on! The project that I began with a fellow hacker and friend, Suzanne Reed, was a bot that will be used for dispensing beverages via SMS message to a BBB connected to some motors. I do not know much about the mechanical process, but I know I will be writing most of the software portion.  Our goal for today was to try and get some sort of response from a motor that we hocked up  ... 
 
 Today was [Software Freedom Day](http://softwarefreedomday.org/) and there was
 a lot of amazing talks and hacking going on! The project that I began with a

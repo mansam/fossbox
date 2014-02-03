@@ -4,7 +4,7 @@ Slug: event-decause-interlockroc-lightning-talks
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  02/18/2011 - 7 00pm ... 
+Summary: Start  02/18/2011 - 7 00pm  End  02/18/2011 - 10 00pm  Timezone  US/Eastern  ## Lightning Talks @ InterlockROC Hacker/Maker Space  Here's the idea  Presenters (that's you!) have 5 minutes to talk about anything they think would be interesting to share. After 5 minutes, you're done, and another presentation jumps up to start. This turns into a fun fast paced way of sharing ideas that you're interested in.  The crowd is generally tech savvy but no subject is out of scope.  Partipication is open to ... 
 
 ---
 Start: 02/18/2011 - 7:00pm

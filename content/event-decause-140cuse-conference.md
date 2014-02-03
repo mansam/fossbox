@@ -4,7 +4,7 @@ Slug: event-decause-140cuse-conference
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  04/19/2012 - 12 00am ... 
+Summary: Start  04/19/2012 - 12 00am  Timezone  US/Eastern  The 140 Characters Conference  Syracuse will be taking place on April 19, 2012 in Schine Student Center, on the campus of Syracuse University.  **Our very own Remy DeCausemaker will be giving a talk at 3 15pm entitled "Social Coding and Civic Hacking."**  #140cuse will expose you to the power the real-time web has to disrupt businesses, change lives and create serendipity. You will leave with a fresh outlook on how the real time web can be used  ... 
 
 ---
 Start: 04/19/2012 - 12:00am

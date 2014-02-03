@@ -4,7 +4,7 @@ Slug: decause-id-like-to-thank-the-hackademy
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: ![My New Year's Resolution is to learn to code with Codecademy in ... 
+Summary: ![My New Year's Resolution is to learn to code with Codecademy in 2012!](http://foss.rit.edu/files/images/bloombergtweetcrop.png)  > [My New Year's resolution is to learn to code with Codecademy in 2012! Join me](https://twitter.com/#!/MikeBloomberg/status/154999795159805952)  This testimony via tweet was just one of hundreds of thousands of people who made their 2012 New Year's Resolution to learn how to write code. This one person, however, just so happens to be be NYC Mayor Michael Bloomberg, ... 
 
 ![My New Year's Resolution is to learn to code with Codecademy in
 2012!](http://foss.rit.edu/files/images/bloombergtweetcrop.png)

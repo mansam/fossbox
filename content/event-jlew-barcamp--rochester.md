@@ -4,7 +4,7 @@ Slug: event-jlew-barcamp--rochester
 Author: jlew
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  04/16/2011 - 9 00am ... 
+Summary: Start  04/16/2011 - 9 00am  End  04/16/2011 - 6 00pm  Timezone  US/Eastern  [BarCamp Rochester](http //www.barcamproc.org/), Spring 2011 is happening April 16th, 2011 at the Rochester Institute of Technology. Please check back here for more information and feel free to sign up on the attend page. If you have any questions please feel free to contact [hosts@barcamproc.org](mailto hosts@barcamproc.org) with any questions you may have.  Who Anyone in Rochester, NY (and surrounding areas) who loves  ... 
 
 ---
 Start: 04/16/2011 - 9:00am

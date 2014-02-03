@@ -4,7 +4,7 @@ Slug: decause-openshift-experimentation
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary: After **seven** tries at getting the foss@rit site migrated to openshift, I ... 
+Summary: After **seven** tries at getting the foss@rit site migrated to openshift, I must concede... for tonight.  Vanilla openshift quickstarter for drupal      First attempt was editing by hand, and I installed modules and themes after bumbling around in the new (to me) drupal 7 interface.     installed the backup and migrate module, and tried to restore from a mysqldump from this site... and hosed it destroy the app, start fresh      bumble around til I figured out how to enable phpmyadmin     import  ... 
 
 After **seven** tries at getting the foss@rit site migrated to openshift, I
 must concede... for tonight.

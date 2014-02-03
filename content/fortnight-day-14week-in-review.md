@@ -4,7 +4,7 @@ Slug: fortnight-day-14week-in-review
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: WOOOO!!!! This was our first full week at FOSSbox, exciting stuff!! Here's a ... 
+Summary: WOOOO!!!! This was our first full week at FOSSbox, exciting stuff!! Here's a recap of what I've done:  # Day 10:  -> Days got mixed up, monday's entry was added into last [week's week in review post](http://foss.rit.edu/node/481)  # Day 11:  Marking Milestones  -> Issues on [GitHub](https://github.com/fossrit/lemonade-stand/issues)   -->> I transferred over our list of "Core Requirements" and"Would be Nice-ties"   -->> I also added in issues about or project with badges, adding info the XO Jou ... 
 
 WOOOO!!!! This was our first full week at FOSSbox, exciting stuff!! Here's a
 recap of what I've done:

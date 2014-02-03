@@ -4,7 +4,7 @@ Slug: Jenn-long-island-weds
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Hi everyone, ... 
+Summary: Hi everyone,  I have been bouncing around a lot with what I was working on today. I got a decent amount done. Here is a run-down:  Lemonade Stand:  -I have been working on Lemonade Stand game screens. (And fixing up and re-aligning some shapes on the cash box image) I want to revisit them some more tomorrow, so I haven’t committed them yet.  -I changed the layout for the screen. I do not know if that can be easily done code wise, or if there was a specific layout that needs blank space in certai ... 
 
 Hi everyone,
 

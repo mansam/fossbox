@@ -4,7 +4,7 @@ Slug: Jenn-long-island-thurs
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Hi all, ... 
+Summary: Hi all,  I redesigned the character for lemonade stand. I did not think the previous character was transferrable enough for players across the world. So I gave him a lemon head. That may have been a strange solution, but I thought it would be better to take race and gender out of the equation. Also having a lemon for a head is kind of funny! However, I am a bit worried I am designing this for too young an audience. Maybe lemonheads are cool in third grade, but once fourth grade rolls around the  ... 
 
 Hi all,
 

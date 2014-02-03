@@ -4,7 +4,7 @@ Slug: Blitzkev-wed-july-21st
 Author: Blitzkev
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today was the weekly storyteller meeting. We laid down plans for the next week ... 
+Summary: Today was the weekly storyteller meeting. We laid down plans for the next week - in short:  I hope to finish produce puzzle by the end of the day Friday, and if not then, early next week. After that Jlew and I will go back to polishing fortune hunter as our flagship example of what the fortune engine is capable of. We will also be extending help to the Games for Science group and to the animation team.  Today I worked further on the product puzzle game:  [http://git.fedorahosted.org/git?p=fossri ... 
 
 Today was the weekly storyteller meeting. We laid down plans for the next week
 - in short:

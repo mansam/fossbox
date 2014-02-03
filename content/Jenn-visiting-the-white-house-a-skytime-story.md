@@ -4,7 +4,7 @@ Slug: Jenn-visiting-the-white-house-a-skytime-story
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: There once was a game called SkyTime. SkyTime was created by a group of brave ... 
+Summary: There once was a game called SkyTime. SkyTime was created by a group of brave and super attractive RIT students. This game, being of humanitarian purpose and just cause, was honored by the White House in Washington DC. (You know, the one that is the center of American politics and all of that :D)  It is the night before the event, and our fantastic heroine (me) is preparing to leave for the airport. I make a call to check the flight status, but to everyone’s dismay: THE FLIGHT IS CANCELLED. (Cue ... 
 
 There once was a game called SkyTime. SkyTime was created by a group of brave
 and super attractive RIT students. This game, being of humanitarian purpose

@@ -4,7 +4,7 @@ Slug: ramstush-freakish-day
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Yesterday was crazy....between losing power and a freak hail/thunderstorm ... 
+Summary: Yesterday was crazy....between losing power and a freak hail/thunderstorm which turned my car seats into sponges, getting things done was difficult.  We came into work with a beautiful day above our heads and a readiness to tackle the day. I started the day by digging into the activity I found over the weekend as well as tearing apart the code for the mock journal application. A similarity i noticed strait off was that bot acvities mentioned "logging" as in the standard library. I didn't know wh ... 
 
 Yesterday was crazy....between losing power and a freak hail/thunderstorm
 which turned my car seats into sponges, getting things done was difficult.

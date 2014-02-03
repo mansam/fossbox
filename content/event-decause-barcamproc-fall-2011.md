@@ -4,7 +4,7 @@ Slug: event-decause-barcamproc-fall-2011
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
-Summary: Start  10/29/2011 - 8 00pm ... 
+Summary: Start  10/29/2011 - 8 00pm  Timezone  US/Eastern  Save the Date, Saturday October 29th 2011  [http //BarcampROC.org](http //BarcampROC.org)  ![](http //foss.rit.edu/files/barcamp-poster-fall-2011.png)  AttachmentSize  [barcamp-poster-fall-2011.png](http //foss.rit.edu/files/barcamp-poster- fall-2011.png)  201.65 KB   ... 
 
 ---
 Start: 10/29/2011 - 8:00pm

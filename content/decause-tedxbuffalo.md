@@ -4,7 +4,7 @@ Slug: decause-tedxbuffalo
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
-Summary:  ... 
+Summary:    ... 
 
 
 

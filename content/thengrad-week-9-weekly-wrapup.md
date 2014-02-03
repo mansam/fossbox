@@ -4,7 +4,7 @@ Slug: thengrad-week-9-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: It is now the end of the ninth week of this summer research program. This ... 
+Summary: It is now the end of the ninth week of this summer research program. This summer research project is beginning to fully wrap up. Badges on the XO environment is coming along very nicely. We are very close to being able to fully realize the goal we had with badges but due to complications with the technology we had available to work with some of the grander ideas we had cannot be finished within just this summer. However our goal to have something that runs and stores open badges on the XO is wel ... 
 
 It is now the end of the ninth week of this summer research program. This
 summer research project is beginning to fully wrap up. Badges on the XO

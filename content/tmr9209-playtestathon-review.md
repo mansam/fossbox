@@ -4,7 +4,7 @@ Slug: tmr9209-playtestathon-review
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
-Summary: On Thursday, August 2, the FOSSBox set up an event called The Playtestathon to ... 
+Summary: On Thursday, August 2, the FOSSBox set up an event called The Playtestathon to encourage people to try out prototypes and games that students had been working on at RIT. By hosting a Playtestathon we hoped to gain constructive feedback on our prototypes and game. We also hoped to make this event recurring so that students throughout the year could bring their work and have a great learning experience, all the while getting feedback from people who would play their game, making their games even m ... 
 
 On Thursday, August 2, the FOSSBox set up an event called The Playtestathon to
 encourage people to try out prototypes and games that students had been

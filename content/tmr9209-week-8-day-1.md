@@ -4,7 +4,7 @@ Slug: tmr9209-week-8-day-1
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today was mostly working on implementing the balancing concepts that we ... 
+Summary: Today was mostly working on implementing the balancing concepts that we learned from the readings from the previous week. Using them, we accomplished balancing our game and updated our prototype. The other accomplishment with this is that we have prepared the game to be play tested, which will be occurring sometime this week.  We also determined our leveling system, or in another sense, determined that progression will not occur with levels. Instead, a player will gain point to advance skills to ... 
 
 Today was mostly working on implementing the balancing concepts that we
 learned from the readings from the previous week. Using them, we accomplished

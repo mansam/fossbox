@@ -4,7 +4,7 @@ Slug: thengrad-week-1-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: It is now the end of the first week. This first week was mostly spent getting ... 
+Summary: It is now the end of the first week. This first week was mostly spent getting everyone settled into the FOSS community and introducing us all into what we will be working on for the summer. The first day, Day 0, the mentors explained to us what IRC was, we set up Github accounts, and the mentors went over how the summer undergraduate research was going to work. The second day, we started looking at the projects everyone was going to be working on for the summer, I tried to switch my operating sy ... 
 
 It is now the end of the first week. This first week was mostly spent getting
 everyone settled into the FOSS community and introducing us all into what we

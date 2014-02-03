@@ -4,7 +4,7 @@ Slug: wacker-week-recap-halfway-there-livin-on-a-prayer
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
-Summary: **Monday: Finishing up Menu Screens**   ... 
+Summary: **Monday: Finishing up Menu Screens**   -Finished navigation and functionality of the main menu screen   -Finished navigation and functionality of the difficulty screen and its effects with elements within the game   -Finished navigation and functionality of the tutorial screen, still needs info text  **Tuesday: New Menu UI Live**   -Finished adding info text to each screen in the tutorial   -Implemented a basic challenge mode with an end condition. The end condition is completing one summer whi ... 
 
 **Monday: Finishing up Menu Screens**  
 -Finished navigation and functionality of the main menu screen  

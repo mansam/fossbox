@@ -4,7 +4,7 @@ Slug: kayeight-week-1-in-summary
 Author: kayeight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: It's been a good first week here at FOSS. After spending a couple days getting ... 
+Summary: It's been a good first week here at FOSS. After spending a couple days getting everything set up with my computer (git, TurboGears, fedorahosted, etc etc), I started working on making a demo of the kind of widgets CIVX could use to display information, particularly for the New York state senate.  I've been playing around with a jQuery tabs widget that's pretty sleek looking. After some struggling to get that working in TurboGears, I think it looks good so far, and will be really awesome once I l ... 
 
 It's been a good first week here at FOSS. After spending a couple days getting
 everything set up with my computer (git, TurboGears, fedorahosted, etc etc), I

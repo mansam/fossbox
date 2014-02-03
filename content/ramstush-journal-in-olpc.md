@@ -4,7 +4,7 @@ Slug: ramstush-journal-in-olpc
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: FINALLY A BREAKTHROUGH!!!! Today was our second work from home Friday. This ... 
+Summary: FINALLY A BREAKTHROUGH!!!! Today was our second work from home Friday. This time I was working from Cortland New York, about 2 hour away from RIT and the FOSSbox. My main mission continued throughout the week trying to get the Lemonade Stand Activity to create a journal entry. Previously, I had emailed a former surf member for some tips on how he worked with OLPC during his time with the FOSSbox. I was directed to his [Open Source Blog](http://blog.jlewopensource.com/) to research what he did wi ... 
 
 FINALLY A BREAKTHROUGH!!!! Today was our second work from home Friday. This
 time I was working from Cortland New York, about 2 hour away from RIT and the

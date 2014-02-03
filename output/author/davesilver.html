@@ -76,7 +76,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So it's been a while since I posted anything to this blog. I hope you guys ...</p>
+                <p>So it's been a while since I posted anything to this blog. I hope you guys haven't missed me too much. This week has been pretty eventful. The last three days Kevin and I have been working to integrate the animation stuff into the Game Engine that he and Jlew made. This was a large task but not a vastly challenging one. It was more about determining the exact process we would use and doing that for everything, than it was about figuring out a unique process for each situation.  It took some time ...</p>
             </div>
         </div>
     </div>
@@ -93,7 +93,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>As you may be able to guess from my blog title I have been running into more ...</p>
+                <p>As you may be able to guess from my blog title I have been running into more issues while trying to integrate my stuff into Jlew and Blitzkev's engine. Mainly we are having issues getting things to display because the entire engine has not yet been ported over to the new system. This means that some things are using our sprite and sprite group system while other things are using the old blit and flip method. For some reason this is causing the stuff to not display the same way every time we test ...</p>
             </div>
         </div>
     </div>
@@ -110,7 +110,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So today I finally finished all of the classes and functions of the animation ...</p>
+                <p>So today I finally finished all of the classes and functions of the animation system. My next task is to integrate all of the classes into the game engine that Jlew and BlitzKev have built. This task is pretty hefty and will probably take a day or so to complete. It involves me finding every location where my stuff would be used and then figuring how best to make it work in those locations. It's a big task but I know I am up to it.  On top of integrating our system into the game engine I also ha ...</p>
             </div>
         </div>
     </div>
@@ -127,7 +127,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So we officially have only three weeks left to finish this project. That seems ...</p>
+                <p>So we officially have only three weeks left to finish this project. That seems like a small amount but I think we are pretty much on track for that. Last week we discovered that using the images object type was a bad idea and decided we needed to convert our system to using sprites. Thankfully this does not require too much hard work on our end. I am currently working towards this goal.  Today my goal is to make a custom sprite group for updating sprites and stuff. This will allow us to work wit ...</p>
             </div>
         </div>
     </div>
@@ -144,7 +144,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So today we worked on getting our system working so that we would not have to ...</p>
+                <p>So today we worked on getting our system working so that we would not have to refresh everything on screen every single frame. We were pretty successful.  The problem we were having the past few days was essentially that, since we were using images, there was no built in functionality for having things move in layers. This meant that if you have an object moving on screen and a background image under it, the image will slowly start overwriting the background image until you re-write all of the b ...</p>
             </div>
         </div>
     </div>
@@ -161,7 +161,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So yesterday was primarily successful however towards the end of the end we ...</p>
+                <p>So yesterday was primarily successful however towards the end of the end we started running into some problems. Basically as we got to the end of the day we found that some of the methods we were using, or planning on using, were not going to be as successful as we thought. You see, we intended to use a "dirty" update method. This means that instead of updating the whole screen every frame, it only updates the areas covered by objects that actually need to be updated. To do this, we would simply ...</p>
             </div>
         </div>
     </div>
@@ -178,7 +178,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So yesterday we finally implemented rotation correctly and it looks great. ...</p>
+                <p>So yesterday we finally implemented rotation correctly and it looks great. Once we had that down we also implemented Rendered Transparency so that users could make more complex looking images, and the convert function so that images can be optimized more easily. After we got that working we moved on to determining how we would implement the animation classes into the larger Game Engine.  We determined that it would be easiest to take the needed functionality of the Scene class and just make it p ...</p>
             </div>
         </div>
     </div>
@@ -195,7 +195,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So a new week has begun and we are still getting rotation to work. We have a ...</p>
+                <p>So a new week has begun and we are still getting rotation to work. We have a few ideas and supposedly JT got pretty far on it last Thursday but, with me not being in the FOSS Box that day, we were not able to truly work together. He has not come in yet but will probably be here soon and thus we will be able to bang out this final piece of the "puzzle". Beyond that we will also be working on integrating our system with Jlew's game engine today. We are scheduled to have a meeting sometime today on ...</p>
             </div>
         </div>
     </div>
@@ -212,7 +212,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So last night I got food poisoning when I ate some sour fruit and because of ...</p>
+                <p>So last night I got food poisoning when I ate some sour fruit and because of that I was not able to physically be at the Foss Box today. Despite that I was still able to get some work done. Basically yesterday I spent the whole day building the Scene class which was the final piece that needed to be completed of the animation system. With the code complete I spent today running tests to make sure things work and to make sure there was nothing I did wrong. Obviously I did do stuff wrong at first  ...</p>
             </div>
         </div>
     </div>
@@ -229,7 +229,7 @@ Posts by 'DaveSilver'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So as of last night the animation systems are in a pretty good place. I have ...</p>
+                <p>So as of last night the animation systems are in a pretty good place. I have most of it done and am moving on to the final piece today. Overall things are going pretty well with it so far. The rotation stuff is still giving us problems but we have decided to put it on hold until we have everything else complete. This way we will not be held up by it and fall behind schedule. I expect that once we get away from the problem and stop thinking so much about it we will come up with a solution because ...</p>
             </div>
         </div>
     </div>

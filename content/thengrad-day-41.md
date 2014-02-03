@@ -4,7 +4,7 @@ Slug: thengrad-day-41
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Just crossed my fingers and hoped that what I ended up submitting to develop ... 
+Summary: Just crossed my fingers and hoped that what I ended up submitting to develop wasn't complete broken and ruin the code for everyone. But I was asked to drop the code set up as many of the XOs as I could so that we could go to on a field trip and teach young minds about free and open source programming. So while my group was busy and I couldn't set up Lemonade Stand on my own because I didn't know at all how the code they put in to translated worked or why it was giving me an error I tried to set  ... 
 
 Just crossed my fingers and hoped that what I ended up submitting to develop
 wasn't complete broken and ruin the code for everyone. But I was asked to drop

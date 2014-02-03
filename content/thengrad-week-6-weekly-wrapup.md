@@ -4,7 +4,7 @@ Slug: thengrad-week-6-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: It is now the end of the sixth week of this summer research program. This was ... 
+Summary: It is now the end of the sixth week of this summer research program. This was an interesting week since the Fourth of July was this Thursday. However, even if we didn’t work every day this week, the longer hours with the guest mentor made the week even more productive. I had a busy week working on different features in the game. I was planning on working on the badges this week but I didn’t discuss with the group as a whole to see were everyone was and what were the idea for badges we were all g ... 
 
 It is now the end of the sixth week of this summer research program. This was
 an interesting week since the Fourth of July was this Thursday. However, even

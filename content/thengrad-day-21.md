@@ -4,7 +4,7 @@ Slug: thengrad-day-21
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Our valiant leader was unable to be with us in person but he was with us in ... 
+Summary: Our valiant leader was unable to be with us in person but he was with us in spirit and irc. But the one and only threebean stepped up to the plate and taught the humble Lemonade Stand team how to use [gitflow](http://vimeo.com/16018419) so that we may be more efficient at collaberating on large projects.  What I had worked on was learning how to build a sugar activity on to an XO because I had never done that myself personally. I needed to do this because the resolution of Lemonade Stand was mad ... 
 
 Our valiant leader was unable to be with us in person but he was with us in
 spirit and irc. But the one and only threebean stepped up to the plate and

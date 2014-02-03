@@ -4,7 +4,7 @@ Slug: ramstush-first-week-recap
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
-Summary: This first week was quite a whirlwind of new experiences. We began by ... 
+Summary: This first week was quite a whirlwind of new experiences. We began by reformating our laptops with fedora (linux), to provide an identical, team wide developement platform. Our aim was to make collaborating alot easier as the project continued. I was the only one who had a Macbook to reformat, and posted entirely on this point in an earlier blog (see blog list for url to the tutorial I used). After all that was said and done, I picked up a couple cool features from the [Gnome Shell Extensions ]( ... 
 
 This first week was quite a whirlwind of new experiences. We began by
 reformating our laptops with fedora (linux), to provide an identical, team

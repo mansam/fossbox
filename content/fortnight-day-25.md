@@ -4,7 +4,7 @@ Slug: fortnight-day-25
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: # Merry Christmas! ... 
+Summary: # Merry Christmas!  Today it is not christmas, but it is day 25 of the Summer Undergraduate Research Fellowship, and of my time in the FOSSbox. For some reason though, whenever I hear the number 25 in accordance with calendars and/or day tracking, my first thought is of Christmas. Regardless, for this week I will take a much needed break from [slamming my head against the wall](http://25.media.tumblr.com/tumblr_lskru2nJ0u1qd7bw2o1_500.gif) for school servers, so to speak. Today [LMacken](https:/ ... 
 
 # Merry Christmas!
 

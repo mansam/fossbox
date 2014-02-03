@@ -4,7 +4,7 @@ Slug: Zanarama-templates--turtle
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
-Summary: This week I had a couple of big success. First, I solved my (most) of my ... 
+Summary: This week I had a couple of big success. First, I solved my (most) of my problems with avatar file generating. I also created a handful of templates that I think should fit a variety of projects. Finally, I introduced an old project that I had been working on with Python Turtle and will hopefully get some help working on it.  My two main problems with the avatar generating were Unicode characters in usernames and difficulty handling all of the command line options we were having in log_generator ... 
 
 This week I had a couple of big success. First, I solved my (most) of my
 problems with avatar file generating. I also created a handful of templates

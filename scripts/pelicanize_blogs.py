@@ -25,11 +25,11 @@ def create_pelican_file(blog):
 	output += "Author: " + author + "\n"
 	output += "Tags: legacy, foss@rit\n"
 	output += "Category: legacy\n"
-	output += "Summary: " + content.split("\n")[0][:200] + " ... " + "\n"
+	output += "Summary: " + content[:500].replace('\n#','\n').replace('\n', ' ') + " ... " + "\n"
 	output += "\n"
 	output += content
 	with open(filename, 'w') as f:
-		f.write(output)
+		f.write(output.encode('utf-8'))
 
 if __name__ == '__main__':
 	filename = sys.argv[1]

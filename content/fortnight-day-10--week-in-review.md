@@ -4,7 +4,7 @@ Slug: fortnight-day-10--week-in-review
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Day 7.5 ... 
+Summary: Day 7.5   Code Diving  ->Learned good ways to search through large packages of code   -->> "grep -inr SEARCH_TERM * | less"   -->> recursively search through the current directory and it's files for the SEARCH_TERM   ->Got some cool advice from [Threebean](http://threebean.org/blog/)   -> I miscounted the days so far, but am back on track now  Day 8   The Old and the New  -> Got a sweet breakdown of [vim](http://www.vim.org/)   -> Learned about [vimgolf](http://vimgolf.com/), the game of short ... 
 
 Day 7.5
 

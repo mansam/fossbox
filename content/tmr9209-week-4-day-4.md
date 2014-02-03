@@ -4,7 +4,7 @@ Slug: tmr9209-week-4-day-4
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today started by finding the last of the e-mails for our technology contacts, ... 
+Summary: Today started by finding the last of the e-mails for our technology contacts, then started sending them all out. We have now sent out all of the e-mails, including the questions that we hope to have answered. We heard back from DirectMedia Layer, yet wait to hear back from the rest of the technologies. I'm very glad that we have contacted these technologies and am excited about hearing their feedback and answers.  In addition to this, the team did a very good brainstorming session on narrowing d ... 
 
 Today started by finding the last of the e-mails for our technology contacts,
 then started sending them all out. We have now sent out all of the e-mails,

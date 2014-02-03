@@ -4,7 +4,7 @@ Slug: Jenn-google-is-fun
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
-Summary: Today was a productive day! ... 
+Summary: Today was a productive day!  I made a bunch of phone calls about printing decals for SJ’s new bike, and got the logo files almost complete for printing. I am currently working on a new logo for mobile zone. It still needs work but I attached my first go at it. I think I got a decent start…  I committed a bunch of Lemonade-Stand Files for DAWacker to start implementing. I will have a bunch more for him tomorrow. (My Birthday btw :D 21 woot)  I also improve on the software freedom day flier. Looki ... 
 
 Today was a productive day!
 
