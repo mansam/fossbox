@@ -76,7 +76,7 @@ Posts by 'imnotlistening'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>I have been using my laptop for a while now for development on Empathy. Since ...</p>
+                <p>I have been using my laptop for a while now for development on Empathy. Since my laptop is running Fedora 16, there is less libraries that need compiling in order to run the latest git empathy. But like any project dependencies are updated on occasion. It just so happens that the GTK+ dependency for Emapthy got updated fairly recently, so when I pulled the latest code, my GTK+ library needed recompiling. Eh, didn't seem like a big deal, compiled fine 1 minor version ago, so I figured it would be ...</p>
             </div>
         </div>
     </div>
@@ -93,7 +93,7 @@ Posts by 'imnotlistening'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>So, now that I have been hacking away, here is what I am working on. ...</p>
+                <p>So, now that I have been hacking away, here is what I am working on.  The first aspect of setting up a Sugar App is parsing some command line arguments. The arguments help configure the app so that the Sugar Framework can properly interface between the App and the X server. Or something like that. These arguments are:  `  -b, --bundle-id   Identifier of the activity bundle. Must be made available as window property.  -a, --activity-id   Unique identifier of the activity instance. Must be made av ...</p>
             </div>
         </div>
     </div>
@@ -110,7 +110,7 @@ Posts by 'imnotlistening'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <h1>A patch for Empathy ...</h1>
+                <h1>A patch for Empathy  Its been a while since I have had time to post a blog entry with any real substance - Mid terms and projects can be brutal on your time. But that's essentially over now so I thought I would describe my current set up for playing with sugar and Empathy. Obviously development of software on an XO would be quite painful. The developers over at Sugar Labs were awesome enough to make Sugar run on essentially any Linux platform with X. So, now that [VM](http://foss.rit.edu/node/ ...</h1>
             </div>
         </div>
     </div>
@@ -127,7 +127,7 @@ Posts by 'imnotlistening'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Looks like the best course of action is to add support to Empathy or Sugar to ...</p>
+                <p>Looks like the best course of action is to add support to Empathy or Sugar to properly interface a video chat app into sugar. How exactly this will be done is not completely clear to me yet but here are the possibilities I have seen.  # Modify And Add To The Empathy Code Base  Sugar communicates with its activities via DBus. DBus is an IPC mechanism which allows the SUgar shell to pass commands via remote method calls to a running application. In order to make Empathy a proper sugar activity, i ...</p>
             </div>
         </div>
     </div>
@@ -144,7 +144,7 @@ Posts by 'imnotlistening'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <h1>Whats Going On? ...</h1>
+                <h1>Whats Going On?  There have been more than a few attempts at making a Sugar compatible video chat application. As it stands right now there are at least 4 or 5 that work to varying degrees. Empathy is probably the most functional app that I am aware of, however, Empathy is not Sugarized (as far as I know). So after signing up for a bunch of different mailing lists and asking a bunch of questions here is what I have learned.   Build a Completely New Program  After talking to the development lo ...</h1>
             </div>
         </div>
     </div>
@@ -161,7 +161,7 @@ Posts by 'imnotlistening'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <h2>Telepathy-glib ...</h2>
+                <h2>Telepathy-glib  To make life easier I am going to use lib telepathy for dealing with the separate chat protocols and features and what not. Libtelepathy greatly reduces the effort required for developing a full featured communication program, e.g: IM, VoIP, and video chat/conferencing. Many major applications these days are now using it as a back end. The XO file system does have a telepathy package in the yum repositories, however it is not the latest and greatest. There has been lots of rec ...</h2>
             </div>
         </div>
     </div>
@@ -178,7 +178,7 @@ Posts by 'imnotlistening'    </h1>
                 </p>
             </h4>
             <div class="article-summary">
-                <p>Finally... Its spring quarter and I have some time to get a native video chat ...</p>
+                <p>Finally... Its spring quarter and I have some time to get a native video chat app running on an XO. There is a lot of talk about the OVC application created by a couple of RIT students: <a href="http://foss.rit.edu/projects/ovc">http://foss.rit.edu/projects/ovc</a>. While they work on the python implementation, I am going to detail my progress towards building a native C application.  To start of with, here is how I set up my development environment for writing/compiling XO code. I don't know if there are  ...</p>
             </div>
         </div>
     </div>
