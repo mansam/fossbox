@@ -4,6 +4,9 @@ Slug: event-decause-hfoss-course-begins
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 03/05/2013 - 6:00pm
+
+Timezone: US/Eastern
 Summary: Start  03/05/2013 - 6 00pm  Timezone  US/Eastern  IGM will again be running the course "Humanitarian Free and Open Source Software Development" this Spring. It'll be taught this year by established Hacker Justin Sherrill ([http //www.shiningsilence.com/dbsdlog/author/admin](h ttp //www.shiningsilence.com/dbsdlog/author/admin)). This course provides the novices an opportunity to get started in Open Source, and the pros the flexibility to get deeper into the field. The course has an emphasis on, b ... 
 
 ---

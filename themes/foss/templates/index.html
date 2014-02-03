@@ -30,7 +30,11 @@
             <h4 class="article-title">
                 <a href="{{ SITEURL }}/{{ art.url }}" rel='bookmark'>{{ art.title }}</a>
                 <p class="pure-u-1 email-desc2">
-                    {{ art.locale_date }}
+                    {% if art.category == "Events" %}
+                        Event Date: {{ art.start }}
+                    {% else %}
+                        Posted On: {{ art.locale_date }}
+                    {% endif %}
                 </p>
             </h4>
             <div class="article-summary">

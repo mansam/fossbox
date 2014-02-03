@@ -4,6 +4,9 @@ Slug: event-decause-hackupstate
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 10/12/2013 - 11:00am
+End: 10/13/2013 - 1:30pm
+Timezone: US/Eastern
 Summary: Start  10/12/2013 - 11 00am  End  10/13/2013 - 1 30pm  Timezone  US/Eastern  ## More information can be found on the hackathon website   [http //HackUpstate.com](http //hackupstate.com)  # Schedule  Food and beverages will be provided to participants throughout the entire event.  ### Saturday October 12th    * 11am  Doors open   * 12pm  Idea pitching and team formation   * 12 30pm  Commence hacking  ### Sunday October 13th    * 11 59am  Cease hacking   * 12pm  Guest speaker TBD   * 12 30pm  Demo ... 
 
 ---

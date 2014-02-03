@@ -4,6 +4,9 @@ Slug: event-trose-barcamp-boston
 Author: trose
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 04/12/2010 - 12:00am
+
+Timezone: US/Eastern
 Summary: Start  04/12/2010 - 12 00am  Timezone  US/Eastern  Name URL Role  Stephen Jacobs  [RIT](http //www.ist.rit.edu/~sxj/)  Faculty Advisor  Remy DeCausemaker  [RIT](http //people.rit.edu/remydcsi)  Project Lead - Storytelling, Evaluations, Mentor  [Justin Lewis](http //wiki.sugarlabs.org/go/User Jlew)  [RIT](http //people.rit.edu/jtl1728)  Dev Team - Lead  [Taylor Rose](http //wiki.laptop.org/go/User Trose)  [Blog](http //troseovc.blogspot.com)  Dev Team - Developer  Fran Rogers  [RIT](http //people ... 
 
 ---

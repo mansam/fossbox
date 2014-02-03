@@ -4,6 +4,9 @@ Slug: event-decause-walter-bender-book-signing
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 04/17/2013 - 7:00pm
+
+Timezone: US/Eastern
 Summary: Start  04/17/2013 - 7 00pm  Timezone  US/Eastern  ## RIT to host Reading and Book Signing with Walter Bender, Executive Director of SugarLabs and Co-Founder of One Laptop Per Child  ![](http //foss.rit.edu/files/walterbender.jpg) ![](http //foss.rit.edu/files/learningtochangetheworldcover.jpg)    * WHAT  Free book reading and signing   * WHEN  7 00 p.m., Wednesday April 17th   * WHERE  Golisano Hall atrium and auditorium (Bldg 70, Room 1400)   * PARKING  Parking is available in J Lot, on the nor ... 
 
 ---

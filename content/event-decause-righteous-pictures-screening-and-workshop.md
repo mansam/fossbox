@@ -4,6 +4,9 @@ Slug: event-decause-righteous-pictures-screening-and-workshop
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 10/15/2010 - 1:00pm
+End: 10/15/2010 - 2:30pm
+Timezone: US/Eastern
 Summary: Start  10/15/2010 - 1 00pm  End  10/15/2010 - 2 30pm  Timezone  US/Eastern  "The award-winning documentary filmmakers of Righteous Pictures host this 90-minute workshop. Learn how documentary filmmakers can take advantage of Internet technologies to seek out funding and strategic partners, identify and enlist their audience, and create outreach campaigns that both market the film they have worked so hard to create, and allow the film to serve as a conduit by which their audience can get actively ... 
 
 ---

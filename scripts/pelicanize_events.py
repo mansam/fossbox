@@ -27,7 +27,7 @@ def create_pelican_file(blog):
 			start = line
 		if line.startswith('End:'):
 			end = line
-		if line.startswith('Timezone:')
+		if line.startswith('Timezone:'):
 			timezone = line
 	output = "Title: " + title + "\n"
 	output += "Date: " + date + "\n"

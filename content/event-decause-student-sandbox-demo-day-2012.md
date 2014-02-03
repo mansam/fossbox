@@ -4,6 +4,9 @@ Slug: event-decause-student-sandbox-demo-day-2012
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 08/15/2012 - 4:00pm
+
+Timezone: US/Eastern
 Summary: Start  08/15/2012 - 4 00pm  Timezone  US/Eastern  Registration Here  [https //studentpitches2012.eventbrite.com/](https //studen tpitches2012.eventbrite.com/)   ... 
 
 ---

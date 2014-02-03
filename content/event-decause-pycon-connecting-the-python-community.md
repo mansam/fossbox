@@ -4,6 +4,9 @@ Slug: event-decause-pycon-connecting-the-python-community
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 03/09/2011 - 9:00am
+End: 03/17/2011 - 6:00pm
+Timezone: US/Eastern
 Summary: Start  03/09/2011 - 9 00am  End  03/17/2011 - 6 00pm  Timezone  US/Eastern  **    ## [PYCon Homepage](http //us.pycon.org/2011/home/)  **  The Following Blurb cribbed from the PYCon Website   # PyCon 2011  Connecting The Python Community  The Python Software Foundation is proud to present the annual Python community conference, PyCon 2011. PyCon 2011 will be held March 9th through the 17th, 2011 in Atlanta, Georgia. The PyCon conference days will be March 11-13, preceded by two tutorial days (Ma ... 
 
 ---

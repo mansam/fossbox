@@ -4,6 +4,9 @@ Slug: event-jlew-posse-professors-open-source-summer-experience
 Author: jlew
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 06/20/2011 - 12:00pm
+End: 06/23/2011 - 12:00pm
+Timezone: US/Eastern
 Summary: Start  06/20/2011 - 12 00pm  End  06/23/2011 - 12 00pm  Timezone  US/Eastern  [Website](http //teachingopensource.org/index.php/POSSE_RIT)   ... 
 
 ---

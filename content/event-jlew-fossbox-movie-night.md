@@ -4,6 +4,9 @@ Slug: event-jlew-fossbox-movie-night
 Author: jlew
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 10/21/2010 - 8:30pm
+
+Timezone: US/Eastern
 Summary: Start  10/21/2010 - 8 30pm  Timezone  US/Eastern  Foss Box Movie night.  Movies or Tv Shows and food.   ... 
 
 ---

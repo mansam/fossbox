@@ -4,6 +4,9 @@ Slug: event-decause-fudcon-blacksburg
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 01/13/2012 - 8:00am
+End: 01/15/2012 - 5:00pm
+Timezone: US/Eastern
 Summary: Start  01/13/2012 - 8 00am  End  01/15/2012 - 5 00pm  Timezone  US/Eastern  The 2012 North America FUDCon will be held in Blacksburg, Virginia, on the campus of Virginia Tech, January 13 - 15, 2012.  FUDCon is the Fedora Users and Developers Conference, a major free software event held in various regions around the world, usually annually per region. FUDCon is a combination of sessions, talks, workshops, and hackfests in which contributors work on specific initiatives. Topics include infrastruct ... 
 
 ---

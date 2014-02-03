@@ -4,6 +4,9 @@ Slug: event-decause-rit-election-night-hackathon
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 11/08/2011 - 7:00pm
+
+Timezone: US/Eastern
 Summary: Start  11/08/2011 - 7 00pm  Timezone  US/Eastern  ![](http //foss.rit.edu/files/electiondayhackathon.png)   ... 
 
 ---

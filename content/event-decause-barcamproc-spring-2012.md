@@ -4,6 +4,9 @@ Slug: event-decause-barcamproc-spring-2012
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 04/14/2012 - 12:00am
+
+Timezone: US/Eastern
 Summary: Start  04/14/2012 - 12 00am  Timezone  US/Eastern  BarCamp Rochester is an ad-hoc gathering born from the desire for people to share and learn in an open environment. BarCamp Rochester is an intense event with discussions, demos, and interaction from attendees. All attendees should give a demo, a session, or help with one. All presentations are scheduled the day they happen. Prepare in advance, but come early to get a good slot on the schedule. Check-in begins around 8am, with the first presenta ... 
 
 ---

@@ -4,6 +4,9 @@ Slug: event-decause-fossrit--homestretch-hackathon
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 08/04/2010 - 7:00pm
+End: 08/05/2010 - 7:00am
+Timezone: US/Eastern
 Summary: Start  08/04/2010 - 7 00pm  End  08/05/2010 - 7 00am  Timezone  US/Eastern  ![](http //foss.rit.edu/files/output.png)  **Where** [Center for Student Innovation](http //innovation.rit.edu) Building 87, room 1600   **When** 7 00pm August 4th - 7 00am August 5th   **What**   The Undergraduate Research Teams are reaching the end of their summer term. Now is the time to get those last minute bugs squashed, blockers unblocked, features featured, and the bells and whistles ringing and singing.  The Und ... 
 
 ---

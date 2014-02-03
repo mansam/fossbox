@@ -4,6 +4,9 @@ Slug: event-decause-startup-weekend-syracuse-2012
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 11/30/2012 - 5:00pm
+End: 12/02/2012 - 8:30pm
+Timezone: US/Eastern
 Summary: Start  11/30/2012 - 5 00pm  End  12/02/2012 - 8 30pm  Timezone  US/Eastern  [ Startup Weekend](http //startupweekend.org) is a global grassroots movement of active and empowered entrepreneurs who are learning the basics of founding startups and launching successful ventures. It is the largest community of passionate entrepreneurs with over 400 past events in 100 countries around the world in 2011.  The non-profit organization is headquartered in Seattle, Washington but Startup Weekend organizers ... 
 
 ---

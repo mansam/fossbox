@@ -4,6 +4,9 @@ Slug: event-jlew-general-elections-result-viewing
 Author: jlew
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 11/02/2010 - 8:00pm
+End: 11/02/2010 - 11:00pm
+Timezone: US/Eastern
 Summary: Start  11/02/2010 - 8 00pm  End  11/02/2010 - 11 00pm  Timezone  US/Eastern  [http //www.meetup.com/SunlightFoundation/29039/](http //www.meetup.com/Sunlig htFoundation/29039/)  RIT's Center for Student Innovation ([http //innovation.rit.edu](http //innovation.rit.edu)), the Chair of the Political Science Department Sean Sutton, and Journalism Professor Andrea Hickerson invite students, colleagues, and the Rochester Community to attend a night of election coverage, live blogging, and political c ... 
 
 ---

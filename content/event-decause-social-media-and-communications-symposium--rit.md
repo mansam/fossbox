@@ -4,6 +4,9 @@ Slug: event-decause-social-media-and-communications-symposium--rit
 Author: decause
 Tags: legacy, event, foss@rit
 Category: Events
+Start: 12/08/2010 - 8:00am
+End: 12/08/2010 - 4:00pm
+Timezone: US/Eastern
 Summary: Start  12/08/2010 - 8 00am  End  12/08/2010 - 4 00pm  Timezone  US/Eastern  ## [RIT Event Page](http //www.rit.edu/cla/smacs/)   ... 
 
 ---
