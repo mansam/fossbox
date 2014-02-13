@@ -7,7 +7,23 @@ Category: Events
 Start: 09/15/2012 - 1:00pm
 End: 09/15/2012 - 9:00pm
 Timezone: US/Eastern
-Summary: Start  09/15/2012 - 1 00pm  End  09/15/2012 - 9 00pm  Timezone  US/Eastern  [![Celebrate SFD with us on September 15!](http //www.softwarefreedomday.org/c ountdown/banner1-UTC+8.45-en.png)](http //www.softwarefreedomday.org/)  ![](http //foss.rit.edu/files/sfd2012.png)  ## What is Software Freedom Day?  Software Freedom Day (SFD) is a worldwide celebration of Free and Open Source Software (FOSS). Our goal in this celebration is to educate the worldwide public about of the benefits of using high  ... 
+Summary: 
+	Start  09/15/2012 - 1 00pm
+
+End  09/15/2012 - 9 00pm
+
+Timezone  US/Eastern
+
+[![Celebrate SFD with us on September 15!](http //www.softwarefreedomday.org/c
+ountdown/banner1-UTC+8.45-en.png)](http //www.softwarefreedomday.org/)
+
+![](http //foss.rit.edu/files/sfd2012.png)
+
+## What is Software Freedom Day?
+
+Software Freedom Day (SFD) is a worldwide celebration of Free and Open Source
+Software (FOSS). Our goal in this celebration is to educate the worldwide
+public about of the benefits of using high  ... 
 
 ---
 Start: 09/15/2012 - 1:00pm

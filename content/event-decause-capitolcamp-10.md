@@ -7,7 +7,14 @@ Category: Events
 Start: 08/19/2010 - 12:00am
 
 Timezone: US/Eastern
-Summary: Start  08/19/2010 - 12 00am  Timezone  US/Eastern  [CapitolCamp '10](http //blog.capitolcamp.org)   ... 
+Summary: 
+	Start  08/19/2010 - 12 00am
+
+Timezone  US/Eastern
+
+[CapitolCamp '10](http //blog.capitolcamp.org)
+
+ ... 
 
 ---
 Start: 08/19/2010 - 12:00am

@@ -7,7 +7,20 @@ Category: Events
 Start: 01/18/2012 - 7:00pm
 
 Timezone: US/Eastern
-Summary: Start  01/18/2012 - 7 00pm  Timezone  US/Eastern  Just in time for the start of 2012, we’re staring a hacks/hackers chapter for Rochester and the greater Western NY area. hacks/hackers is an international organization dedicated to bringing together journalists (hacks) and technologists (hackers) to collaborate on the future of news and information sharing.  This kick-off meeting will feature a series of [lighting talks](http //en.wikipedia.org/wiki/Lightning_Talk) from local experts about hacks/ ... 
+Summary: 
+	Start  01/18/2012 - 7 00pm
+
+Timezone  US/Eastern
+
+Just in time for the start of 2012, we’re staring a hacks/hackers chapter for
+Rochester and the greater Western NY area. hacks/hackers is an international
+organization dedicated to bringing together journalists (hacks) and
+technologists (hackers) to collaborate on the future of news and information
+sharing.
+
+This kick-off meeting will feature a series of [lighting
+talks](http //en.wikipedia.org/wiki/Lightning_Talk) from local experts about
+hacks/ ... 
 
 ---
 Start: 01/18/2012 - 7:00pm

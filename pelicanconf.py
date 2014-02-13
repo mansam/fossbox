@@ -37,6 +37,6 @@ AUTHOR_EMAILS = {
 }
 DEFAULT_PAGINATION = 10
 THEME = "themes/foss"
-
+DISQUS_SITENAME = "fossritedu"
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

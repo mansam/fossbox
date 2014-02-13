@@ -7,7 +7,16 @@ Category: Events
 Start: 05/07/2010 - 12:00am
 End: 05/07/2010 - 6:59am
 Timezone: US/Eastern
-Summary: Start  05/07/2010 - 12 00am  End  05/07/2010 - 6 59am  Timezone  US/Eastern  Imagine RIT 2010   ... 
+Summary: 
+	Start  05/07/2010 - 12 00am
+
+End  05/07/2010 - 6 59am
+
+Timezone  US/Eastern
+
+Imagine RIT 2010
+
+ ... 
 
 ---
 Start: 05/07/2010 - 12:00am

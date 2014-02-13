@@ -7,7 +7,29 @@ Category: Events
 Start: 07/10/2010 - 12:00am
 
 Timezone: US/Eastern
-Summary: Start  07/10/2010 - 12 00am  Timezone  US/Eastern  **What**   Open Video Chat will be returning to Boston July 8th for a hack fest at OLPC headquarters. If you'd like to come, contact us on the Open Video Chat mailing list ([ovc@lists.fedorahosted.org](mailto ovc@lists.fedorahosted.org)). We will be tackling farsight and telepathy-farsight to pave the way for cross platform communication.  **When**   July 8th @ 10am  **Where**   OLPC Headquarters  1 Cambridge Center  Cambridge, Massachusetts  ** ... 
+Summary: 
+	Start  07/10/2010 - 12 00am
+
+Timezone  US/Eastern
+
+**What**  
+Open Video Chat will be returning to Boston July 8th for a hack fest at OLPC
+headquarters. If you'd like to come, contact us on the Open Video Chat mailing
+list ([ovc@lists.fedorahosted.org](mailto ovc@lists.fedorahosted.org)). We
+will be tackling farsight and telepathy-farsight to pave the way for cross
+platform communication.
+
+**When**  
+July 8th @ 10am
+
+**Where**  
+OLPC Headquarters
+
+1 Cambridge Center
+
+Cambridge, Massachusetts
+
+** ... 
 
 ---
 Start: 07/10/2010 - 12:00am

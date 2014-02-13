@@ -7,7 +7,15 @@ Category: Events
 Start: 10/22/2010 - 10:00am
 
 Timezone: US/Eastern
-Summary: Start  10/22/2010 - 10 00am  Timezone  US/Eastern  [http //olpcsf.org/CommunitySummit2010/details.php](http //olpcsf.org/Communit ySummit2010/details.php)   ... 
+Summary: 
+	Start  10/22/2010 - 10 00am
+
+Timezone  US/Eastern
+
+[http //olpcsf.org/CommunitySummit2010/details.php](http //olpcsf.org/Communit
+ySummit2010/details.php)
+
+ ... 
 
 ---
 Start: 10/22/2010 - 10:00am

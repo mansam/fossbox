@@ -7,7 +7,16 @@ Category: Events
 Start: 03/24/2011 - 5:30pm
 End: 03/26/2011 - 12:30pm
 Timezone: US/Eastern
-Summary: Start  03/24/2011 - 5 30pm  End  03/26/2011 - 12 30pm  Timezone  US/Eastern  For details see  [http //welivenysummit.com](http //welivenysummit.com)   ... 
+Summary: 
+	Start  03/24/2011 - 5 30pm
+
+End  03/26/2011 - 12 30pm
+
+Timezone  US/Eastern
+
+For details see  [http //welivenysummit.com](http //welivenysummit.com)
+
+ ... 
 
 ---
 Start: 03/24/2011 - 5:30pm

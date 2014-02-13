@@ -7,7 +7,24 @@ Category: Events
 Start: 08/02/2012 - 6:00pm
 End: 08/02/2012 - 9:00pm
 Timezone: US/Eastern
-Summary: Start  08/02/2012 - 6 00pm  End  08/02/2012 - 9 00pm  Timezone  US/Eastern  # For more context visit [ Tim's Blog Post](http //foss.rit.edu/node/398)  ![](http //foss.rit.edu/files/playtesting flyer.png)  AttachmentSize  [playtesting flyer.png](http //foss.rit.edu/files/playtesting flyer.png)  179.94 KB   ... 
+Summary: 
+	Start  08/02/2012 - 6 00pm
+
+End  08/02/2012 - 9 00pm
+
+Timezone  US/Eastern
+
+# For more context visit [ Tim's Blog Post](http //foss.rit.edu/node/398)
+
+![](http //foss.rit.edu/files/playtesting flyer.png)
+
+AttachmentSize
+
+[playtesting flyer.png](http //foss.rit.edu/files/playtesting flyer.png)
+
+179.94 KB
+
+ ... 
 
 ---
 Start: 08/02/2012 - 6:00pm

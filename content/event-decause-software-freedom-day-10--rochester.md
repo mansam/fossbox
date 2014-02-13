@@ -7,7 +7,20 @@ Category: Events
 Start: 09/18/2010 - 12:00am
 
 Timezone: US/Eastern
-Summary: Start  09/18/2010 - 12 00am  Timezone  US/Eastern  ![](http //foss.rit.edu/files/sfdroc10_0.png)  AttachmentSize  [sfdroc10_0.png](http //foss.rit.edu/files/sfdroc10_0.png)  191.24 KB   ... 
+Summary: 
+	Start  09/18/2010 - 12 00am
+
+Timezone  US/Eastern
+
+![](http //foss.rit.edu/files/sfdroc10_0.png)
+
+AttachmentSize
+
+[sfdroc10_0.png](http //foss.rit.edu/files/sfdroc10_0.png)
+
+191.24 KB
+
+ ... 
 
 ---
 Start: 09/18/2010 - 12:00am

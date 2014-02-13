@@ -7,7 +7,14 @@ Category: Events
 Start: 11/08/2011 - 7:00pm
 
 Timezone: US/Eastern
-Summary: Start  11/08/2011 - 7 00pm  Timezone  US/Eastern  ![](http //foss.rit.edu/files/electiondayhackathon.png)   ... 
+Summary: 
+	Start  11/08/2011 - 7 00pm
+
+Timezone  US/Eastern
+
+![](http //foss.rit.edu/files/electiondayhackathon.png)
+
+ ... 
 
 ---
 Start: 11/08/2011 - 7:00pm

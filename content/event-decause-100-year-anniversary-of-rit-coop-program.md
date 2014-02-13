@@ -7,7 +7,27 @@ Category: Events
 Start: 10/18/2012 - 3:00pm
 End: 10/18/2012 - 6:30pm
 Timezone: US/Eastern
-Summary: Start  10/18/2012 - 3 00pm  End  10/18/2012 - 6 30pm  Timezone  US/Eastern  _[  ](http //www.rit.edu/news/magazine_story.php?id=49303)_  ### **100th Anniversary Celebration of Cooperative Education and Experiential Learning**  _SAVE THE DATE _ Thursday, October 18, 2012, 3 00-6 30 pm, Ingle Auditorium/1829 Room  More information available at  [http //www.rit.edu/emcs/oce/student/Co- op100Years](http //www.rit.edu/emcs/oce/student/Co-op100Years)  Join the Office of Cooperative Education & Career  ... 
+Summary: 
+	Start  10/18/2012 - 3 00pm
+
+End  10/18/2012 - 6 30pm
+
+Timezone  US/Eastern
+
+_[
+
+](http //www.rit.edu/news/magazine_story.php?id=49303)_
+
+### **100th Anniversary Celebration of Cooperative Education and Experiential
+Learning**
+
+_SAVE THE DATE _ Thursday, October 18, 2012, 3 00-6 30 pm, Ingle
+Auditorium/1829 Room
+
+More information available at  [http //www.rit.edu/emcs/oce/student/Co-
+op100Years](http //www.rit.edu/emcs/oce/student/Co-op100Years)
+
+Join the Office of Cooperative Education & Career  ... 
 
 ---
 Start: 10/18/2012 - 3:00pm

@@ -7,7 +7,16 @@ Category: Events
 Start: 10/20/2011 - 10:00am
 End: 10/21/2011 - 6:00pm
 Timezone: US/Eastern
-Summary: Start  10/20/2011 - 10 00am  End  10/21/2011 - 6 00pm  Timezone  US/Eastern  ![](http //evbdn.eventbrite.com/s3-s3/eventlogos/5507833/2218068302-4.jpg)  ******Capitol Camp 2011 is an “unconference” and Developer’s Summit taking place October 20th and 21st that brings together government technology stakeholders under the roof of the New York State Capitol Building to share challenges and solutions. We hope to build on the success of prior Capitol Camp events to further engage and expand this comm ... 
+Summary: 
+	Start  10/20/2011 - 10 00am
+
+End  10/21/2011 - 6 00pm
+
+Timezone  US/Eastern
+
+![](http //evbdn.eventbrite.com/s3-s3/eventlogos/5507833/2218068302-4.jpg)
+
+******Capitol Camp 2011 is an “unconference” and Developer’s Summit taking place October 20th and 21st that brings together government technology stakeholders under the roof of the New York State Capitol Building to share challenges and solutions. We hope to build on the success of prior Capitol Camp events to further engage and expand this comm ... 
 
 ---
 Start: 10/20/2011 - 10:00am

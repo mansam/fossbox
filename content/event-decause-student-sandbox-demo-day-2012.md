@@ -7,7 +7,15 @@ Category: Events
 Start: 08/15/2012 - 4:00pm
 
 Timezone: US/Eastern
-Summary: Start  08/15/2012 - 4 00pm  Timezone  US/Eastern  Registration Here  [https //studentpitches2012.eventbrite.com/](https //studen tpitches2012.eventbrite.com/)   ... 
+Summary: 
+	Start  08/15/2012 - 4 00pm
+
+Timezone  US/Eastern
+
+Registration Here  [https //studentpitches2012.eventbrite.com/](https //studen
+tpitches2012.eventbrite.com/)
+
+ ... 
 
 ---
 Start: 08/15/2012 - 4:00pm

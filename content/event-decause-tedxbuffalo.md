@@ -7,7 +7,14 @@ Category: Events
 Start: 10/11/2011 - 8:00pm
 
 Timezone: US/Eastern
-Summary: Start  10/11/2011 - 8 00pm  Timezone  US/Eastern  [TEDxBuffalo](http //tedxbuffalo.com)   ... 
+Summary: 
+	Start  10/11/2011 - 8 00pm
+
+Timezone  US/Eastern
+
+[TEDxBuffalo](http //tedxbuffalo.com)
+
+ ... 
 
 ---
 Start: 10/11/2011 - 8:00pm

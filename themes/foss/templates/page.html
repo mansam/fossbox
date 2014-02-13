@@ -11,6 +11,13 @@
                 </div>
             </div>
             <div class="article-content-body">
+                {% if page.category == "Events" %}
+                <p>
+                    <strong>Event Start:</strong> {{ page.start }}<br>
+                    <strong>Event End:</strong> {{ page.end }}<br>
+                    <strong>Event Timezone:</strong> {{ page.timezone }}
+                </p>
+                {% endif %}
                 <p>
                     {{ page.content }}
                 </p>

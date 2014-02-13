@@ -7,7 +7,28 @@ Category: Events
 Start: 01/18/2012 - 6:00pm
 End: 01/19/2012 - 8:00pm
 Timezone: US/Eastern
-Summary: Start  01/18/2012 - 6 00pm  End  01/19/2012 - 8 00pm  Timezone  US/Eastern  American Greetings is sponsoring a major Hackathon at RIT January 18th-19th!  Over $1000 in prizes!  Four Submission Categories in Games, Mobile, Web, and Creative.  Registration and Information here  [http //hack.ag.com/rit](http //hack.ag.com/rit)  ![](http //i.imgur.com/WnTkU.png)      Day         Time        What     Fr 1/18     6 00pm      Opening Reception     Fr 1/18     6 30pm      Keynote Address     Fr 1/18     ... 
+Summary: 
+	Start  01/18/2012 - 6 00pm
+
+End  01/19/2012 - 8 00pm
+
+Timezone  US/Eastern
+
+American Greetings is sponsoring a major Hackathon at RIT January 18th-19th!
+
+Over $1000 in prizes!
+
+Four Submission Categories in Games, Mobile, Web, and Creative.
+
+Registration and Information here 
+[http //hack.ag.com/rit](http //hack.ag.com/rit)
+
+![](http //i.imgur.com/WnTkU.png)
+
+    Day         Time        What
+    Fr 1/18     6 00pm      Opening Reception
+    Fr 1/18     6 30pm      Keynote Address
+    Fr 1/18     ... 
 
 ---
 Start: 01/18/2012 - 6:00pm

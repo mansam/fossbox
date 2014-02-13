@@ -7,7 +7,17 @@ Category: Events
 Start: 01/21/2011 - 6:00pm
 
 Timezone: US/Eastern
-Summary: Start  01/21/2011 - 6 00pm  Timezone  US/Eastern  **Where ** Center for Student Innovation (Bldg 87-1600)   **When ** 6pm - ?   **What ** FOSS@RIT will be hosting a hackfest to work on various client and collaborator projects; University Campaigns, Class and Co-op Projects, and community projects.   **Bring ** Feel free to bring food and beverages of your choice, and/or cash as we will be passing the hat for Columbini's Buffalo Chicken Pizza at 6pm.    There will be Pizza, Music, Caffeine, and C ... 
+Summary: 
+	Start  01/21/2011 - 6 00pm
+
+Timezone  US/Eastern
+
+**Where ** Center for Student Innovation (Bldg 87-1600)  
+**When ** 6pm - ?  
+**What ** FOSS@RIT will be hosting a hackfest to work on various client and collaborator projects; University Campaigns, Class and Co-op Projects, and community projects.  
+**Bring ** Feel free to bring food and beverages of your choice, and/or cash as we will be passing the hat for Columbini's Buffalo Chicken Pizza at 6pm.  
+
+There will be Pizza, Music, Caffeine, and C ... 
 
 ---
 Start: 01/21/2011 - 6:00pm

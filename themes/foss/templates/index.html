@@ -31,7 +31,24 @@
                 <a href="{{ SITEURL }}/{{ art.url }}" rel='bookmark'>{{ art.title }}</a>
                 <p class="pure-u-1 email-desc2">
                     {% if art.category == "Events" %}
-                        Event Date: {{ art.start }}
+                    <table border="0">
+                    <tr>
+                    <td>Event Starts:</td>
+                    <td>{{ art.start }}</td>
+                    </tr>
+                    {% if art.end %}
+                    <tr>
+                    <td>Event Ends:</td>
+                    <td>{{ art.end }}</td>
+                    </tr>
+                    {% endif %}
+                    {% if art.timezone %}
+                    <tr>
+                    <td>Timezone:</td>
+                    <td>{{ art.timezone }}</td>
+                    </tr>
+                    {% endif %}
+                    </table> 
                     {% else %}
                         Posted On: {{ art.locale_date }}
                     {% endif %}

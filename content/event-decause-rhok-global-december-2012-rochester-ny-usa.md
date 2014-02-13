@@ -7,7 +7,26 @@ Category: Events
 Start: 12/01/2012 - 9:00pm
 End: 12/02/2012 - 4:00pm
 Timezone: US/Eastern
-Summary: Start  12/01/2012 - 9 00pm  End  12/02/2012 - 4 00pm  Timezone  US/Eastern  FOSS@RIT is proud to be hosting Random Hacks of Kindness Global Hackathon 2012!  Come help us solve problems and kick down blockers for volunteers and aid workers around the world!  **Register on our Eventbrite page here **  ## [https //rhoktheroc2012.eventbrite.com](https //rhoktheroc2012.eventbrite.com)  [![](https //ebmedia.eventbrite.com/s3-s3/static/images/icons/eb- icon_large.png)](https //rhoktheroc2012.eventbrite ... 
+Summary: 
+	Start  12/01/2012 - 9 00pm
+
+End  12/02/2012 - 4 00pm
+
+Timezone  US/Eastern
+
+FOSS@RIT is proud to be hosting Random Hacks of Kindness Global Hackathon
+2012!
+
+Come help us solve problems and kick down blockers for volunteers and aid
+workers around the world!
+
+**Register on our Eventbrite page here **
+
+##
+[https //rhoktheroc2012.eventbrite.com](https //rhoktheroc2012.eventbrite.com)
+
+[![](https //ebmedia.eventbrite.com/s3-s3/static/images/icons/eb-
+icon_large.png)](https //rhoktheroc2012.eventbrite ... 
 
 ---
 Start: 12/01/2012 - 9:00pm
