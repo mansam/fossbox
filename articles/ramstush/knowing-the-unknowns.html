@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="foss@rit, ">
+
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
+    <link rel="stylesheet" href="/theme/pure.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://use.typekit.net/ajf8ggy.js"></script>
+    <script>
+        try { Typekit.load(); } catch (e) {}
+    </script>
+
+
+        <title>Knowing the Unknowns // foss@rit // </title>
+</head>
+
+<body>
+    <div class="pure-g-r content" id="layout">
+        <div class="pure-u" id="nav">
+            <a href="#" class="nav-menu-button">Menu</a>
+
+            <div class="nav-inner">
+                <h1>
+                    <a class="logo" href=""><img id="profileimg" src="http://foss.rit.edu/files/logo.png" alt="foss@rit"></a>
+                </h1>
+                <div class="pure-menu pure-menu-open">
+                    <ul>
+                        <span class="pure-menu-heading">foss@rit</span>
+                        <li><a href="/pages/about.html">About</a></li>
+                        <li><a href="/projects">Projects</a></li>
+                        <li><a href="/pages/research.html">Research</a></li>
+                        <li><a href="/category/events.html">Events</a></li>
+                        <li class="pure-menu-heading">Blogs</li>
+                            <li><a href="/author/blitzkev.html"><span class="cat-label-blue"></span>Blitzkev</a></li>
+                            <li><a href="/author/davesilver.html"><span class="cat-label-blue"></span>DaveSilver</a></li>
+                            <li><a href="/author/decause.html"><span class="cat-label-blue"></span>decause</a></li>
+                            <li><a href="/author/fortnight.html"><span class="cat-label-blue"></span>fortnight</a></li>
+                            <li><a href="/author/imnotlistening.html"><span class="cat-label-blue"></span>imnotlistening</a></li>
+                            <li><a href="/author/jenn.html"><span class="cat-label-blue"></span>Jenn</a></li>
+                            <li><a href="/author/jlew.html"><span class="cat-label-blue"></span>jlew</a></li>
+                            <li><a href="/author/jtmengel.html"><span class="cat-label-blue"></span>jtmengel</a></li>
+                            <li><a href="/author/kayeight.html"><span class="cat-label-blue"></span>kayeight</a></li>
+                            <li><a href="/author/qalthos.html"><span class="cat-label-blue"></span>Qalthos</a></li>
+                            <li><a href="/author/ramstush.html"><span class="cat-label-blue"></span>ramstush</a></li>
+                            <li><a href="/author/rberent.html"><span class="cat-label-blue"></span>rberent</a></li>
+                            <li><a href="/author/rgk8573.html"><span class="cat-label-blue"></span>rgk8573</a></li>
+                            <li><a href="/author/thengrad.html"><span class="cat-label-blue"></span>thengrad</a></li>
+                            <li><a href="/author/tmr9209.html"><span class="cat-label-blue"></span>tmr9209</a></li>
+                            <li><a href="/author/trose.html"><span class="cat-label-blue"></span>trose</a></li>
+                            <li><a href="/author/wacker.html"><span class="cat-label-blue"></span>wacker</a></li>
+                            <li><a href="/author/zanarama.html"><span class="cat-label-blue"></span>Zanarama</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    <div class="pure-u-3-4">
+        <div class="article-content margin-blue">
+            <div class="article-content-header pure-g">
+                <div class="pure-u-1">
+                    <h1 class="article-content-title">Knowing the Unknowns</h1>
+                    <p class="article-content-subtitle">
+                        by <a href="/author/ramstush.html">ramstush</a> on <span>Thu 20 June 2013</span>
+                        // Posted in <a href="/category/legacy.html">legacy</a>
+                            // under                                 <a class="post-category post-category-design" href="/tag/legacy.html">legacy</a>
+                                <a class="post-category post-category-design" href="/tag/fossrit.html">foss@rit</a>
+                    </p>
+                </div>
+            </div>
+            <div class="article-content-body">
+                <p>
+                    <p>CODE SPELUNKING!!! Yesterday was a very dirty day digging through code. The
+entire day I was looking at two sugar activities.
+<a href="http://activities.sugarlabs.org/en-US/sugar/addon/4670">SkyTime</a> and
+<a href="http://activities.sugarlabs.org/en-US/sugar/addon/4321">Lemonade Stand</a>.</p>
+<p>The ticket assigned to me was to get Lemonade Stand to make an entry into the
+journal. I used SkyTime as a parallel test case to see if something was
+blocking the journal from accessing the activity or if I needed to add some
+functionality to the activities to allow the journal to access the activities.</p>
+<p>My journey began by pinging #sugar again to get some insight into what wasn't
+working in our activities. They pointed me towards <a href="http://wiki.sugarlabs.org/go/Development_Team/Almanac/sugar.datastore.dat
+astore">The Sugar Datastore wiki p
+age</a> which explains how the journal accesses the activity information and
+makes an entry. After talking with the sugar team, they informed me that the
+code which was in the wiki page manually made a datastore object for the
+journal to access, but the journal doesn't need an actual file to make a
+journal entry. The journal should be able to automatically make an entry just
+by grabbing some metadata from the activity that has been running most
+recently. Also, i learned that the journal doesn't make a new entry for each
+time the activity is opened, it just updates a previous entry that has been
+made in the journal. To make a completely new entry, you need to select "Start
+New" under the palette after you hover over the activity. After learning this
+valuable information, I decided to test each of the SkyTime and Lemonade Stand
+activities on a sugar XO to see if the journal did, in fact, make automatic
+entries. When I made a new Skytime entry, the journal lived up to it's
+reputation and made an entry flawlessly. When I tried Lemonade Stand, it still
+didn't work. After some digging, The FOSSbox suggested that I try a difference
+activity that used the Fortune Game Engine as well. This activity was called
+<a href="http://activities.sugarlabs.org/en-US/sugar/addon/4272">Fortune Hunter </a>.
+After testing this game and getting the same results as I did from lemonade
+stand, I have concluded that Fortune Engine has something to do with the
+erroneous journal entries. Today I will endeavor to dig through fortune engine
+and add/delete the code that will make journal entries.</p>
+                </p>
+                <div class="comments">
+                    <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        var disqus_identifier = "articles/ramstush/knowing-the-unknowns.html";
+                        (function() {
+                            var dsq = document.createElement('script');
+                            dsq.type = 'text/javascript';
+                            dsq.async = true;
+                            dsq.src = 'http://fossritedu.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+                </div>
+ 
+            </div>
+        </div>
+    </div>
+
+        <div class="pure-u-3-4">
+            <footer class="footer">
+                <p>&copy; foss@rit &ndash;
+                    Built with <a href="https://github.com/danclaudiupop/pure">Pure Theme</a>
+                    for <a href="http://blog.getpelican.com/">Pelican</a>
+                </p>
+                <p>Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+                <a href="#" class="go-top">Go Top</a>
+            </footer>
+        </div>
+
+    <script src="http://yui.yahooapis.com/3.10.1/build/yui/yui-min.js"></script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+
+            var menuButton = Y.one('.nav-menu-button'),
+                nav        = Y.one('#nav');
+
+            // Setting the active class name expands the menu vertically on small screens.
+            menuButton.on('click', function (e) {
+                nav.toggleClass('active');
+            });
+
+            // Your application code goes here...
+
+        });
+    </script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+            // This just makes sure that the href="#" attached to the <a> elements
+            // don't scroll you back up the page.
+            Y.one('body').delegate('click', function (e) {
+                e.preventDefault();
+            }, 'a[href="#"]');
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+            // Show or hide the sticky footer button
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 200) {
+                    $('.go-top').fadeIn(200);
+                } else {
+                    $('.go-top').fadeOut(200);
+                }
+            });
+
+            // Animate the scroll to top
+            $('.go-top').click(function(event) {
+                event.preventDefault();
+
+                $('html, body').animate({scrollTop: 0}, 300);
+            })
+        });
+    </script>
+
+</body>
+</html>

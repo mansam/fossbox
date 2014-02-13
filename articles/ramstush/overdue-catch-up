@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="foss@rit, ">
+
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
+    <link rel="stylesheet" href="/theme/pure.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://use.typekit.net/ajf8ggy.js"></script>
+    <script>
+        try { Typekit.load(); } catch (e) {}
+    </script>
+
+
+        <title>Overdue Catch Up // foss@rit // </title>
+</head>
+
+<body>
+    <div class="pure-g-r content" id="layout">
+        <div class="pure-u" id="nav">
+            <a href="#" class="nav-menu-button">Menu</a>
+
+            <div class="nav-inner">
+                <h1>
+                    <a class="logo" href=""><img id="profileimg" src="http://foss.rit.edu/files/logo.png" alt="foss@rit"></a>
+                </h1>
+                <div class="pure-menu pure-menu-open">
+                    <ul>
+                        <span class="pure-menu-heading">foss@rit</span>
+                        <li><a href="/pages/about.html">About</a></li>
+                        <li><a href="/projects">Projects</a></li>
+                        <li><a href="/pages/research.html">Research</a></li>
+                        <li><a href="/category/events.html">Events</a></li>
+                        <li class="pure-menu-heading">Blogs</li>
+                            <li><a href="/author/blitzkev.html"><span class="cat-label-blue"></span>Blitzkev</a></li>
+                            <li><a href="/author/davesilver.html"><span class="cat-label-blue"></span>DaveSilver</a></li>
+                            <li><a href="/author/decause.html"><span class="cat-label-blue"></span>decause</a></li>
+                            <li><a href="/author/fortnight.html"><span class="cat-label-blue"></span>fortnight</a></li>
+                            <li><a href="/author/imnotlistening.html"><span class="cat-label-blue"></span>imnotlistening</a></li>
+                            <li><a href="/author/jenn.html"><span class="cat-label-blue"></span>Jenn</a></li>
+                            <li><a href="/author/jlew.html"><span class="cat-label-blue"></span>jlew</a></li>
+                            <li><a href="/author/jtmengel.html"><span class="cat-label-blue"></span>jtmengel</a></li>
+                            <li><a href="/author/kayeight.html"><span class="cat-label-blue"></span>kayeight</a></li>
+                            <li><a href="/author/qalthos.html"><span class="cat-label-blue"></span>Qalthos</a></li>
+                            <li><a href="/author/ramstush.html"><span class="cat-label-blue"></span>ramstush</a></li>
+                            <li><a href="/author/rberent.html"><span class="cat-label-blue"></span>rberent</a></li>
+                            <li><a href="/author/rgk8573.html"><span class="cat-label-blue"></span>rgk8573</a></li>
+                            <li><a href="/author/thengrad.html"><span class="cat-label-blue"></span>thengrad</a></li>
+                            <li><a href="/author/tmr9209.html"><span class="cat-label-blue"></span>tmr9209</a></li>
+                            <li><a href="/author/trose.html"><span class="cat-label-blue"></span>trose</a></li>
+                            <li><a href="/author/wacker.html"><span class="cat-label-blue"></span>wacker</a></li>
+                            <li><a href="/author/zanarama.html"><span class="cat-label-blue"></span>Zanarama</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    <div class="pure-u-3-4">
+        <div class="article-content margin-blue">
+            <div class="article-content-header pure-g">
+                <div class="pure-u-1">
+                    <h1 class="article-content-title">Overdue Catch Up</h1>
+                    <p class="article-content-subtitle">
+                        by <a href="/author/ramstush.html">ramstush</a> on <span>Tue 08 October 2013</span>
+                        // Posted in <a href="/category/legacy.html">legacy</a>
+                            // under                                 <a class="post-category post-category-design" href="/tag/legacy.html">legacy</a>
+                                <a class="post-category post-category-design" href="/tag/fossrit.html">foss@rit</a>
+                    </p>
+                </div>
+            </div>
+            <div class="article-content-body">
+                <p>
+                    <p>Hey world it's been a while!!</p>
+<p>I took a bit of time to get used to the new semester system that RIT is using
+instead of our dearly loved quarterly system. In the mean time I've had some
+thing happening and continue to happen that I believe I should blog about to
+get some stability back into my work life.</p>
+<p>Past things that have been going on:</p>
+<p>Summer COOP was glorious! I can't believe the amount of awesome individuals
+that I've met and am continuing to meet through the Fossbox and it's many
+faithful members.</p>
+<p>Currently, I'm loving Objective - C as I am learning to develop iPhone Apps in
+a mobile games development course I'm taking. As a result, I finally obtained
+a new computer, a macbox that I've devoted to being a dev/work box.</p>
+<p>I helped the Fossbox in setting up the Software Freedom Day hackathon by
+creating a facebook event as well as throwing the flyer around RIT's social
+networks to spread the word. Unfortunately, I wasn't able to attend due to
+previous commitments, but I visited near the end to see that Remy D. was
+rockin and rollin SWFD as always!</p>
+<p>New things that are going to be going on:</p>
+<p>This weekend we have the Hack Upstate hackathon happening in Syracuse NY. The
+dates are the 12-13th of Oct. I'm not sure of the location but throw decause a
+ping in channel and he'll set you up with the details.</p>
+<p>I'm currently bootstrapping my macbox because Unix is pretty similar to Linux
+and hooray!!</p>
+<p>A fellow Fossboxer, nicked: Mansam, introduced me to HomeBrew. Its a package
+manager for Mac that's like Fedora's YUM. So far vim and python have been
+installed and updated and I'm still working on getting my github setup and
+Fossbox server access to remember my irc backchannel</p>
+<p>Thats the up and coming for this week, other than working on a ton of school
+work, I'm having a blast!</p>
+<p>-brush</p>
+                </p>
+                <div class="comments">
+                    <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        var disqus_identifier = "articles/ramstush/overdue-catch-up";
+                        (function() {
+                            var dsq = document.createElement('script');
+                            dsq.type = 'text/javascript';
+                            dsq.async = true;
+                            dsq.src = 'http://fossritedu.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+                </div>
+ 
+            </div>
+        </div>
+    </div>
+
+        <div class="pure-u-3-4">
+            <footer class="footer">
+                <p>&copy; foss@rit &ndash;
+                    Built with <a href="https://github.com/danclaudiupop/pure">Pure Theme</a>
+                    for <a href="http://blog.getpelican.com/">Pelican</a>
+                </p>
+                <p>Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+                <a href="#" class="go-top">Go Top</a>
+            </footer>
+        </div>
+
+    <script src="http://yui.yahooapis.com/3.10.1/build/yui/yui-min.js"></script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+
+            var menuButton = Y.one('.nav-menu-button'),
+                nav        = Y.one('#nav');
+
+            // Setting the active class name expands the menu vertically on small screens.
+            menuButton.on('click', function (e) {
+                nav.toggleClass('active');
+            });
+
+            // Your application code goes here...
+
+        });
+    </script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+            // This just makes sure that the href="#" attached to the <a> elements
+            // don't scroll you back up the page.
+            Y.one('body').delegate('click', function (e) {
+                e.preventDefault();
+            }, 'a[href="#"]');
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+            // Show or hide the sticky footer button
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 200) {
+                    $('.go-top').fadeIn(200);
+                } else {
+                    $('.go-top').fadeOut(200);
+                }
+            });
+
+            // Animate the scroll to top
+            $('.go-top').click(function(event) {
+                event.preventDefault();
+
+                $('html, body').animate({scrollTop: 0}, 300);
+            })
+        });
+    </script>
+
+</body>
+</html>

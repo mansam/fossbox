@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="foss@rit, ">
+
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
+    <link rel="stylesheet" href="/theme/pure.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://use.typekit.net/ajf8ggy.js"></script>
+    <script>
+        try { Typekit.load(); } catch (e) {}
+    </script>
+
+
+        <title>Commarch Assignment // foss@rit // </title>
+</head>
+
+<body>
+    <div class="pure-g-r content" id="layout">
+        <div class="pure-u" id="nav">
+            <a href="#" class="nav-menu-button">Menu</a>
+
+            <div class="nav-inner">
+                <h1>
+                    <a class="logo" href=""><img id="profileimg" src="http://foss.rit.edu/files/logo.png" alt="foss@rit"></a>
+                </h1>
+                <div class="pure-menu pure-menu-open">
+                    <ul>
+                        <span class="pure-menu-heading">foss@rit</span>
+                        <li><a href="/pages/about.html">About</a></li>
+                        <li><a href="/projects">Projects</a></li>
+                        <li><a href="/pages/research.html">Research</a></li>
+                        <li><a href="/category/events.html">Events</a></li>
+                        <li class="pure-menu-heading">Blogs</li>
+                            <li><a href="/author/blitzkev.html"><span class="cat-label-blue"></span>Blitzkev</a></li>
+                            <li><a href="/author/davesilver.html"><span class="cat-label-blue"></span>DaveSilver</a></li>
+                            <li><a href="/author/decause.html"><span class="cat-label-blue"></span>decause</a></li>
+                            <li><a href="/author/fortnight.html"><span class="cat-label-blue"></span>fortnight</a></li>
+                            <li><a href="/author/imnotlistening.html"><span class="cat-label-blue"></span>imnotlistening</a></li>
+                            <li><a href="/author/jenn.html"><span class="cat-label-blue"></span>Jenn</a></li>
+                            <li><a href="/author/jlew.html"><span class="cat-label-blue"></span>jlew</a></li>
+                            <li><a href="/author/jtmengel.html"><span class="cat-label-blue"></span>jtmengel</a></li>
+                            <li><a href="/author/kayeight.html"><span class="cat-label-blue"></span>kayeight</a></li>
+                            <li><a href="/author/qalthos.html"><span class="cat-label-blue"></span>Qalthos</a></li>
+                            <li><a href="/author/ramstush.html"><span class="cat-label-blue"></span>ramstush</a></li>
+                            <li><a href="/author/rberent.html"><span class="cat-label-blue"></span>rberent</a></li>
+                            <li><a href="/author/rgk8573.html"><span class="cat-label-blue"></span>rgk8573</a></li>
+                            <li><a href="/author/thengrad.html"><span class="cat-label-blue"></span>thengrad</a></li>
+                            <li><a href="/author/tmr9209.html"><span class="cat-label-blue"></span>tmr9209</a></li>
+                            <li><a href="/author/trose.html"><span class="cat-label-blue"></span>trose</a></li>
+                            <li><a href="/author/wacker.html"><span class="cat-label-blue"></span>wacker</a></li>
+                            <li><a href="/author/zanarama.html"><span class="cat-label-blue"></span>Zanarama</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    <div class="pure-u-3-4">
+        <div class="article-content margin-blue">
+            <div class="article-content-header pure-g">
+                <div class="pure-u-1">
+                    <h1 class="article-content-title">Commarch Assignment</h1>
+                    <p class="article-content-subtitle">
+                        by <a href="/author/zanarama.html">Zanarama</a> on <span>Mon 30 September 2013</span>
+                        // Posted in <a href="/category/legacy.html">legacy</a>
+                            // under                                 <a class="post-category post-category-design" href="/tag/legacy.html">legacy</a>
+                                <a class="post-category post-category-design" href="/tag/fossrit.html">foss@rit</a>
+                    </p>
+                </div>
+            </div>
+            <div class="article-content-body">
+                <p>
+                    <p>For the HFOSS course, we completed a Commarch assignment, basically just
+investigating an open source project and learning a bit about it. My group
+chose Fedora Badges, because I was familiar with it and it is an awesome
+project led by people that are already close to FOSS@RIT.</p>
+<p><strong>Project:</strong> Fedora Badges</p>
+<p><strong>IRC Channel:</strong> #fedora-infra, #fedora-apps, #fedora-badges on freenode<br />
+<strong>Code Repository:</strong> <a href="https://github.com/fedora-infra/fedbadges">https://github.com/fedora-infra/fedbadges</a><br />
+<strong>Mail list archive:</strong> <a href="https://lists.fedoraproject.org/pipermail/badges/">https://lists.fedoraproject.org/pipermail/badges/</a><br />
+<strong>Join the list here:</strong> <a href="https://lists.fedoraproject.org/mailman/listinfo/badges">https://lists.fedoraproject.org/mailman/listinfo/badges</a><br />
+<strong>Project Wiki:</strong> <a href="https://fedorahosted.org/fedora-badges/wiki">https://fedorahosted.org/fedora-badges/wiki</a></p>
+<p>Fedora Badges or Federated Badges, as it is expanding past Fedora, is a
+recognition system for participation and contribution in the Fedora community
+and to encourage users to get involved in the improvement of the Fedora
+Project.</p>
+<p>The initial commit on the GitHub page was on August 1, 2012, but the Github
+page is not the original home of the code and some of the history was lost
+when it was migrated. The project is still under development and being
+actively committed to with some regularity.</p>
+<p>Anybody can submit a pull request to Fedora Badges. Once a patch has been
+submitted it has to get a "+1" to be accepted. Basically, other contributors
+to the project have to peer review any of the code added to the project to
+confirm that it doesn't break anything, is a valid solution or addition, and
+meets style standards.</p>
+<p><a href="www.threebean.org">Ralph Bean</a> has the most commits to Fedora Badges, and a
+lot of the project rests on him. Fedora Badges has really only had three
+contributors, although auxilary projects like <a href="https://github.com
+/fedora-infra/tahrir">Tahrir</a> have more contributors. The same core group of people
+seem to contribute to them consistantly though.</p>
+<p>Although Threebean is the main contributor to Fedora Badges I wouldn't say he
+is a Benevolent Dictator for Life on the project, although he may be called
+the lead developer. The overall style of the development of Fedora Badges is
+an open democracy, not a lone crusader.</p>
+<p>This spirit is what would allow Fedora Badges to continue even if threebean
+was viciously mauled by a raptor. While we mourned the loss, I can only
+imagine how much the Fedora community would come together to continue his
+work, especially because they have good documentation. Similarly, if the top
+core developers were all hit by a bus the project would still survive. It may
+slow down the project, and the whole Fedora community because those involved
+with Fedora Badges are pretty huge contributors to Fedora as a whole, but all
+projects would continue on.</p>
+<p>Tahrir is the front end of Badges, while Fedora Badges is sort of the
+middleman, and Datanommer and <a href="http://www.fedmsg.com/en/latest/">Fedmsg</a> are
+the backend development. Tahrir is the instance that displays badges and
+users. Fedmsg is a bus that gathers all of the activity that is going on in
+Fedora, that is then parsed by Datanommer and fed into FedBadges to award
+activity.</p>
+<p>Interest in the project has been increased, especially since its real debue at
+the Flock to Fedora confrence where it was a really big hit. In my opinion, it
+was the most important talk of the confrence, and certainly got the most
+people talking.</p>
+<p>While Fedora Badges has pretty good documentation, and a great community it
+isn't the most welcoming to newcommers. The project relies on many other
+projects making absorbing the whole work flow difficult. However, the
+developers are very easy to reach in IRC and would be more than happy to help
+others out to begin contributing. New users may also begin to help on auxilary
+projects, like the badges themselves, and slowly move to make code
+contributions.</p>
+<p>Overall, the Fedora community is awesome and working on a project like Fedora
+Badges would be great. The project has enough guidance and vision to move
+forward and not become stagnant, but is not so regimented that someone
+couldn't come in with a great idea and mix things up. The open community
+supporting the project would make it a pleasure to work on.</p>
+                </p>
+                <div class="comments">
+                    <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        var disqus_identifier = "articles/Zanarama/commarch-assignment";
+                        (function() {
+                            var dsq = document.createElement('script');
+                            dsq.type = 'text/javascript';
+                            dsq.async = true;
+                            dsq.src = 'http://fossritedu.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+                </div>
+ 
+            </div>
+        </div>
+    </div>
+
+        <div class="pure-u-3-4">
+            <footer class="footer">
+                <p>&copy; foss@rit &ndash;
+                    Built with <a href="https://github.com/danclaudiupop/pure">Pure Theme</a>
+                    for <a href="http://blog.getpelican.com/">Pelican</a>
+                </p>
+                <p>Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+                <a href="#" class="go-top">Go Top</a>
+            </footer>
+        </div>
+
+    <script src="http://yui.yahooapis.com/3.10.1/build/yui/yui-min.js"></script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+
+            var menuButton = Y.one('.nav-menu-button'),
+                nav        = Y.one('#nav');
+
+            // Setting the active class name expands the menu vertically on small screens.
+            menuButton.on('click', function (e) {
+                nav.toggleClass('active');
+            });
+
+            // Your application code goes here...
+
+        });
+    </script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+            // This just makes sure that the href="#" attached to the <a> elements
+            // don't scroll you back up the page.
+            Y.one('body').delegate('click', function (e) {
+                e.preventDefault();
+            }, 'a[href="#"]');
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+            // Show or hide the sticky footer button
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 200) {
+                    $('.go-top').fadeIn(200);
+                } else {
+                    $('.go-top').fadeOut(200);
+                }
+            });
+
+            // Animate the scroll to top
+            $('.go-top').click(function(event) {
+                event.preventDefault();
+
+                $('html, body').animate({scrollTop: 0}, 300);
+            })
+        });
+    </script>
+
+</body>
+</html>

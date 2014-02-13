@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="foss@rit, ">
+
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
+    <link rel="stylesheet" href="/theme/pure.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://use.typekit.net/ajf8ggy.js"></script>
+    <script>
+        try { Typekit.load(); } catch (e) {}
+    </script>
+
+
+        <title>Week Recap: Halfway There, Livin' on a Prayer // foss@rit // </title>
+</head>
+
+<body>
+    <div class="pure-g-r content" id="layout">
+        <div class="pure-u" id="nav">
+            <a href="#" class="nav-menu-button">Menu</a>
+
+            <div class="nav-inner">
+                <h1>
+                    <a class="logo" href=""><img id="profileimg" src="http://foss.rit.edu/files/logo.png" alt="foss@rit"></a>
+                </h1>
+                <div class="pure-menu pure-menu-open">
+                    <ul>
+                        <span class="pure-menu-heading">foss@rit</span>
+                        <li><a href="/pages/about.html">About</a></li>
+                        <li><a href="/projects">Projects</a></li>
+                        <li><a href="/pages/research.html">Research</a></li>
+                        <li><a href="/category/events.html">Events</a></li>
+                        <li class="pure-menu-heading">Blogs</li>
+                            <li><a href="/author/blitzkev.html"><span class="cat-label-blue"></span>Blitzkev</a></li>
+                            <li><a href="/author/davesilver.html"><span class="cat-label-blue"></span>DaveSilver</a></li>
+                            <li><a href="/author/decause.html"><span class="cat-label-blue"></span>decause</a></li>
+                            <li><a href="/author/fortnight.html"><span class="cat-label-blue"></span>fortnight</a></li>
+                            <li><a href="/author/imnotlistening.html"><span class="cat-label-blue"></span>imnotlistening</a></li>
+                            <li><a href="/author/jenn.html"><span class="cat-label-blue"></span>Jenn</a></li>
+                            <li><a href="/author/jlew.html"><span class="cat-label-blue"></span>jlew</a></li>
+                            <li><a href="/author/jtmengel.html"><span class="cat-label-blue"></span>jtmengel</a></li>
+                            <li><a href="/author/kayeight.html"><span class="cat-label-blue"></span>kayeight</a></li>
+                            <li><a href="/author/qalthos.html"><span class="cat-label-blue"></span>Qalthos</a></li>
+                            <li><a href="/author/ramstush.html"><span class="cat-label-blue"></span>ramstush</a></li>
+                            <li><a href="/author/rberent.html"><span class="cat-label-blue"></span>rberent</a></li>
+                            <li><a href="/author/rgk8573.html"><span class="cat-label-blue"></span>rgk8573</a></li>
+                            <li><a href="/author/thengrad.html"><span class="cat-label-blue"></span>thengrad</a></li>
+                            <li><a href="/author/tmr9209.html"><span class="cat-label-blue"></span>tmr9209</a></li>
+                            <li><a href="/author/trose.html"><span class="cat-label-blue"></span>trose</a></li>
+                            <li><a href="/author/wacker.html"><span class="cat-label-blue"></span>wacker</a></li>
+                            <li><a href="/author/zanarama.html"><span class="cat-label-blue"></span>Zanarama</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    <div class="pure-u-3-4">
+        <div class="article-content margin-blue">
+            <div class="article-content-header pure-g">
+                <div class="pure-u-1">
+                    <h1 class="article-content-title">Week Recap: Halfway There, Livin' on a Prayer</h1>
+                    <p class="article-content-subtitle">
+                        by <a href="/author/wacker.html">wacker</a> on <span>Sun 30 June 2013</span>
+                        // Posted in <a href="/category/legacy.html">legacy</a>
+                            // under                                 <a class="post-category post-category-design" href="/tag/legacy.html">legacy</a>
+                                <a class="post-category post-category-design" href="/tag/fossrit.html">foss@rit</a>
+                    </p>
+                </div>
+            </div>
+            <div class="article-content-body">
+                <p>
+                    <p><strong>Monday: Finishing up Menu Screens</strong><br />
+-Finished navigation and functionality of the main menu screen<br />
+-Finished navigation and functionality of the difficulty screen and its effects with elements within the game<br />
+-Finished navigation and functionality of the tutorial screen, still needs info text</p>
+<p><strong>Tuesday: New Menu UI Live</strong><br />
+-Finished adding info text to each screen in the tutorial<br />
+-Implemented a basic challenge mode with an end condition. The end condition is completing one summer which is currently defined as 90 days.<br />
+-Began talk about implementing a badge display activity on the <a href="http://one.laptop.org/">XO Laptop</a> for all of the current user's badges</p>
+<p><strong>Wednesday: Dynamic and Localized Game</strong><br />
+-Met with our awesome mentor, Stephen Jacobs, and began talking about implementing a new dynamic feel to Lemonade Stand<br />
+--This dynamic feel meant loading in different images for the game such as a hamburger or ice cream stand to give the game more customization and a more dynamic feel for players<br />
+-Created <a href="https://github.com/FOSSRIT/lemonade-stand/issues/24">a ticket on GitHub</a> which I also assigned to myself and began on implementing a dynamic way of loading information for Lemonade Stand.</p>
+<p><strong>Thursday: Reputation and Locations</strong><br />
+-Began implementing reputation which a player can either gain or lose depending on how well they did on that specific day.<br />
+-Reputation influences that amount of people that show up to your stand per day which also determines how many people you can sell to.<br />
+-Reputation in itself helps balance the game by not allowing players to accumulate an absurd amount of money within the first few days<br />
+-Locations allow users to move their stand to a different area which can also influence how many customers will show up to your stand<br />
+-Locations have their own specific amount of reputation.<br />
+-Locations have their own customer cap<br />
+-Locations have their own amount of money that the player must spend to rent it for the day, but with a rent price comes significant rewards </p>
+<p><strong>Friday: Ice Cream Stand Implemented</strong><br />
+-Received images from our amazing artist <a href="http://foss.rit.edu/blog/6426">Jenn</a> which were of ingredients for creating an ice cream from our ice cream stand!<br />
+-Implemented a way to dynamically load in images and text to fit for different types of stands<br />
+-Successfully implemented Ice Cream stand and can easily switch back to Lemonade stand by changing a single attribute within the game</p>
+                </p>
+                <div class="comments">
+                    <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        var disqus_identifier = "articles/wacker/week-recap-halfway-there-livin-on-a-prayer.html";
+                        (function() {
+                            var dsq = document.createElement('script');
+                            dsq.type = 'text/javascript';
+                            dsq.async = true;
+                            dsq.src = 'http://fossritedu.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+                </div>
+ 
+            </div>
+        </div>
+    </div>
+
+        <div class="pure-u-3-4">
+            <footer class="footer">
+                <p>&copy; foss@rit &ndash;
+                    Built with <a href="https://github.com/danclaudiupop/pure">Pure Theme</a>
+                    for <a href="http://blog.getpelican.com/">Pelican</a>
+                </p>
+                <p>Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+                <a href="#" class="go-top">Go Top</a>
+            </footer>
+        </div>
+
+    <script src="http://yui.yahooapis.com/3.10.1/build/yui/yui-min.js"></script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+
+            var menuButton = Y.one('.nav-menu-button'),
+                nav        = Y.one('#nav');
+
+            // Setting the active class name expands the menu vertically on small screens.
+            menuButton.on('click', function (e) {
+                nav.toggleClass('active');
+            });
+
+            // Your application code goes here...
+
+        });
+    </script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+            // This just makes sure that the href="#" attached to the <a> elements
+            // don't scroll you back up the page.
+            Y.one('body').delegate('click', function (e) {
+                e.preventDefault();
+            }, 'a[href="#"]');
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+            // Show or hide the sticky footer button
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 200) {
+                    $('.go-top').fadeIn(200);
+                } else {
+                    $('.go-top').fadeOut(200);
+                }
+            });
+
+            // Animate the scroll to top
+            $('.go-top').click(function(event) {
+                event.preventDefault();
+
+                $('html, body').animate({scrollTop: 0}, 300);
+            })
+        });
+    </script>
+
+</body>
+</html>

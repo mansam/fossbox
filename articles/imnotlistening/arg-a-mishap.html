@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="foss@rit, ">
+
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
+    <link rel="stylesheet" href="/theme/pure.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://use.typekit.net/ajf8ggy.js"></script>
+    <script>
+        try { Typekit.load(); } catch (e) {}
+    </script>
+
+
+        <title>Arg, A Mishap... // foss@rit // </title>
+</head>
+
+<body>
+    <div class="pure-g-r content" id="layout">
+        <div class="pure-u" id="nav">
+            <a href="#" class="nav-menu-button">Menu</a>
+
+            <div class="nav-inner">
+                <h1>
+                    <a class="logo" href=""><img id="profileimg" src="http://foss.rit.edu/files/logo.png" alt="foss@rit"></a>
+                </h1>
+                <div class="pure-menu pure-menu-open">
+                    <ul>
+                        <span class="pure-menu-heading">foss@rit</span>
+                        <li><a href="/pages/about.html">About</a></li>
+                        <li><a href="/projects">Projects</a></li>
+                        <li><a href="/pages/research.html">Research</a></li>
+                        <li><a href="/category/events.html">Events</a></li>
+                        <li class="pure-menu-heading">Blogs</li>
+                            <li><a href="/author/blitzkev.html"><span class="cat-label-blue"></span>Blitzkev</a></li>
+                            <li><a href="/author/davesilver.html"><span class="cat-label-blue"></span>DaveSilver</a></li>
+                            <li><a href="/author/decause.html"><span class="cat-label-blue"></span>decause</a></li>
+                            <li><a href="/author/fortnight.html"><span class="cat-label-blue"></span>fortnight</a></li>
+                            <li><a href="/author/imnotlistening.html"><span class="cat-label-blue"></span>imnotlistening</a></li>
+                            <li><a href="/author/jenn.html"><span class="cat-label-blue"></span>Jenn</a></li>
+                            <li><a href="/author/jlew.html"><span class="cat-label-blue"></span>jlew</a></li>
+                            <li><a href="/author/jtmengel.html"><span class="cat-label-blue"></span>jtmengel</a></li>
+                            <li><a href="/author/kayeight.html"><span class="cat-label-blue"></span>kayeight</a></li>
+                            <li><a href="/author/qalthos.html"><span class="cat-label-blue"></span>Qalthos</a></li>
+                            <li><a href="/author/ramstush.html"><span class="cat-label-blue"></span>ramstush</a></li>
+                            <li><a href="/author/rberent.html"><span class="cat-label-blue"></span>rberent</a></li>
+                            <li><a href="/author/rgk8573.html"><span class="cat-label-blue"></span>rgk8573</a></li>
+                            <li><a href="/author/thengrad.html"><span class="cat-label-blue"></span>thengrad</a></li>
+                            <li><a href="/author/tmr9209.html"><span class="cat-label-blue"></span>tmr9209</a></li>
+                            <li><a href="/author/trose.html"><span class="cat-label-blue"></span>trose</a></li>
+                            <li><a href="/author/wacker.html"><span class="cat-label-blue"></span>wacker</a></li>
+                            <li><a href="/author/zanarama.html"><span class="cat-label-blue"></span>Zanarama</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    <div class="pure-u-3-4">
+        <div class="article-content margin-blue">
+            <div class="article-content-header pure-g">
+                <div class="pure-u-1">
+                    <h1 class="article-content-title">Arg, A Mishap...</h1>
+                    <p class="article-content-subtitle">
+                        by <a href="/author/imnotlistening.html">imnotlistening</a> on <span>Tue 01 May 2012</span>
+                        // Posted in <a href="/category/legacy.html">legacy</a>
+                            // under                                 <a class="post-category post-category-design" href="/tag/legacy.html">legacy</a>
+                                <a class="post-category post-category-design" href="/tag/fossrit.html">foss@rit</a>
+                    </p>
+                </div>
+            </div>
+            <div class="article-content-body">
+                <p>
+                    <p>I have been using my laptop for a while now for development on Empathy. Since
+my laptop is running Fedora 16, there is less libraries that need compiling in
+order to run the latest git empathy. But like any project dependencies are
+updated on occasion. It just so happens that the GTK+ dependency for Emapthy
+got updated fairly recently, so when I pulled the latest code, my GTK+ library
+needed recompiling. Eh, didn't seem like a big deal, compiled fine 1 minor
+version ago, so I figured it would be easy peasy to recompile the next
+version. Well, I was wrong.</p>
+<p>Like many a library, I had to recompile some other libraries to get GTK+ to
+compile. It just so happened that the glib dependency had to be recompiled
+(and, of course, the requirements are far ahead of the libraries in the Fedora
+repos, so recompile from source is really the only option). In GLib is a
+library called gobject. GObject provides a faux OO feel to C. Very
+frustrating, IMO, since it adds an absurd amount of complexity to any project,
+but oh well, just gotta deal. So recompile, recompile, recompile, GLib seems
+OK, installed to /usr/local, everything seems dandy. Go to reconfigure GTK+,
+still seems OK, go to compile... and hmm, interesting error.</p>
+<p>For some reason the compile is failing during a link for which a symbol in
+libgobject is missing. Maybe the problem is the linker flags, so 'export
+LDFLAGS=-lgobject-2.0' since /usr/local/lib is already specified in the build
+command. Still no go, same issue as before, missing symbol in gobject. Hmm,
+maybe the system libgobject is getting read first and causing the failure. If
+I put the -lgobject-2.0 before any other linker flags, maybe it will be linked
+against. So I try and put the same flag into CFLAGS. Configure isn't sthat
+stupid, (sadly), it keeps the CFLAGS separate from the link despite the fact
+that it uses gcc. Eh, oh well. Maybe copying my new gobject library into the
+system gobject library (/lib64/libgobject-2.0.so.0.3000) will fix my issue.
+Simple enough, su, then issue a copy command, then the screen goes blank.</p>
+<p>Oh. Right. Anything that uses GTK+ (99% of GUI apps in Fedora using a Gnome
+based UI) is going to be using GObject. I try and restart X, since I do still
+have access to my emulated terminals. No, go. XFCE can't start, just so
+happens the new gobject library is missing a symbol: g_get_strbytes() or
+something, I can't remember. Something that must have been deprecated and
+finally removed. Luckily I have a copy of the system gobject in /lib (no idea
+why). Try an 'export LD_LIBRARY_PATH=/lib', rerun X, and whoo, it starts, even
+brings up a UI, but it is rather flimsy. A lot of stuff still doesn't seem to
+work. Anything linking against the GTK+ libraries. Even 'su' doesn't work,
+though I have no clue how that has anything to do with GObject, and I can't
+debug it since as a 'suid' program, it won't actually run under my username,
+it runs as root. Bleh. I try to restart my system and fix the issues, but no
+go, I no longer can boot. Good game computer.</p>
+<p>One thing I could have done, but completely forgot to do, is simply log into
+one of the terminals as root, no need for 'su' in that case. Oh well, gonna
+have to try and fix the system some other way, but until then, I am gonna have
+to put this development on hold. For what it is worth, I am now working on
+setting up the DBUs interface for Empathy to receive commands from Sugar.
+Those DBUs calls are listed on the Low Level Sugar activity API page. In any
+event, I can always go back to my VM, but that's so slow. Not really something
+I want to do but if I have to, I will.</p>
+                </p>
+                <div class="comments">
+                    <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        var disqus_identifier = "articles/imnotlistening/arg-a-mishap.html";
+                        (function() {
+                            var dsq = document.createElement('script');
+                            dsq.type = 'text/javascript';
+                            dsq.async = true;
+                            dsq.src = 'http://fossritedu.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+                </div>
+ 
+            </div>
+        </div>
+    </div>
+
+        <div class="pure-u-3-4">
+            <footer class="footer">
+                <p>&copy; foss@rit &ndash;
+                    Built with <a href="https://github.com/danclaudiupop/pure">Pure Theme</a>
+                    for <a href="http://blog.getpelican.com/">Pelican</a>
+                </p>
+                <p>Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
+                <a href="#" class="go-top">Go Top</a>
+            </footer>
+        </div>
+
+    <script src="http://yui.yahooapis.com/3.10.1/build/yui/yui-min.js"></script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+
+            var menuButton = Y.one('.nav-menu-button'),
+                nav        = Y.one('#nav');
+
+            // Setting the active class name expands the menu vertically on small screens.
+            menuButton.on('click', function (e) {
+                nav.toggleClass('active');
+            });
+
+            // Your application code goes here...
+
+        });
+    </script>
+    <script>
+        YUI().use('node-base', 'node-event-delegate', function (Y) {
+            // This just makes sure that the href="#" attached to the <a> elements
+            // don't scroll you back up the page.
+            Y.one('body').delegate('click', function (e) {
+                e.preventDefault();
+            }, 'a[href="#"]');
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+            // Show or hide the sticky footer button
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 200) {
+                    $('.go-top').fadeIn(200);
+                } else {
+                    $('.go-top').fadeOut(200);
+                }
+            });
+
+            // Animate the scroll to top
+            $('.go-top').click(function(event) {
+                event.preventDefault();
+
+                $('html, body').animate({scrollTop: 0}, 300);
+            })
+        });
+    </script>
+
+</body>
+</html>
