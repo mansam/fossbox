@@ -4,6 +4,8 @@ Slug: fortnight-day-1
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-1.html
+save_as: articles/fortnight/day-1.html
 Summary: Greetings! Today was the second day of Summer at rit FOSS. I finally got to install and use Sugar, the desktop environment originially developed by Sugar labs for the XO laptops in OLPC program. I remember long ago I first heard about them from watching 60 minutes with my dad back when I was still in high school. Here's the url to the original article:  [http://www.cbsnews.com/stories/2007/05/20/60minutes/main2830058.shtml](http:/ /www.cbsnews.com/stories/2007/05/20/60minutes/main2830058.shtml)  ... 
 
 Greetings! Today was the second day of Summer at rit FOSS. I finally got to

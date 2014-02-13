@@ -4,6 +4,8 @@ Slug: Zanarama-boxing-day
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/boxing-day.html
+save_as: articles/Zanarama/boxing-day.html
 Summary: Today we celebrated this sunny Thursday by packing up the FOSSBox since we are moving into Golisano tomorrow. I haven't spent much time in there but I do like the location - its open which I feel is going to be much better than some lab. We shall see tomorrow I suppose.  Along the boxing theme we had round one of Red Hat conference calls with some designers and memebers of their branding/marketing team. It went really well. I didn't talk much but listening in gave me a better idea of what we are ... 
 
 Today we celebrated this sunny Thursday by packing up the FOSSBox since we are

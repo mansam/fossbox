@@ -4,6 +4,8 @@ Slug: decause-crafting-a-useful-message-in-140-characters-or-less
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/crafting-a-useful-message-in-140-characters-or-less.html
+save_as: articles/decause/crafting-a-useful-message-in-140-characters-or-less.html
 Summary: # Crafting a Useful Message in 140 Characters or Less    * Be Clear   * Be Direct   * Be Selective   * Be Informative   * Be Timely   * Be Consistent   * Be Tactful  # Be Clear  ## Use complete phrasing as much as possible  Most followers will forgive you for changing words like 'to' to '2' and 'your' to 'ur,' so long as the rest of message is effectively conveyed. Avoid this practice unless absolutely necessary--which in truth can be quite often. The more it is obvious that without making the ... 
 
 # Crafting a Useful Message in 140 Characters or Less

@@ -4,6 +4,8 @@ Slug: fortnight-day-23
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-23.html
+save_as: articles/fortnight/day-23.html
 Summary: # A Discovery!!!!!!!!!  So today I talked with veteran [FOSSboxer Qalthos](https://github.com/qalthos), code wizard. Though he wasn't in the FOSSbox this week until today, he's been working on school server stuff as well. Previously, while I've been making a fool of myself, he set up a school server on a virtual machine on his laptop, only to have it be unpingable. Then he set one up on some virtual space on "the boat," an intense server watched over by Computer Science House. I had often confus ... 
 
 # A Discovery!!!!!!!!!

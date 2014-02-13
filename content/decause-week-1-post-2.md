@@ -4,6 +4,8 @@ Slug: decause-week-1-post-2
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/week-1-post-2.html
+save_as: articles/decause/week-1-post-2.html
 Summary: The FOSSBox is picking up again :) I love when we have foss courses running, as it brings much more traffic through the lab. We're also in the process of bringing in another part-time hire to help with FOSS@RIT/LTL projects. We spent the afternoon going over the basics of git, and some of the projects that Robb will likely be working on this quarter.  I've also hopped on the [Tumblr](http://tumblr.com) bandwagon, and created a new blog. It is inherently social, and easy to follow others with, wh ... 
 
 The FOSSBox is picking up again :) I love when we have foss courses running,

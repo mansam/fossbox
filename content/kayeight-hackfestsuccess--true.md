@@ -4,6 +4,8 @@ Slug: kayeight-hackfestsuccess--true
 Author: kayeight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/kayeight/hackfestsuccess--true.html
+save_as: articles/kayeight/hackfestsuccess--true.html
 Summary: As you may have read, this past week the entire FOSS-box roadtripped to Boston for a hackfest at OLPC headquarters. Though we don't work on the XO laptops, CIVX was also able to tag along, and it's a good thing we did - the opportunity to work in person with Luke again was invaluable. It's awesome what can get done over the course of eight hours in a conference room with a bunch of hacker extraordinaires!  I made a lot of progress with the person dashboard widget while in Boston. The headshot sc ... 
 
 As you may have read, this past week the entire FOSS-box roadtripped to Boston

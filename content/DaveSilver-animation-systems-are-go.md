@@ -4,6 +4,8 @@ Slug: DaveSilver-animation-systems-are-go
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/DaveSilver/animation-systems-are-go.html
+save_as: articles/DaveSilver/animation-systems-are-go.html
 Summary: So last week was pretty eventful. We visited OLPC headquarters for the Hackfest and did some very cool stuff while we were there. JT and I really got to work on figuring out how the animation system would work and are now at a great point. Basically we are starting building the first iteration of the animation system this week and should have it feature complete by the end of this week or beginning of next week. We will probably still have little bugs to work out within the system at that point  ... 
 
 So last week was pretty eventful. We visited OLPC headquarters for the

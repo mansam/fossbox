@@ -4,6 +4,8 @@ Slug: jtmengel-bloging-blogs-everyday
 Author: jtmengel
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/jtmengel/bloging-blogs-everyday.html
+save_as: articles/jtmengel/bloging-blogs-everyday.html
 Summary: Design was previously thought to be complete and implementation could begin, but wait! There's more!  We had previously moved on from dirty blitting content that we fully understood the subtleties therein, full of bravado and confidence that, as you will soon learn why, quickly evaporated. As our plans were attacked by rabid weasels.  I carefully chose this metaphor to perfectly illustrate where we are, or course.  So today was spent reviewing tutorials on Sprites; sprites are, in essence, surfa ... 
 
 Design was previously thought to be complete and implementation could begin,

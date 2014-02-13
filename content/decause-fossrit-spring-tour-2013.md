@@ -4,6 +4,8 @@ Slug: decause-fossrit-spring-tour-2013
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/fossrit-spring-tour-2013.html
+save_as: articles/decause/fossrit-spring-tour-2013.html
 Summary: It feels like it just started, but the HFOSS Spring course is already past half-done! Perhaps the 13 day excursion to Silicon Valley and Harvard had something to do with that...  # Part 1: PyCon 2013: Santa Clara, CA  [FOSS@RIT](http://foss.rit.edu) took four students out to [PyCon 2013](http://us.pycon.org). There were two main components to our Lab's involvment at PyCon; the Education Summit, and the [Poster Session](https://us.pycon.org/2013/schedule/posters/list/).  Details about the PyCon  ... 
 
 It feels like it just started, but the HFOSS Spring course is already past

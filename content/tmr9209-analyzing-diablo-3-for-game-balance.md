@@ -4,6 +4,8 @@ Slug: tmr9209-analyzing-diablo-3-for-game-balance
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/tmr9209/analyzing-diablo-3-for-game-balance.html
+save_as: articles/tmr9209/analyzing-diablo-3-for-game-balance.html
 Summary: This game can be broken up into four acts. The first act is a little easier, possibly to get players into the game. Most of the monsters do not have specials and are weaker to make up for the players lacking special abilities. However, once the player gets to the second stage the monsters pick up in their difficulty and gain several abilities which prove a challenge for certain character types. For example, I had a hard time with wasps which do a lot of long range damage that is hard to avoid. W ... 
 
 This game can be broken up into four acts. The first act is a little easier,

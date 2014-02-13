@@ -4,6 +4,8 @@ Slug: tmr9209-week-9-day-4
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/tmr9209/week-9-day-4.html
+save_as: articles/tmr9209/week-9-day-4.html
 Summary: Today was finishing up a lot of odds and ends. We started off by completing the Symposium script and powerpoint. With this completed we will be in a pretty good position, since the Boston trip is next weekend. Next week all we will need to do is polish the presentation with practice and edits.  We also finished preparations for the play test which will take place tonight. The play test has been polished, the papers have been printed out, and the materials have been gathered. Finally, we accompli ... 
 
 Today was finishing up a lot of odds and ends. We started off by completing

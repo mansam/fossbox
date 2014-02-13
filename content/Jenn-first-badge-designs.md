@@ -4,6 +4,8 @@ Slug: Jenn-first-badge-designs
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Jenn/first-badge-designs.html
+save_as: articles/Jenn/first-badge-designs.html
 Summary: Hi guys,  So I have been iterating on so different badge designs. (Using the Wikimedia commons for references :) )  AttachmentSize  [foss badges.pdf](http://foss.rit.edu/files/foss badges.pdf)  1.27 MB  [fedora badge designs.pdf](http://foss.rit.edu/files/fedora badge designs.pdf)  4.52 MB   ... 
 
 Hi guys,

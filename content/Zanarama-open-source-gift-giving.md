@@ -4,6 +4,8 @@ Slug: Zanarama-open-source-gift-giving
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/open-source-gift-giving.html
+save_as: articles/Zanarama/open-source-gift-giving.html
 Summary: As I have been browsing various websites to find some cool gifts to give people, I came across a couple of really cool open source gifts.  **[The Whistled](https://www.tindie.com/products/limpkin/the-whistled-control-your-lights-by-whistling/?pt=directsearch)** is a device that allows you to control a set of LED lights by whistling two notes. It also is a great example of an Open Hardware project!  **[Skill Badges](http://www.adafruit.com/category/70)** are a really cool way to highlight skills  ... 
 
 As I have been browsing various websites to find some cool gifts to give

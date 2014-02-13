@@ -4,6 +4,8 @@ Slug: tmr9209-red-hat-symposium-trip-overview
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/tmr9209/red-hat-symposium-trip-overview.html
+save_as: articles/tmr9209/red-hat-symposium-trip-overview.html
 Summary: The trip this weekend was totally a blast. It was really cool to go and present in Boston at Red Hat headquarters. The presentation went very well there, in which the team came together in the last couple of minutes to telecast after having network difficulties. This and our preparation from the week before allowed us to nail the presentation to the Symposium back at RIT. We were also able to present to Red Hat directly and hear a little bit about what they do. This was pretty cool since I got t ... 
 
 The trip this weekend was totally a blast. It was really cool to go and

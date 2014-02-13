@@ -4,6 +4,8 @@ Slug: thengrad-week-4-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/thengrad/week-4-weekly-wrapup.html
+save_as: articles/thengrad/week-4-weekly-wrapup.html
 Summary: It is now the end of the fourth week of this summer research program. This was a week full of interesting events. This was the first week with the full summer crew present all week. There was a power outage on Monday that made only some of us loose power, disrupting work for a few hours. Then on Wednesday, the boat went down causing trouble with the meeting logs and many of us from writing the blog posts on time.  As for what I did this week, I found that because there was a lot of overlap on th ... 
 
 It is now the end of the fourth week of this summer research program. This was

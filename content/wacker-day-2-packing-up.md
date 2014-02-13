@@ -4,6 +4,8 @@ Slug: wacker-day-2-packing-up
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/wacker/day-2-packing-up.html
+save_as: articles/wacker/day-2-packing-up.html
 Summary: Sadly today we packed up the FOSSbox :( We are preparing to move to a different location for the remainder of the summer as the Innovation Center will be renovated for new work space and the FOSSbox 3.0.  Most of the day was packing up computer components, posters, and a whole lot of books. My task was organizing books with my buddy Ryan and packing and labeling boxes accordingly.  Since it was Thursday, it was also Buffalo Wild Wings Day! For those who don't know what this is, it is a special t ... 
 
 Sadly today we packed up the FOSSbox :( We are preparing to move to a

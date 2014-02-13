@@ -4,6 +4,8 @@ Slug: ramstush-first-handhold-on-the-ivory-tower
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/first-handhold-on-the-ivory-tower.html
+save_as: articles/ramstush/first-handhold-on-the-ivory-tower.html
 Summary: Hey Everyone,  I'm finally back after quite some time (a couple months or so). Upcoming for my blog will be posts concerning a New Media Team Project (ditto to a Educational Capstone) and a variety of different Raspberry Pi projects pumping out of the Advanced FOSS course. All in all, there's going to be some sweet hacks getting built and produced. I'll make sure to get some team support in putting these on Github for the internets. Until then, I'll keep updating this blog as the new knowledge f ... 
 
 Hey Everyone,

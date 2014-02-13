@@ -4,6 +4,8 @@ Slug: decause-hfoss-course-being-offered-in-spring-quarter
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/hfoss-course-being-offered-in-spring-quarter.html
+save_as: articles/decause/hfoss-course-being-offered-in-spring-quarter.html
 Summary: IGM will again be running the course "Humanitarian Free and Open Source Software Development" this Spring. It'll be taught this year by established Hacker Justin Sherrill ([http://www.shiningsilence.com/dbsdlog/author/admin](h ttp://www.shiningsilence.com/dbsdlog/author/admin)). This course provides the novices an opportunity to get started in Open Source, and the pros the flexibility to get deeper into the field. The course has an emphasis on, but is not restricted to, the creation of Free/Open ... 
 
 IGM will again be running the course "Humanitarian Free and Open Source

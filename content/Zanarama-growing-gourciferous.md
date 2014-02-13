@@ -4,6 +4,8 @@ Slug: Zanarama-growing-gourciferous
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/growing-gourciferous.html
+save_as: articles/Zanarama/growing-gourciferous.html
 Summary: This week I have been working on [Gourciferous](https://github.com/FOSSRIT/gourciferous), which will become the our GUI of the combination of RIT FOSS Multi-Gource and, of course, [Gource](https://github.com/acaudwell/Gource) itself. Gourciferous will be written entirely in Python and the GUI will be built using Glade. The goal will be to create the most simple way to run Gource and combine GIT logs.  Another feature that Gourciferous is going to bring to the table are Templates that will act as ... 
 
 This week I have been working on

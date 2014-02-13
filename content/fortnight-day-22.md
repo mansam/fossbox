@@ -4,6 +4,8 @@ Slug: fortnight-day-22
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-22.html
+save_as: articles/fortnight/day-22.html
 Summary: # Productively Lost part Deux  Today I messed around with the [XSCE](http://wiki.laptop.org/go/User:Holt/XS_Community_Edition) a bit more. I had been taking notes on different functions for a while now, but after understanding the main functions I realized the answers I were looking for weren't in there. I was only seeing how it was supposed to work, and being sad when it didn't. Unfortunately I had bit off more than I could chew with this task. Perhaps the reason I agreed to solve the school se ... 
 
 # Productively Lost part Deux

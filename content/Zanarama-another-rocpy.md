@@ -4,6 +4,8 @@ Slug: Zanarama-another-rocpy
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/another-rocpy.html
+save_as: articles/Zanarama/another-rocpy.html
 Summary: The [RocPy](http://www.meetup.com/Rochester-Python-Meetup/) meetup for October mostly consisted of lightning talks from students in the HFOSS course with our project ideas. It was a little boring in terms of presentation, mostly because they are only ideas at this point; nothing has been implemented.  My group gave our talk on the WeatherStation activity we hope to make. Our presentation can be found [here](https://docs.google.com/presentation/d/1mwnIw M74QtqYa4DF40oX9ZszIJwdEbochZqCFhcYX5M/edit ... 
 
 The [RocPy](http://www.meetup.com/Rochester-Python-Meetup/) meetup for October

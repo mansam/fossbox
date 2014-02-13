@@ -4,6 +4,8 @@ Slug: Qalthos-hello-world
 Author: Qalthos
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Qalthos/hello-world.html
+save_as: articles/Qalthos/hello-world.html
 Summary: This is my first posting despite having been here for a week, because the zaniness that was my first week did not allow for such silly things as intorductions. Now I finally have some of the infrastructure things worked out, and can report on my findings.  Work has been progressing on a scraper for [shapefiles](http://en.wikipedia.org/wiki/Shapefile) for the Senate. I've been fairly successful in getting a large amount of data, (up to 7.6 GB of zip files!) so my task today was to clean up the sc ... 
 
 This is my first posting despite having been here for a week, because the

@@ -4,6 +4,8 @@ Slug: ramstush-struck-gold
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/struck-gold.html
+save_as: articles/ramstush/struck-gold.html
 Summary: BEGINNING OF A NEW DAY!  This day was actually Thursday because it was when we had boneless buffalo wings from BWW's . So to correct my timeline, last Wednesday was the rough researching day.  Today we started off the day by getting briefed in to how [VIM](http://en.wikipedia.org/wiki/Vim_(text_editor)) worked. It was a little much to take in, as we have to learn all of he different key commands that VIM can use.  Continuing from our productively lost Wednesday, I hopped into the chat rooms that ... 
 
 BEGINNING OF A NEW DAY!

@@ -4,6 +4,8 @@ Slug: fortnight-day-21
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-21.html
+save_as: articles/fortnight/day-21.html
 Summary: # Ahead of and behind myself  Today was an interesting day. [FOSSmaster Decause](https://github.com/decause) was out of the FOSSbox all day, carrying out business in Syracuse. For this first half of the day, the ranking member of the office was [Oddshocks](https://github.com/oddshocks), a bit of wild man, never hesitant to speak his mind. However, later in the day [Threebean](https://github.com/Ralphbean) came by and gave us all a [presentation on GitFlow](http://threebean.org/presentations/gitf ... 
 
 # Ahead of and behind myself

@@ -4,6 +4,8 @@ Slug: DaveSilver-it-may-still-be-the-third-day-but
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/DaveSilver/it-may-still-be-the-third-day-but.html
+save_as: articles/DaveSilver/it-may-still-be-the-third-day-but.html
 Summary: So it is still the third day but I thought the blog deserved an update for what's going on right now. Basically JT and I have run into a problem with our testing. Our original plan for testing was to have an image on the screen that was moving across the screen in a specific pattern and was constantly cycling between a set of images. Then once the test program was up and running we would then use the terminal program, 'htop' to record the CPU cycles and memory use. The goal here was to determine ... 
 
 So it is still the third day but I thought the blog deserved an update for

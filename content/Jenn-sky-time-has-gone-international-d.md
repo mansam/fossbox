@@ -4,6 +4,8 @@ Slug: Jenn-sky-time-has-gone-international-d
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Jenn/sky-time-has-gone-international-d.html
+save_as: articles/Jenn/sky-time-has-gone-international-d.html
 Summary: Good stuff is happening!  Thanks to the wonderful David Wilson, Sky Time is now translated into 4 different languages: English, Spanish, French, and Portuguese. I made a new language screen for Sky Time, and I am revising some screens for Lemonade Stand.  I had the very important duty of picking up our huge Buffalo Wild Wings order with Suzanne, which may have included a stop to 7-11 for a free icee. :D  Travel plans were made for me to go to DC. Visiting the White House will be a pretty intense ... 
 
 Good stuff is happening!

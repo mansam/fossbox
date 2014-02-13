@@ -4,6 +4,8 @@ Slug: rgk8573-introbeginnings-of-history
 Author: rgk8573
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/rgk8573/introbeginnings-of-history.html
+save_as: articles/rgk8573/introbeginnings-of-history.html
 Summary: Hello All,  As a new member of FOSS @ RIT, I would like to introduce myself as well as describe the current research I have been tasked with. My name is Robb Krasnow and I am a graduate student here at RIT studying my Master's of Science in Information Technology. My two (and potentially three) concentrations are Web design and development, system administration, and computer networking. I love technology and have just started using Open Source software on my laptop (don't worry, I will graduate ... 
 
 Hello All,

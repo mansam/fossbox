@@ -4,6 +4,8 @@ Slug: rgk8573-microsoft-just-press-play-update
 Author: rgk8573
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/rgk8573/microsoft-just-press-play-update.html
+save_as: articles/rgk8573/microsoft-just-press-play-update.html
 Summary: Hello all. Below I have included a list of links based on my research on how to accomplish this goal. Up until this point, I have started uploading and installing Drupal and Wordpress on my own domain, and the HTML5 Boilerplate on my people.rit.edu server account. I will supply these links once the default sites are up. Based on the resources below, I am going to test out the Disqus plugin for Drupal and the Roots theme for Wordpress first.  ***** More resources may be added as testing unfolds * ... 
 
 Hello all. Below I have included a list of links based on my research on how

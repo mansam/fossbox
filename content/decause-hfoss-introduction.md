@@ -4,6 +4,8 @@ Slug: decause-hfoss-introduction
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/hfoss-introduction.html
+save_as: articles/decause/hfoss-introduction.html
 Summary: Hi There!  My name is Remy, and my handle is decause in most places. This is my first time taking HFOSS for credit, but not my first time being involved in the course. This is my last *official* course that I need to take to complete my graduate studies here at RIT, and I couldn't think of a class I'd want to end on more than this one :)  There are any number of Sugar Activities that I could choose as my favorite, but I'm going to go with some some that I've had the privilege of helping out thro ... 
 
 Hi There!

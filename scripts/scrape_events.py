@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Scrape the blogs from the old CSH-hosted foss.rit.edu.
+Scrape the events from the old CSH-hosted foss.rit.edu.
 
 """
 

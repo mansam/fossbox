@@ -4,6 +4,8 @@ Slug: Qalthos-diving-deep
 Author: Qalthos
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Qalthos/diving-deep.html
+save_as: articles/Qalthos/diving-deep.html
 Summary: Yesterday had been spent working on a proper dev branch to CIVX. Today we gave it a home.  Today started off trying to get the current dev CIVX running on our server. Now, I had some experience setting up a CIVX instance from getting one running on my box, but my box is mine and I know what's on it. This server is not, so we had a few troubles along the way. Once again the instructions proved insufficient (though not actually bad per se). The server was running Python 2.4 by default, and one of  ... 
 
 Yesterday had been spent working on a proper dev branch to CIVX. Today we gave

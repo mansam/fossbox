@@ -4,6 +4,8 @@ Slug: fortnight-day-75
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-75.html
+save_as: articles/fortnight/day-75.html
 Summary: ##  Threebean and Fornight in the caves of Sugar  Maybe it was because I had just read [this article](http://seriouslyforreal.com/seriously-for-real/heracleion-photos- lost-egyptian-city-revealed-after-1200-years-under-sea/), but I felt like I was doing Archaeology. It turns out that although the Sugar desktop environment download was all in the package I downloaded, it was in a several different folders haphazardly mixed with all other python programs installed on my "box." Veteran Python coder ... 
 
 ##  Threebean and Fornight in the caves of Sugar

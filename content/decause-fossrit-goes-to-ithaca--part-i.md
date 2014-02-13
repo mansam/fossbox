@@ -4,6 +4,8 @@ Slug: decause-fossrit-goes-to-ithaca--part-i
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/fossrit-goes-to-ithaca--part-i.html
+save_as: articles/decause/fossrit-goes-to-ithaca--part-i.html
 Summary: Though Seneca county is only 2.5 hours away from Rochester, FOSS@RIT had yet to interact with our neighbors to the southeast, that is until last week. Through [Charles Profitt](), [I](http://twitter.com/#!/remy_d) was invited along to attend [Ithaca's Education Technology Day](http://ithaca.edu/edtechday) or EdTechDay for short. EdTechDay is a gathering of education and technology professionals to meet, discuss, and share stories and showcase best practices, hardware, and new tools. Of the talks ... 
 
 Though Seneca county is only 2.5 hours away from Rochester, FOSS@RIT had yet

@@ -4,6 +4,8 @@ Slug: ramstush-overdue-catch-up
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/overdue-catch-up.html
+save_as: articles/ramstush/overdue-catch-up.html
 Summary: Hey world it's been a while!!  I took a bit of time to get used to the new semester system that RIT is using instead of our dearly loved quarterly system. In the mean time I've had some thing happening and continue to happen that I believe I should blog about to get some stability back into my work life.  Past things that have been going on:  Summer COOP was glorious! I can't believe the amount of awesome individuals that I've met and am continuing to meet through the Fossbox and it's many faith ... 
 
 Hey world it's been a while!!

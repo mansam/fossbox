@@ -4,6 +4,8 @@ Slug: fortnight-day-12
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-12.html
+save_as: articles/fortnight/day-12.html
 Summary: # Assignment and Ouya  Today we wrapped up assigning issues for phase one to one another, as well as decide our team roles. For the first trimester, I got assigned the issue about connecting to [school servers](http://wiki.laptop.org/go/User:Holt/XS_Community_Edition/0.3) and looking into creating an [Mozilla Open Badge](https://wiki.mozilla.org/Badges) allotment system.  Near the end of the day, I got to playtest the [Ouya Android Gaming System](http://www.ouya.tv/).  I got some valuable gamete ... 
 
 # Assignment and Ouya

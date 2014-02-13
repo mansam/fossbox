@@ -4,6 +4,8 @@ Slug: Jenn-foss-music-player
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Jenn/foss-music-player.html
+save_as: articles/Jenn/foss-music-player.html
 Summary: I was at my friend’s birthday party this past weekend. I was watching the fire pit to the sounds of bouncing Ping-Pong balls and sloshing beverages when, wouldn't yah know it, I got sucked into a conversation about Free and Open Source Software.  At this point I am decently comfortable with FOSS things. I know how stuff gets done, I understand the mentality and culture behind it, I have been working at FOSS@RIT a while now. I don’t necessarily participate in it all, but I like its academia, its  ... 
 
 I was at my friend’s birthday party this past weekend. I was watching the fire

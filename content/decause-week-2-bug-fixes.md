@@ -4,6 +4,8 @@ Slug: decause-week-2-bug-fixes
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/week-2-bug-fixes.html
+save_as: articles/decause/week-2-bug-fixes.html
 Summary: So, after spending some time pouring over some of the high-profile python projects on [GitHub](http://github.com), I found a handful of populars and forked to look for bugs. It was successful!  I have 3 open pull requests in [Bottle.py](https://github.com/defnull/bottle), [twython](https://github.com/ryanmcgrath/twython), and [foursquare- python](https://github.com/wiseman/foursquare-python). Bottle.py is a dead- simple micro-framework for python web applications, and one I've played with before ... 
 
 So, after spending some time pouring over some of the high-profile python

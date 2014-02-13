@@ -4,6 +4,8 @@ Slug: wacker-lets-do-some-translations
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/wacker/lets-do-some-translations.html
+save_as: articles/wacker/lets-do-some-translations.html
 Summary: For the past week I have been hacking on [Lemonade Stand](http://wiki.sugarlabs.org/go/Lemonade_Stand) changing all of our hard coded text into dynamic text for loading in different dynamic sets of stands. While doing this, I have changed all the text to [gettext](http://www.gnu.org/software/gettext/) to be able to translate the game into Spanish as well as other languages. Currently, we have a [Spanish version](https://github.com/FOSSRIT/lemonade-stand/tree/feature/spanish) of Lemonade Stand wo ... 
 
 For the past week I have been hacking on [Lemonade

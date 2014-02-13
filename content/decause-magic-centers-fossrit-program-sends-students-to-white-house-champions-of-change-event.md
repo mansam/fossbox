@@ -4,6 +4,8 @@ Slug: decause-magic-centers-fossrit-program-sends-students-to-white-house-champi
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/magic-centers-fossrit-program-sends-students-to-white-house-champions-of-change-event.html
+save_as: articles/decause/magic-centers-fossrit-program-sends-students-to-white-house-champions-of-change-event.html
 Summary: The RIT Center for Media, Arts, Games, Interaction & Creativity (MAGIC) is pleased to announce that a student-led project entitled “Sky Time” has been selected for inclusion in the White House Champions of Change event on July 23rd in Washington, D.C. SkyTime is an educational game for the [Sugar Desktop Environment](http://sugarlabs.org) running on the XO laptop of the [One Laptop Per Child (OLPC)](http://laptop.org) initiative. The event celebrates the best projects to emerge from the nationwi ... 
 
 The RIT Center for Media, Arts, Games, Interaction & Creativity (MAGIC) is

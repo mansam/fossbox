@@ -4,6 +4,8 @@ Slug: wacker-sash-screenshots-for-mozilla-open-badges-call
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/wacker/sash-screenshots-for-mozilla-open-badges-call.html
+save_as: articles/wacker/sash-screenshots-for-mozilla-open-badges-call.html
 Summary: Here are a few images that show the basic functionality of Sash.  AttachmentSize  [01.png](http://foss.rit.edu/files/01.png)  250.38 KB  [02.png](http://foss.rit.edu/files/02.png)  115.31 KB  [03.png](http://foss.rit.edu/files/03.png)  214.35 KB  [04.png](http://foss.rit.edu/files/04.png)  205.95 KB   ... 
 
 Here are a few images that show the basic functionality of Sash.

@@ -4,6 +4,8 @@ Slug: thengrad-day-31
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/thengrad/day-31.html
+save_as: articles/thengrad/day-31.html
 Summary: After not paying attention and eating food that went bad last night I wasn't feeling all that well today. I tried to remain as productive as possible even with the nausea. I was looking for the elusive problem that was cause the game to only sell basic lemonade even though I switched the recipe. It took me a while to notice that the way the properties referenced the class variables were not updating properly so that even thought the one property was changing the value the other property wasn't p ... 
 
 After not paying attention and eating food that went bad last night I wasn't

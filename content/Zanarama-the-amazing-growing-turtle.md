@@ -4,6 +4,8 @@ Slug: Zanarama-the-amazing-growing-turtle
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/the-amazing-growing-turtle.html
+save_as: articles/Zanarama/the-amazing-growing-turtle.html
 Summary: [Amazing Turtle](https://github.com/Zanarama/AmazingTurtle) has really been growing as a project thanks to the amazing [Tim Duffy](https://github.com/thequbit). Amazing Turtle has expanded from just a small set of lessons for students to learn Python using Turtle to a full website that with a simulated Python environment with limited functionality. Eventually the site will allow logins so that students can complete lessons, share their work, and most importantly learn some coding! Organizations  ... 
 
 [Amazing Turtle](https://github.com/Zanarama/AmazingTurtle) has really been

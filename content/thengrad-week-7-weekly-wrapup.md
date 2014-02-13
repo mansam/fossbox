@@ -4,6 +4,8 @@ Slug: thengrad-week-7-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/thengrad/week-7-weekly-wrapup.html
+save_as: articles/thengrad/week-7-weekly-wrapup.html
 Summary: It is now the end of the seventh week of this summer research program. I can’t believe that seven weeks have gone by since this research project began for the summer. This was a very interesting week. We found out that [SkyTime](http://www.playskytime.com), a pet project that I started with a small group of people for a Humanitarian Free and Open Source Software class, will be going to Washington D.C. as part of the National Day of Civic Hacking projects. During the week I helped the person who  ... 
 
 It is now the end of the seventh week of this summer research program. I can’t

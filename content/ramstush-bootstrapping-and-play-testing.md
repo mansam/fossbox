@@ -4,6 +4,8 @@ Slug: ramstush-bootstrapping-and-play-testing
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/bootstrapping-and-play-testing.html
+save_as: articles/ramstush/bootstrapping-and-play-testing.html
 Summary: DAY 2 of the summer Co-Op. yesterday I finally installed Fedora on my Mac using the tutorial found here: [Fedora install on Macbook Pro](http://anee.me /installing-fedora-on-mac-book-pro/)  After getting all o' this settled down and having a mid morning pep talk from my mentors, we got to work finishing up installing some odds and ends on everyone's new fedora boxes to make life a little easier.  We then proceeded to install sugar, and our respective projects onto our machines, we started play t ... 
 
 DAY 2 of the summer Co-Op. yesterday I finally installed Fedora on my Mac

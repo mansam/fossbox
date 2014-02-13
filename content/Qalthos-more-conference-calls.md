@@ -4,6 +4,8 @@ Slug: Qalthos-more-conference-calls
 Author: Qalthos
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Qalthos/more-conference-calls.html
+save_as: articles/Qalthos/more-conference-calls.html
 Summary: Every time I go through one of these calls I feel like I come out knowing less about the topic discussed. The topics aren't hard, and I can now follow along and understand most of what they're talking about, but most of the technologies are things I haven't really looked at before. It's interesting, and it's exciting, but it's a little wearying too. The majority of the talks seem to revolve around the use of Amazon EC2 instances, of which I know nothing.  On my own tasks, the semifinal versions  ... 
 
 Every time I go through one of these calls I feel like I come out knowing less

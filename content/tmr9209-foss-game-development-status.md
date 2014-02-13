@@ -4,6 +4,8 @@ Slug: tmr9209-foss-game-development-status
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/tmr9209/foss-game-development-status.html
+save_as: articles/tmr9209/foss-game-development-status.html
 Summary: The goal of this project has been to research and plan a game which promotes and rewards FOSS (Free and Open Source Software) development. However, this goal is no easy task since game design alone provides intense challenges to provide a fun and balanced experience. Adding on FOSS development stats makes game design much harder, adding imbalance and other issues. On top of all of this, we have been going in alone, researching this new topic that has not been looked into before.  To accomplish s ... 
 
 The goal of this project has been to research and plan a game which promotes

@@ -4,6 +4,8 @@ Slug: Qalthos-introducing-geopirate
 Author: Qalthos
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Qalthos/introducing-geopirate.html
+save_as: articles/Qalthos/introducing-geopirate.html
 Summary: So I've recieved my apparently mandated CIVX nickname, despite it possibly being inaccurate in a week or two. I, along with Pixel Ninja and Python Princess, have been hacking away at our various tasks together for over a week now, and despite the seemingly constant moving from place to place, it's a pretty sweet gig.  My work yesterday was some final polishing of the getall script, and my first real push to the geowebdns repository. I'm also workign on a supplemental, informational guide to main ... 
 
 So I've recieved my apparently mandated CIVX nickname, despite it possibly

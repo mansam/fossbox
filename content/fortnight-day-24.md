@@ -4,6 +4,8 @@ Slug: fortnight-day-24
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-24.html
+save_as: articles/fortnight/day-24.html
 Summary: # Another Work From Home Friday!  So today I set out to install the 0.7 edition of school server on the XO laptop that I've been messing around on. I followed [these instructions](http://wiki.laptop.org/go/XS_Installing_Software). To install it on an XO though, I would need to [Install it from USB.](http://wiki.laptop.org /go/XS_Techniques_and_Configuration#Installing_from_USB) I had some trouble setting up the boot usb: The script kept saying that I needed to unmount the drive after checking to ... 
 
 # Another Work From Home Friday!

@@ -4,6 +4,8 @@ Slug: thengrad-day-29
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/thengrad/day-29.html
+save_as: articles/thengrad/day-29.html
 Summary: I figured out what huge source of the errors I was getting thrown at me when I added the strawberry's were from. They way the recipes were being displayed hinged on every ingredient appearing in every recipe. I found this to be a bit of an problem for allowing Lemonade Stand to be flexible. So I created a feature branch where I changed it so that if it doesn't find an ingredient in the recipe dictionary it will just add it with an amount 0. This way there can be a bunch of ingredients and recipe ... 
 
 I figured out what huge source of the errors I was getting thrown at me when I

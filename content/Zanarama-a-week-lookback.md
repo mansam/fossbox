@@ -4,6 +4,8 @@ Slug: Zanarama-a-week-lookback
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/a-week-lookback.html
+save_as: articles/Zanarama/a-week-lookback.html
 Summary: This week has been pretty crazy between [lmaken](https://github.com/lmacken) being here for some hacking, a shorten week due to the 4th of July, and lots of traveling.  I have made some paper mock-ups for [Gourciferous](https://github.com/FOSSRIT/gourciferous) and will begin creating some prototypes in Glade (fingers crossed nothing crashes). I may try to attach photos of the mock-ups soon, but I don't currently have a way to do that. The only real struggle with the GUI mock-ups is where to sort ... 
 
 This week has been pretty crazy between [lmaken](https://github.com/lmacken)

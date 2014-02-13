@@ -4,6 +4,8 @@ Slug: Zanarama-navigating-glade
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/navigating-glade.html
+save_as: articles/Zanarama/navigating-glade.html
 Summary: A large goal of the Gourciferous project is to create a GUI that will make processing GIT logs and rendering Gource videos a lot easier. For the past few days I have been working on creating some mock-ups for the GUI in Glade. The benefit of using Glade is that the mock-up can easily become a functional GUI by adding a Python program to create functionality. However, using Glade hasn't been a picnic.  Originally the software seemed incredibly intuitive. The buttons are simple, and it truly on ta ... 
 
 A large goal of the Gourciferous project is to create a GUI that will make

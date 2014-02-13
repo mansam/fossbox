@@ -4,6 +4,8 @@ Slug: tmr9209-week-3-day-3
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/tmr9209/week-3-day-3.html
+save_as: articles/tmr9209/week-3-day-3.html
 Summary: Today we started off by review Git and Github. I reviewed what I had learned from week 1 and made sure that I understood it all. After doing this the group took the game technologies with the highest ratings from yesterday. Using these games we created a Community Architecture thoughts document to go into more detail about each of them. We looked at each repository for activity, looked deeper into what each technology was about, and looked into the history/contributions that was behind each tech ... 
 
 Today we started off by review Git and Github. I reviewed what I had learned

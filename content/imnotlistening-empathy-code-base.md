@@ -4,6 +4,8 @@ Slug: imnotlistening-empathy-code-base
 Author: imnotlistening
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/imnotlistening/empathy-code-base.html
+save_as: articles/imnotlistening/empathy-code-base.html
 Summary: So, now that I have been hacking away, here is what I am working on.  The first aspect of setting up a Sugar App is parsing some command line arguments. The arguments help configure the app so that the Sugar Framework can properly interface between the App and the X server. Or something like that. These arguments are:  `  -b, --bundle-id   Identifier of the activity bundle. Must be made available as window property.  -a, --activity-id   Unique identifier of the activity instance. Must be made av ... 
 
 So, now that I have been hacking away, here is what I am working on.

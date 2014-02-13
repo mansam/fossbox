@@ -4,6 +4,8 @@ Slug: fortnight-day-11
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-11.html
+save_as: articles/fortnight/day-11.html
 Summary: # Marking Milestones  Today I cracked down on our project, and marked out all our milestones on [Github](https://github.com/)  Well, actually I first had to learn how. With some experimentation I planned out my project just as I had had to do in the Software Engineering class I took a year ago. To view our issues and milestones [click here!](https://github.com/fossrit/lemonade- stand/issues?direction=desc&sort=created&state=open) A while back I mentioned when we went through and assigned topics  ... 
 
 # Marking Milestones

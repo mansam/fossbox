@@ -4,6 +4,8 @@ Slug: wacker-day-9-lemonade-day
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/wacker/day-9-lemonade-day.html
+save_as: articles/wacker/day-9-lemonade-day.html
 Summary: The day I had been waiting for, [Lemonade Day!](http://lemonadeday.org/) The team and myself travelled to Henry Hudson Elementary School in Rochester. There we set up a table for us to display the four XOs that we had, two of which we playing [Lemonade Stand](http://wiki.sugarlabs.org/go/Lemonade_Stand) and the other two [Sky Time](http://www.playskytime.com/).  The day was a great success! We were able to go around and see other Lemonade tables around the school and try some of their delicious  ... 
 
 The day I had been waiting for, [Lemonade Day!](http://lemonadeday.org/) The

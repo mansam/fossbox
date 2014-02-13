@@ -4,6 +4,8 @@ Slug: ramstush-rocpy-and-the-relentless-persuit
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/rocpy-and-the-relentless-persuit.html
+save_as: articles/ramstush/rocpy-and-the-relentless-persuit.html
 Summary: Tuesday was an immensely more productive day than the preceding Monday. Without power outages, we were able to get down to work quickly, and stay focused.  After catching up with my blogs, I began a new search into the Journal of OLPC by pining the #sugar irc room. A fantastic fellow with the irc handle of "dnarvaes" pointed me towards the sugar GIThub repository of the journal which you can find Here. The relevant modules of the sugar repositories are sugar, sugar-toolkit-gtk3, and sugar-datast ... 
 
 Tuesday was an immensely more productive day than the preceding Monday.

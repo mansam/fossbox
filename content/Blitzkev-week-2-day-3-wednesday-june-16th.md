@@ -4,6 +4,8 @@ Slug: Blitzkev-week-2-day-3-wednesday-june-16th
 Author: Blitzkev
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Blitzkev/week-2-day-3-wednesday-june-16th.html
+save_as: articles/Blitzkev/week-2-day-3-wednesday-june-16th.html
 Summary: Yesterday I developed the new battleengine further, and fixed a bug on trac pertaining to clearing text. The ticket can be found here [https://fedorahoste d.org/fortune_hunter/ticket/21](https://fedorahosted.org/fortune_hunter/ticket /21) and the git commit is here [http://git.fedorahosted.org/git/?p=fortune_hu nter.git;a=commit;h=f5bf0bb...](http://git.fedorahosted.org/git/?p=fortune_hun ter.git;a=commit;h=f5bf0bbf775fe7c77e77322988d4830dad14e087) . Today I've been looking at what needs to be d ... 
 
 Yesterday I developed the new battleengine further, and fixed a bug on trac

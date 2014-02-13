@@ -4,6 +4,8 @@ Slug: ramstush-tickets-and-ouya
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/tickets-and-ouya.html
+save_as: articles/ramstush/tickets-and-ouya.html
 Summary: Today had a bunch of unexpected happenings. We began the day working on our own this time because our mentor was busy with meetings and the such, so we set up our own [EtherPad](http://etherpad.org/), which is essentially what we do every morning with various different online text editors. This gives the teams a place to jot down their roles for the day and allow us that amazing feeling of literally crossing a task off of your list of todo's. We then took a specific ticket that needed a little m ... 
 
 Today had a bunch of unexpected happenings. We began the day working on our

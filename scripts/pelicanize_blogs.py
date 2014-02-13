@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
 import json
 import sys
 import string
@@ -25,6 +27,10 @@ def create_pelican_file(blog):
 	output += "Author: " + author + "\n"
 	output += "Tags: legacy, foss@rit\n"
 	output += "Category: legacy\n"
+	# URL: projects/civx
+	# save_as: projects/civx/index.html
+	output += "URL: articles/" + author + "/" + slug + ".html\n"
+	output += "save_as: articles/" + author + "/" + slug + ".html\n"
 	output += "Summary: " + content[:500].replace('\n#','\n').replace('\n', ' ') + " ... " + "\n"
 	output += "\n"
 	output += content

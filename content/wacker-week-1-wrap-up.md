@@ -4,6 +4,8 @@ Slug: wacker-week-1-wrap-up
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/wacker/week-1-wrap-up.html
+save_as: articles/wacker/week-1-wrap-up.html
 Summary: The first week working with the FOSSbox was already quite the experience. I have learned numerous things for a smart bunch of individuals and it is was only week 1!  I have learned how to work with the Linux OS and set that up on my laptop (see you later Windows) and I have already fallen in love with it! I set up my very own [GitHub](https://github.com/wackerFOSS) account where I will be posting all my work that I have done this summer as well in the future.  After getting some hands on experie ... 
 
 The first week working with the FOSSbox was already quite the experience. I

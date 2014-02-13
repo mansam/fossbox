@@ -4,6 +4,8 @@ Slug: jtmengel-blog-message-v10
 Author: jtmengel
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/jtmengel/blog-message-v10.html
+save_as: articles/jtmengel/blog-message-v10.html
 Summary: My name's Scott JT Mengel, I'm a student at RIT enrolled in their Medical Informatics program and this project is my first studio setting game programming experience. Previously I've worked at the University of Rochester as a game programmer, making software for the treatment of amblyopia. Beyond that, I've gone to school at the Rocky Mountain School of Art and Design and RIT (for a time) for animation; my purpose in this project is to take my background with animation and programming and make t ... 
 
 My name's Scott JT Mengel, I'm a student at RIT enrolled in their Medical

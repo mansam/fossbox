@@ -4,6 +4,8 @@ Slug: thengrad-day-2
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/thengrad/day-2.html
+save_as: articles/thengrad/day-2.html
 Summary: Today was packing day for the FOSSBox. Everything in the FOSSBox is now packed and ready to be moved to it's new temporary location while the FOSSBox is being renovated. After that the Lemonade Stand team worked on organizing our ideas into what where the main things we were going to add this summer, what were things we would like to have added by the end of the summer, and things we would like to see added next time. After that we customized our irc settings. While we were doing this we found a ... 
 
 Today was packing day for the FOSSBox. Everything in the FOSSBox is now packed

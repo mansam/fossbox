@@ -4,6 +4,8 @@ Slug: ramstush-third-week-recap
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/third-week-recap.html
+save_as: articles/ramstush/third-week-recap.html
 Summary: This concludes our third week working with FOSS@RIT for our summer Co-op. It was a week of mostly planning and course laying for the rest of our summer. We exploited Github and it's wonderful ticket feature to add milestones and tickets for our goals. Since we now have our goals clearly outlined on Github, we can finally get to work on the purpose of our summer Co-op. These tickets are an open feature and I thoroughly encourage you all to create some of your own when to start working on a projec ... 
 
 This concludes our third week working with FOSS@RIT for our summer Co-op. It

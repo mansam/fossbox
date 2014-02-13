@@ -4,6 +4,8 @@ Slug: Zanarama-literature-review--the-meme-hustler
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/literature-review--the-meme-hustler.html
+save_as: articles/Zanarama/literature-review--the-meme-hustler.html
 Summary: **Who**   Evgney Morozov  **What**   The Meme Hustler - Tim O'Reilly's crazy Talk  **Where**   [http://hfoss-fossrit.rhcloud.com/static/books/evgenymorozov- thememehustl...](http://hfoss-fossrit.rhcloud.com/static/books/evgenymorozov- thememehustler.html)  [from The Baffler No. 22]  **When**   2013  **The Gist**  Evgney Morozov provides a (rather harsh) criticism of Tim O'Reilly's impact on the tech world through his published work and quotes. Morozov feels that O'Reilly manipulates the technolo ... 
 
 **Who**  

@@ -4,6 +4,8 @@ Slug: decause-happiness-is-a-warm-terminal
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/happiness-is-a-warm-terminal.html
+save_as: articles/decause/happiness-is-a-warm-terminal.html
 Summary: Things have been quite a blur since starting graduate studies in the fall.  Cycles are scarce.  Pressure is high.  The plate has been piled higher than ever.  My "happy place" has been elusive.  Sometimes, you just gotta write effing code. Being able to pip install any library under the sun and cobble together an app or script that just does what you want it to do is one of the best feelings in the world. Like an artist painting with every color of the python rainbow, or a carpenter with every t ... 
 
 Things have been quite a blur since starting graduate studies in the fall.

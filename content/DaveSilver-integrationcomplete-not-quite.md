@@ -4,6 +4,8 @@ Slug: DaveSilver-integrationcomplete-not-quite
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/DaveSilver/integrationcomplete-not-quite.html
+save_as: articles/DaveSilver/integrationcomplete-not-quite.html
 Summary: So it's been a while since I posted anything to this blog. I hope you guys haven't missed me too much. This week has been pretty eventful. The last three days Kevin and I have been working to integrate the animation stuff into the Game Engine that he and Jlew made. This was a large task but not a vastly challenging one. It was more about determining the exact process we would use and doing that for everything, than it was about figuring out a unique process for each situation.  It took some time ... 
 
 So it's been a while since I posted anything to this blog. I hope you guys

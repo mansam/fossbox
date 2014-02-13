@@ -4,6 +4,8 @@ Slug: tmr9209-week-5-day-1
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/tmr9209/week-5-day-1.html
+save_as: articles/tmr9209/week-5-day-1.html
 Summary: Today we started by narrowing down our setting choices. I thought our progress was interesting because we went from a standstill to quick progress. Basically, ideas kept getting thrown around that was making us go off topic and become unfocused. Eventually we decided to take a step back and remodel each of our topics, looking directly at the setting components. Once we did this our progression soared and we accomplished a lot. We now have three solid setting ideas, one of them at the forefront s ... 
 
 Today we started by narrowing down our setting choices. I thought our progress

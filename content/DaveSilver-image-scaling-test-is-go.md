@@ -4,6 +4,8 @@ Slug: DaveSilver-image-scaling-test-is-go
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/DaveSilver/image-scaling-test-is-go.html
+save_as: articles/DaveSilver/image-scaling-test-is-go.html
 Summary: So JT and I spent today making a new testing file that is specific to scalability testing. First we ditched JPGs, and 32 bit BMPs because they were having problems and were just overall not viable formats. Then we made versions of every remaining image format at 4 different resolutions, 1 set at the original resolution, 1 set at a resolution that was 2 times as large, 1 set at a resolution that was 4 times as large, and finally 1 set at a resolution that was 1.73 times as large so that if the fu ... 
 
 So JT and I spent today making a new testing file that is specific to

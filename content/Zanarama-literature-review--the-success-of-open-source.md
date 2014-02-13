@@ -4,6 +4,8 @@ Slug: Zanarama-literature-review--the-success-of-open-source
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/literature-review--the-success-of-open-source.html
+save_as: articles/Zanarama/literature-review--the-success-of-open-source.html
 Summary: So as a part of the HFOSS course we were assigned to read Chapter 3 of Steve Weber's 'The Success of Open Source'. This is just a brief rundown of the chapter and my thoughts.  Information  Author: Steve Weber  Title: The Success of Open Source, Ch. 3 What is Open Source and How Does it Work?  URL: [http://hfoss-fossrit.rhcloud.com/static/books/Weber- SuccessofOpenSource-...](http://hfoss-fossrit.rhcloud.com/static/books/Weber- SuccessofOpenSource-Chap3.pdf)  Publish Date: 2004  The Gist  This c ... 
 
 So as a part of the HFOSS course we were assigned to read Chapter 3 of Steve

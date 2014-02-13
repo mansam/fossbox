@@ -4,6 +4,8 @@ Slug: ramstush-the-grind-for-information
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/the-grind-for-information.html
+save_as: articles/ramstush/the-grind-for-information.html
 Summary: This previous Thursday, the Lemonade Stand team had quite a hard time at work. It was our job that day to research sugar XO laptops communicated with a school server, with regards to the Journal. The [Journal](http://wiki.laptop.org/go/Journal_Activity) is an activity that records a list of activities that have been accessed throughout time. Sort of like the history on a web browser. Students have an option of adding tags to these entries to show what they learned while using that particular act ... 
 
 This previous Thursday, the Lemonade Stand team had quite a hard time at work.

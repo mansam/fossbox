@@ -4,6 +4,8 @@ Slug: fortnight-day-17
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-17.html
+save_as: articles/fortnight/day-17.html
 Summary: # Workin' Hard or Hardly workin', eh MAC?  At the start of the day, I felt pretty positive. [Threebean](https://github.com/Ralphbean) was in the FOSSbox today, and I recalled our previous code diving experience. He told me that someone from ITS was worried about the routers and was a bit unsure as to why they were sending de-authenticating packets to someone network. I introduced myself to someone in the ##rc.rit channel and sent an email declaring that I was the victim/culprit of the network is ... 
 
 # Workin' Hard or Hardly workin', eh MAC?

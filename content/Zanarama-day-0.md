@@ -4,6 +4,8 @@ Slug: Zanarama-day-0
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/day-0.html
+save_as: articles/Zanarama/day-0.html
 Summary: Hi! My name is Suzanne Reed. I am a Computer Engineering student and have just finished my second year at RIT. This summer I am lucky enough to have an co-op with Red Hat at the RIT FossBOX working with Gource. With Gource, we hope to create a UI to simplify Gource for the average user and develop Gource videos to illustrate the overall impact of Red Hat in many projects.  I am really excited to get started and gain experience working on my first open source software project. My personal goal is ... 
 
 Hi! My name is Suzanne Reed. I am a Computer Engineering student and have just

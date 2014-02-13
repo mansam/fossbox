@@ -4,6 +4,8 @@ Slug: ramstush-git-and-research-trudging-all-wrapped-into-one
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/git-and-research-trudging-all-wrapped-into-one.html
+save_as: articles/ramstush/git-and-research-trudging-all-wrapped-into-one.html
 Summary: Last tuesday, the main achievement of the day was getting a GitHUB tutorial from one of our mentors. It was an extremely cool seminar where I believe everyone learn alot more than they thought was possible. Also, merging a text file from at least 7 people who were asked to change one line is a rather tedious task. I had the unfortunate pleasure of merging the same file at least 5 times....We were also linked to a [Git Resource Sheet](http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png). T ... 
 
 Last tuesday, the main achievement of the day was getting a GitHUB tutorial

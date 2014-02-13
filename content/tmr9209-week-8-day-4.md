@@ -4,6 +4,8 @@ Slug: tmr9209-week-8-day-4
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/tmr9209/week-8-day-4.html
+save_as: articles/tmr9209/week-8-day-4.html
 Summary: Today we finished working on the materials and came up with how many materials would be awarded for committing code. We also helped David in his character sheet by coming up with stats and skills that would go on the sheet and what FOSS data would determine them on the character sheet. To accomplish this, we had to find information on the top programming languages and understand the FOSS data that could be used.  Finally, we started the process of preparing for the play testing. We created sever ... 
 
 Today we finished working on the materials and came up with how many materials

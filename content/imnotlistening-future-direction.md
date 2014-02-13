@@ -4,6 +4,8 @@ Slug: imnotlistening-future-direction
 Author: imnotlistening
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/imnotlistening/future-direction.html
+save_as: articles/imnotlistening/future-direction.html
 Summary: # Whats Going On?  There have been more than a few attempts at making a Sugar compatible video chat application. As it stands right now there are at least 4 or 5 that work to varying degrees. Empathy is probably the most functional app that I am aware of, however, Empathy is not Sugarized (as far as I know). So after signing up for a bunch of different mailing lists and asking a bunch of questions here is what I have learned.   Build a Completely New Program  After talking to the development lo ... 
 
 # Whats Going On?

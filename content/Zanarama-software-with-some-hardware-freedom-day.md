@@ -4,6 +4,8 @@ Slug: Zanarama-software-with-some-hardware-freedom-day
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/software-with-some-hardware-freedom-day.html
+save_as: articles/Zanarama/software-with-some-hardware-freedom-day.html
 Summary: Saturday was [Software Freedom Day!](http://softwarefreedomday.org/) The weather was terrible but the day was awesome! We started off with a 'My first Kernal Hack' talk in which we actually edited the kernel to fix a simple bug. Unfortunately, I wasn't able to get the actual submission email to work so we never submitted the fix, but it was a nice start to kernel hacking. Plus Matthew Whitehead may be coming to RIT more as a mentor of sorts so I may have the opportunity to learn some more from h ... 
 
 Saturday was [Software Freedom Day!](http://softwarefreedomday.org/) The

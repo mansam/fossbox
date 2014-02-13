@@ -4,6 +4,8 @@ Slug: ramstush-sharpening-the-saw
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/sharpening-the-saw.html
+save_as: articles/ramstush/sharpening-the-saw.html
 Summary: We are having a short work week this time because of the national holiday of July 4th. We have a full FOSSbox of mentors, including some from Red Hat and a Mozilla rep. Its quite the place to be hacking atm. On Monday, I was still hacking on the Sash activity. This activity is going to be what the students use to view their badges that they earn. If anyone wants to contribute to this project, it's GitHub repo is located [Here](https://github.com/FOSSRIT/Sash). I've gotten Sash to the point where ... 
 
 We are having a short work week this time because of the national holiday of

@@ -4,6 +4,8 @@ Slug: ramstush-hello-world
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/hello-world.html
+save_as: articles/ramstush/hello-world.html
 Summary: My name is Ryan Stush and I am a rising senior at the Rochester Institute of Technology studying New Media Interactive Development. I recently took a FOSS class and was able to obtain a Co-Op with the RIT FOSS Box this summer. My team and I will be working on implementing the Mozilla Open Badges into the Sugar Labs XO laptops from their "One Laptop Per Child" program.  The first reason I wanted to do FOSS this summer is because I needed a Co-Op, however after I had completed the FOSS class in wh ... 
 
 My name is Ryan Stush and I am a rising senior at the Rochester Institute of

@@ -4,6 +4,8 @@ Slug: jtmengel-week-2-away-we-go
 Author: jtmengel
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/jtmengel/week-2-away-we-go.html
+save_as: articles/jtmengel/week-2-away-we-go.html
 Summary: Last week was a good run, resulting in a functional test application for animations under controlled processor loads which I fine-tuned over the weekend. We have been seeing BMPs come out ahead so far in terms of speedy load times, so we expect to be working on scalability with those and, if we can discover some way to implement them, SVGs as well. We'll see what the week had in store for us.  Also, this blog feels like the Real World or some other reality TV show that convinced me to ritualisti ... 
 
 Last week was a good run, resulting in a functional test application for

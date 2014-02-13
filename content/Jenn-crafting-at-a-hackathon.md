@@ -4,6 +4,8 @@ Slug: Jenn-crafting-at-a-hackathon
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Jenn/crafting-at-a-hackathon.html
+save_as: articles/Jenn/crafting-at-a-hackathon.html
 Summary: Hi all,  So there have been some pretty amazing things going on around here in Sky-Time land, way better than I would have ever dared to hope. We are talking with a school that is interested in using our game to teach time. They have made some good suggestions to improve our game before release. Ryan and Ian are currently working on merging their code, and will then jump on making those improvements. I have been working on the Sky-Time website. I’ll post the link here when that’s online.  In oth ... 
 
 Hi all,

@@ -4,6 +4,8 @@ Slug: ramstush-fosscouch-and-the-continuing-journey
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/fosscouch-and-the-continuing-journey.html
+save_as: articles/ramstush/fosscouch-and-the-continuing-journey.html
 Summary: Yesterday was a bittersweet day for everyone at the FOSSbox at RIT...We all had the solemn duty of packing away all materials and equipment in the box to be moved to a new temporary FOSSlab so Innovation Center renovations can commence. With all the help we had, the proceedings moved quickly and smoothly.  After a delicious lunch, the team sat down and tackled the task of dividing our list of features/tasks/needs/nices/wishes/ etc. We used the previous team's wiki page to start [Lemonade Stand W ... 
 
 Yesterday was a bittersweet day for everyone at the FOSSbox at RIT...We all

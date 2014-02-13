@@ -4,6 +4,8 @@ Slug: ramstush-week-four-recap
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/week-four-recap.html
+save_as: articles/ramstush/week-four-recap.html
 Summary: This week was another long haul on the road to research. My goal for the whole week was to figure out how to get our activity, Lemonade Stand, to create a journal entry. Since I did know anything regarding the journal, I spent the majority of the week learning how the OLPC journal worked and what I needed to change or implement into our activity that would make it work.  I started by using my most valuable resource, #sugar , and learned that the journal uses datastore to make its entries. [This  ... 
 
 This week was another long haul on the road to research. My goal for the whole

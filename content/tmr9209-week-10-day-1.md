@@ -4,6 +4,8 @@ Slug: tmr9209-week-10-day-1
 Author: tmr9209
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/tmr9209/week-10-day-1.html
+save_as: articles/tmr9209/week-10-day-1.html
 Summary: Today we continued the process of flushing out our presentation. Since we completed analyzing the play testing data on Friday, this was the only thing left to focus on. Although this is the last accomplishment we will complete before the Symposium, there was still a lot of work to be accomplished. We went through the presentation and flushed out several more slides. Finally, we practiced presenting and editing the presentation to get it down to the required 10 minutes to give time to David for t ... 
 
 Today we continued the process of flushing out our presentation. Since we

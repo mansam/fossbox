@@ -4,6 +4,8 @@ Slug: Zanarama-rocpy
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/rocpy.html
+save_as: articles/Zanarama/rocpy.html
 Summary: So Tuesday was [RocPy](http://www.rocpy.org/) and I have only just gotten around to blogging about it. It was the first time for most of the HFOSS class to go to RocPy and it was really neat to see so many people there! The talk was way over my head (and over the heads of most people there, I think!) I am always amazed just how much [Threebean (Ralph Bean)](http://threebean.org/) knows about Python!  He wasn't the speaker but he knew a lot about the talk, and even though he learned some he also  ... 
 
 So Tuesday was [RocPy](http://www.rocpy.org/) and I have only just gotten

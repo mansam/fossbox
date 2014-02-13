@@ -4,6 +4,8 @@ Slug: Zanarama-what-rocpy-happened-again
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/what-rocpy-happened-again.html
+save_as: articles/Zanarama/what-rocpy-happened-again.html
 Summary: Last Tuesday was RocPy so the FOSSBox + FOSSClass took a trip to U of R. I really enjoy going to RocPy because the people and the community are really cool, but I don't feel I am getting a lot out of RocPy recently.  The subject matter is way over my head, and I barely understand the first few minutes of the lecture, let alone the deeper Pythoning. I would really enjoy if RocPy split the meetings into multiple smaller talks with some being very introductory, some being midlevel skills, and some  ... 
 
 Last Tuesday was RocPy so the FOSSBox + FOSSClass took a trip to U of R. I

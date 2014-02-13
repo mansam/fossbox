@@ -4,6 +4,8 @@ Slug: DaveSilver-rotation-problems
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/DaveSilver/rotation-problems.html
+save_as: articles/DaveSilver/rotation-problems.html
 Summary: Today has been pretty successful but there has been one big issue. So basically I have been working on getting all of the basic functionality of our animated objects in place so testing can be run to make sure they work. I finished that up, started testing, and found a huge problem with the way I have been rotating images. So basically when an image is rotated by a number of degrees that is not divisible by 90, such as 10 or 15 or 45, you are creating an image that is not a square or a rectangle ... 
 
 Today has been pretty successful but there has been one big issue. So

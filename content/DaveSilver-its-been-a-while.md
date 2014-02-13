@@ -4,6 +4,8 @@ Slug: DaveSilver-its-been-a-while
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/DaveSilver/its-been-a-while.html
+save_as: articles/DaveSilver/its-been-a-while.html
 Summary: So here i am blogging away after almost a week without blogging at all. man I need to do this more often. Anyway so these past couple days we've been attending all of these special events here at RIT., The first was on Saturday and that was FOSSCON. We had a booth there and we basically just spent the day hanging out and manning the booth. We talked to some people from other universities and such and it was overall pretty cool. Then on Monday, NTID held a symposium on teaching to deaf and hard o ... 
 
 So here i am blogging away after almost a week without blogging at all. man I

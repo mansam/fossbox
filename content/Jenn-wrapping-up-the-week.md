@@ -4,6 +4,8 @@ Slug: Jenn-wrapping-up-the-week
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Jenn/wrapping-up-the-week.html
+save_as: articles/Jenn/wrapping-up-the-week.html
 Summary: Today was no artwork, and a lot of preparation Washington DC. Running around, picking things up, and discussing printing… nothing too exciting to show. SJ has the very interesting idea that we should give Obama a few copies of our Hagaddah since he is the first president to celebrate Passover in the White House.  Next week I plan to be super productive, including getting the printing process started for the stickers for the labs new bike, more badges and assets for lemonade stand. I’ll also be p ... 
 
 Today was no artwork, and a lot of preparation Washington DC. Running around,

@@ -4,6 +4,8 @@ Slug: wacker-new-ui-submitted
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/wacker/new-ui-submitted.html
+save_as: articles/wacker/new-ui-submitted.html
 Summary: I finished all of the finishing touches to the first version of the new UI including a menu screen, difficulty screen, a tutorial of a short slide of images, and the challenge mode which caps the playing time after summer is over. For now, we defined summer as 90 days and after that the user will be taken back to the main menu to play again if they please.  I spent more of the morning typing up descriptions for each tutorial screen hoping that I was descriptive enough so that after children go t ... 
 
 I finished all of the finishing touches to the first version of the new UI

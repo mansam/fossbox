@@ -4,6 +4,8 @@ Slug: Qalthos-civx-stuff
 Author: Qalthos
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Qalthos/civx-stuff.html
+save_as: articles/Qalthos/civx-stuff.html
 Summary: So I've been spending some time finally getting some time to familiarize myself with CIVX and all the parts that make up the system. I'm almost comfortable with how the whole thing works together, though I'm not entirely clear on how some things work to finally get to the screen.  Still, I got things running, both the current CIVX build and Kayeight's widget, though getting the two together is harder than it seems like it should be. On the other hand, I tweaked the GettingStarted page of the CIV ... 
 
 So I've been spending some time finally getting some time to familiarize

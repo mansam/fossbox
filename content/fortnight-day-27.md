@@ -4,6 +4,8 @@ Slug: fortnight-day-27
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-27.html
+save_as: articles/fortnight/day-27.html
 Summary: # Breakthroughs and Revelations  Day two of [El Puesto de Limonada](http://www.plazasesamo.com/documents/plaza- sesamo/Sesame%20Images/400x300_PlazaGames_Thumb_Limonada/400x300_PlazaGames_Th umb_Limonada.jpg/Original/400x300_PlazaGames_Thumb_Limonada.jpg)(pic related).  Previously on Fortnight's FOSS...  -> The internet gave me this   -> [Qalthos](http://github.com/Qalthos) explained the part about genpot and that I had to translate [this file, Lemonade.pot.](http://paste.fedoraproject.org/23281 ... 
 
 # Breakthroughs and Revelations

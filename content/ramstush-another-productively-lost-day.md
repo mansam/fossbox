@@ -4,6 +4,8 @@ Slug: ramstush-another-productively-lost-day
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/another-productively-lost-day.html
+save_as: articles/ramstush/another-productively-lost-day.html
 Summary: Last Friday was our first real "Work From Home Friday". I woke up that morning with confidence in finding the way the OLPC journal talks to each activity and vice versa. Unfortunately, it wasn't meant to be. I spent the greater part of the day unsuccessfully pinging Google and the interwebz for some information on this ticket of mine. Having another day where I felt like I made no progress whatsoever isn't very encouraging....As a last ditch effort, I pinged sugar in IRC hoping that they would  ... 
 
 Last Friday was our first real "Work From Home Friday". I woke up that morning

@@ -4,6 +4,8 @@ Slug: Blitzkev-week-4-day-4-thursday-july-1st
 Author: Blitzkev
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Blitzkev/week-4-day-4-thursday-july-1st.html
+save_as: articles/Blitzkev/week-4-day-4-thursday-july-1st.html
 Summary: The first thing I did today was make my code more pep-8 compliant by changing over global variables to local variables wherever present and making use of lists. All images are now converted to an easy to manipulate format for easier future rendering. After I got the correct reference glyph showing, and modified magic menu to have access to the list of which spell glyphs the player has got correct so far. Next is getting these to show up in the correct spots, and making the right functions match  ... 
 
 The first thing I did today was make my code more pep-8 compliant by changing

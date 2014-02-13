@@ -4,6 +4,8 @@ Slug: Zanarama-redirecting-the-plan
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/redirecting-the-plan.html
+save_as: articles/Zanarama/redirecting-the-plan.html
 Summary: This week started off a little bumpy with a power outage that lasted a few hours and then a freak thunder/hail storm on Monday. On Wednesday the boat (a server the FOSSBox uses) went down Wednesday, slowing down everything and taking down FossBot. Finally, after a series of issues with Glade, we have shelved the GUI for now and have decided to instead work on producing some quality videos to send to Red Hat.  As a part of these videos I want to highlight the work of Red Hat employees by making t ... 
 
 This week started off a little bumpy with a power outage that lasted a few

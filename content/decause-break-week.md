@@ -4,6 +4,8 @@ Slug: decause-break-week
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/break-week.html
+save_as: articles/decause/break-week.html
 Summary: Right before winter break began, we decided to go out with a bang. We hosted a hackathon for the [STEM Video Game Challenge](http://stemchallenge.org). We had about 2 dozen attendees over the course of the evening, and had about 3 prototype and concept projects go into development by the end.  I don't want to steal my own thunder, as I will be contributing a blog post for the STEMChallenge.org blog describing the event in detail, but it is still worth mentioning. Thanks everyone who could make i ... 
 
 Right before winter break began, we decided to go out with a bang. We hosted a

@@ -4,6 +4,8 @@ Slug: decause-night-of-the-living-election
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/night-of-the-living-election.html
+save_as: articles/decause/night-of-the-living-election.html
 Summary: ![](http://farm2.static.flickr.com/1386/5143595646_9e4e56f556.jpg)  Typically, politics on your average college campus looks alot like a Mock Debate where the Blues, Reds, and Greens all get up on stage and trash-talk eachothers' candidates like Mike Tyson at weigh-ins before stepping into Madison Square Garden.  Election night here in the innovation center was not your typical college politics event. The atmosphere looked more like NASA mission control and CSPAN had a 40 foot wide HD love child ... 
 
 ![](http://farm2.static.flickr.com/1386/5143595646_9e4e56f556.jpg)

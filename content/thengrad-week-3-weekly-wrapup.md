@@ -4,6 +4,8 @@ Slug: thengrad-week-3-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/thengrad/week-3-weekly-wrapup.html
+save_as: articles/thengrad/week-3-weekly-wrapup.html
 Summary: It is now the end of the third week of this summer research program. Team Lemonade Stand is now ready to start working on our different assignments in parallel. This week we had finished deciding on what our different tickets are going to be and what the milestones for them are going to be. We then split up the tickets for the first milestone between each of us. The ticket I got for this milestone happens to overlap with DAWacker’s milestone and the work he had been doing for the last few weeks. ... 
 
 It is now the end of the third week of this summer research program. Team

@@ -4,6 +4,8 @@ Slug: jtmengel-tales-of-thors-day
 Author: jtmengel
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/jtmengel/tales-of-thors-day.html
+save_as: articles/jtmengel/tales-of-thors-day.html
 Summary: Alright, time for the Thor's Day Blog, also know as Thursday by some nations that don't recognize the day's pagan origins. Ahem, but anyways, today was a day of killing off the tests we started yesterday on using classes, inheriting sprite, in conjunction with dirty lists.  In case I'm not making sense, we finished the tests to confirm that we could effectively speed things up by doing A) storing all the relevant information pertaining to the image for easy access B) allowing us to intelligently ... 
 
 Alright, time for the Thor's Day Blog, also know as Thursday by some nations

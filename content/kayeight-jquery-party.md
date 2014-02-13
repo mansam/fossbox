@@ -4,6 +4,8 @@ Slug: kayeight-jquery-party
 Author: kayeight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/kayeight/jquery-party.html
+save_as: articles/kayeight/jquery-party.html
 Summary: I found some pretty cool jQuery calendar widgets that would work better than the rather ugly calendar [already in place on the New York Senate page](http:/ /www.nysenate.gov/calendar?senator=All&type=All&committee=All&initiative=All).  First is a continuous calendar   ... 
 
 I found some pretty cool jQuery calendar widgets that would work better than

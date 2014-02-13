@@ -4,6 +4,8 @@ Slug: decause-mit-and-harvard-annouce-edx
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/mit-and-harvard-annouce-edx.html
+save_as: articles/decause/mit-and-harvard-annouce-edx.html
 Summary: [Video streaming by Ustream](http://www.ustream.tv/)  [Massachusetts Institute of Technology](http://mit.edu) and [Harvard](http://harvard.edu) held a press conference May 2nd to announce [edX](http://www.edxonline.org/). edX is "a joint partnership to offer online learning to millions of people around the world. EdX will offer Harvard and MIT classes online **for free**. Through this partnership, the institutions aim to extend their collective reach to build a global community of online learner ... 
 
 [Video streaming by Ustream](http://www.ustream.tv/)

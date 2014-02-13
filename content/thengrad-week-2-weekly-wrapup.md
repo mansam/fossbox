@@ -4,6 +4,8 @@ Slug: thengrad-week-2-weekly-wrapup
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/thengrad/week-2-weekly-wrapup.html
+save_as: articles/thengrad/week-2-weekly-wrapup.html
 Summary: It is now the end of the second week. I’m tired of having to constantly deal with these technical problems. They are seriously becoming a problem. Hopefully I’ve seen the end of them or else I’ll be nothing but dead weight to team Lemonade Stand. This week team Lemonade Stand was working on planning out the project for the summer. We have an idea about what we want to do. The problem, though, is that to do the open badges there was a lot that we had to learn about the school servers and how the  ... 
 
 It is now the end of the second week. I’m tired of having to constantly deal

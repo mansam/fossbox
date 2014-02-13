@@ -4,6 +4,8 @@ Slug: decause-let-rochester-codeforamerica
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/let-rochester-codeforamerica.html
+save_as: articles/decause/let-rochester-codeforamerica.html
 Summary: In our campaign, we do as much as we can with whatever we are afforded, and then give all the code away for Free regardless. Affording sponsorship to developers, and opening those kind of positive feedback loops, is a vision too few share.  From one campaign built upon code and coders to another, I would like to apply not for your [fellowship](http://codeforamerica.org/apply), but for Rochester to be included in your list of available cities. We want to run this campaign --or one very much like  ... 
 
 In our campaign, we do as much as we can with whatever we are afforded, and

@@ -4,6 +4,8 @@ Slug: fortnight-day-15
 Author: fortnight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/fortnight/day-15.html
+save_as: articles/fortnight/day-15.html
 Summary: # More School Server Stupidity  Hai! Today I started the McNair scholars program, and now have to run off to a class every monday and wednesday from 1:00 to 3:00 this summer. It's a refreshing change of pace, but I feel like I'm missing out on glorious FOSSbox time. I'll just have to make the most of the time that I do spend there from now on. I will no longer play lemonade stand during my breaks! After all, I already have a screenshot of [$1,000,000,000,000+](http://www.elsolet.net/wp- content/ ... 
 
 # More School Server Stupidity

@@ -4,6 +4,8 @@ Slug: decause-foss-seminar
 Author: decause
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/decause/foss-seminar.html
+save_as: articles/decause/foss-seminar.html
 Summary: I am more than excited to be taking the FOSS projects Seminar course here at RIT. This class is shaping up to be all the things they didn't teach you in school that you need to know when you enter into the world of FOSS.  # Syllabus  [The RIT Seminar in FOSS Course](http://readthedocs.org/docs/ritfloss/en/latest/)  It is quite a switch in context for me, but really not. I have always considered my students as colleagues, and now we're playing on the same field and being evaluated under the same ... 
 
 I am more than excited to be taking the FOSS projects Seminar course here at

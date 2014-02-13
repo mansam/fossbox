@@ -4,6 +4,8 @@ Slug: Jenn-skytime-vs-the-internet
 Author: Jenn
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Jenn/skytime-vs-the-internet.html
+save_as: articles/Jenn/skytime-vs-the-internet.html
 Summary: Howdy,  Today I laid out some pages that I plan to print out for the White House. (Once approved by the important people :D)  I also emailed with Mizmo the badges I have created for Fedora. I think a lot of them will be put in place before FLOCK, and many will be awarded by then. I will have finish up the last two 10 Bulls badges to complete the set.  I found this news clip abut SkyTime:  [http://www.youtube.com/watch?v=Us30Q5aHT7U&feature=share&list=UUvsAa96Ez...]( http://www.youtube.com/watch? ... 
 
 Howdy,

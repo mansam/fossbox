@@ -4,6 +4,8 @@ Slug: wacker-reputation-and-locations
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/wacker/reputation-and-locations.html
+save_as: articles/wacker/reputation-and-locations.html
 Summary: While waiting for some images to start loading in different item sets, like hamburger and ice cream stand, I have decided to beginning implementing reputation and locations.  Reputation helps influence the amount of cups of lemonade that you can sell during a day. The algorithm before said that if it was a cloudy day, you would sell 60% of the max amount of cups you can sell and if it was a hot day you would sell out. This has to do with balancing the game because this allowed players to rack up ... 
 
 While waiting for some images to start loading in different item sets, like

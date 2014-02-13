@@ -4,6 +4,8 @@ Slug: imnotlistening-libtelepathy-on-the-xo
 Author: imnotlistening
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/imnotlistening/libtelepathy-on-the-xo.html
+save_as: articles/imnotlistening/libtelepathy-on-the-xo.html
 Summary: ## Telepathy-glib  To make life easier I am going to use lib telepathy for dealing with the separate chat protocols and features and what not. Libtelepathy greatly reduces the effort required for developing a full featured communication program, e.g: IM, VoIP, and video chat/conferencing. Many major applications these days are now using it as a back end. The XO file system does have a telepathy package in the yum repositories, however it is not the latest and greatest. There has been lots of rec ... 
 
 ## Telepathy-glib

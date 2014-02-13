@@ -4,6 +4,8 @@ Slug: ramstush-redebrief-internet-connectivity-issues
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/redebrief-internet-connectivity-issues.html
+save_as: articles/ramstush/redebrief-internet-connectivity-issues.html
 Summary: This blog post is meant to supplement my inability to attend debrief yesterday (Thursday June 28th) due to me being unable to connect to an internet connection.  Old Buisness  ACTION: brush ask for some badges to test with  nope  ACTION: brush make some circles with new inkscape skills to play with  done  ACTION: brush get Sash onto the xo  nope  ACTION: brush ping #sugar about saving whole files into DSObject  pinged, no response, found how to link the files correctly on my own.  ACTION: brush ... 
 
 This blog post is meant to supplement my inability to attend debrief yesterday

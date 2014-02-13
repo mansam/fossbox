@@ -4,6 +4,8 @@ Slug: ramstush-week-5-uphill-battle
 Author: ramstush
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/ramstush/week-5-uphill-battle.html
+save_as: articles/ramstush/week-5-uphill-battle.html
 Summary: Datastore:  Not much to report this week, as I can only make so many posts about the sugar datastore and it's lack of documentation or information for that matter. After a week of pinging the IRC room #sugar, I have only found one page of reference to learn how to use this particular datastore (you can find this page [ here ](http://wiki.laptop.org/go/Sugar.datastore.datastore)). Needless to say, this is rather frustrating and I can only figure it out as I try to work with it in the actual activ ... 
 
 Datastore:

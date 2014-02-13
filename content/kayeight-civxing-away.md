@@ -4,6 +4,8 @@ Slug: kayeight-civxing-away
 Author: kayeight
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/kayeight/civxing-away.html
+save_as: articles/kayeight/civxing-away.html
 Summary: Lately we have been trying to both put a swanky new theme on the CIVX website as well as wrap up the person dashboard. While Rebecca has been doing an amazing job on the former, I have been working on the latter. I ran into a few snags earlier last week when I experienced the results of not pulling from the repository often enough (note to self: don't do that again) and had problems merging my code with the large amount that had been committed since I last pulled.  With that lesson learned, I go ... 
 
 Lately we have been trying to both put a swanky new theme on the CIVX website

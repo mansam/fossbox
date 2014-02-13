@@ -4,6 +4,8 @@ Slug: Zanarama-pillars-versus-principles
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/pillars-versus-principles.html
+save_as: articles/Zanarama/pillars-versus-principles.html
 Summary: Today in class we had a brief quiz on [Weber's Eight Principles](http://hfoss- fossrit.rhcloud.com/static/books/Weber-SuccessofOpenSource-Chap3.pdf) and the [Five Pillars of Open Source](http://opensource.com/open-source-way). Here is my quiz:  What are the titles of each Pillar?  Open exchange  Participation  Rapid prototyping  Meritocracy  Community  What are the titles of each General Principle?  Make it interesting and make sure it happens  Scratch an itch  Minimize how many times you have t ... 
 
 Today in class we had a brief quiz on [Weber's Eight Principles](http://hfoss-

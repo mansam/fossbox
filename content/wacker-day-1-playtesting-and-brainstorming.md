@@ -4,6 +4,8 @@ Slug: wacker-day-1-playtesting-and-brainstorming
 Author: wacker
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/wacker/day-1-playtesting-and-brainstorming.html
+save_as: articles/wacker/day-1-playtesting-and-brainstorming.html
 Summary: After setting up Fedora on my laptop and completely throwing away Windows, I have installed Sugar as well as Lemonade Stand, the game I will be working on for the remainder of my time this summer!  This was very exciting to finally get some hands on interaction with the game and see how it plays out. I went through and playtested the game for a hour writing down ideas, thoughts, or any comments about the game that could potentially be improved or implemented. Ideas that came to mind were being a ... 
 
 After setting up Fedora on my laptop and completely throwing away Windows, I

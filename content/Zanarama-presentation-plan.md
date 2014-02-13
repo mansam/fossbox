@@ -4,6 +4,8 @@ Slug: Zanarama-presentation-plan
 Author: Zanarama
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/Zanarama/presentation-plan.html
+save_as: articles/Zanarama/presentation-plan.html
 Summary: Our group was unable to attend the PlayTesting session because we all had class. However, this is just as well because our project isn't something that would be very fun for kids to play, especially 4th graders. Our target is closer to Kindergarten students who are learning about weather. Right now, you can just enter the weather, and possibly log it.  [Our presentation](https://docs.google.com/a/g.rit.edu/presentation/d/1cHYouvN lDTrJ8BkXhyrfwBDlABlG_TQUa0EnLZG0U9I/edit#slide=id.g25e89f3e6_011) ... 
 
 Our group was unable to attend the PlayTesting session because we all had

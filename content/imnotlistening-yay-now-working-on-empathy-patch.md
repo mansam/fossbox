@@ -4,6 +4,8 @@ Slug: imnotlistening-yay-now-working-on-empathy-patch
 Author: imnotlistening
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/imnotlistening/yay-now-working-on-empathy-patch.html
+save_as: articles/imnotlistening/yay-now-working-on-empathy-patch.html
 Summary: # A patch for Empathy  Its been a while since I have had time to post a blog entry with any real substance - Mid terms and projects can be brutal on your time. But that's essentially over now so I thought I would describe my current set up for playing with sugar and Empathy. Obviously development of software on an XO would be quite painful. The developers over at Sugar Labs were awesome enough to make Sugar run on essentially any Linux platform with X. So, now that [VM](http://foss.rit.edu/node/ ... 
 
 # A patch for Empathy

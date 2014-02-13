@@ -4,6 +4,8 @@ Slug: thengrad-day-8
 Author: thengrad
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/thengrad/day-8.html
+save_as: articles/thengrad/day-8.html
 Summary: I got my machine fixed for now. There is something loose within in that causes the screen not to work from time to time. Then team Lemonade Stand spent the day learning vim and trying to name the unknowns that we need to tackle in order to get the Open Badges to work using the XS school servers.   ... 
 
 I got my machine fixed for now. There is something loose within in that causes

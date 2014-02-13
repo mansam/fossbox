@@ -4,6 +4,8 @@ Slug: DaveSilver-moving-on
 Author: DaveSilver
 Tags: legacy, foss@rit
 Category: legacy
+URL: articles/DaveSilver/moving-on.html
+save_as: articles/DaveSilver/moving-on.html
 Summary: So as I said with previous entries, JT is working on making an all encompassing test for file types. Essentially the test will allow us to run all of our previous tests from one executable file. While he does that, I am moving on to trying to create a test that will allow us to test various different animation styles. What I mean by this, is we will be comparing having each frame as a separate image, multiple different types of sprite sheets, etc. Our goal is to know not only which image format  ... 
 
 So as I said with previous entries, JT is working on making an all
